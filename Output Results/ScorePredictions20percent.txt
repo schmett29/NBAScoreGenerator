@@ -1,0 +1,3146 @@
+K: 79
+Error: -0.167922342455
+team 1 would win this game with a predicted score of: 112.936708861 - 100.063291139
+
+Actual result: 107 - 95
+
+Error: -0.235953919529
+team 1 would win this game with a predicted score of: 118.126582278 - 102.202531646
+
+Actual result: 131 - 97
+
+Error: -0.297589430352
+team 1 would win this game with a predicted score of: 122.17721519 - 111.430379747
+
+Actual result: 132 - 124
+
+Error: -0.109865893493
+team 1 would win this game with a predicted score of: 106.696202532 - 95.9113924051
+
+Actual result: 94 - 92
+
+Error: -0.144788505517
+team 1 would win this game with a predicted score of: 100.278481013 - 89.7341772152
+
+Actual result: 96 - 84
+
+Error: -0.0611537746235
+team 1 would win this game with a predicted score of: 122.265822785 - 112.379746835
+
+Actual result: 133 - 118
+
+Error: -0.150895676204
+team 1 would win this game with a predicted score of: 128.037974684 - 115.455696203
+
+Actual result: 136 - 130
+
+Error: -0.0894519223669
+team 1 would win this game with a predicted score of: 105.379746835 - 97.8227848101
+
+Actual result: 100 - 97
+
+Error: -0.039671154767
+team 1 would win this game with a predicted score of: 113.759493671 - 101.037974684
+
+Actual result: 117 - 96
+
+Error: -0.0304975589685
+team 1 would win this game with a predicted score of: 117.734177215 - 107.607594937
+
+Actual result: 116 - 109
+
+Error: -0.182255499152
+team 1 would win this game with a predicted score of: 119.848101266 - 105.139240506
+
+Actual result: 129 - 112
+
+Error: -0.264850195587
+team 1 would win this game with a predicted score of: 113.341772152 - 103.670886076
+
+Actual result: 115 - 108
+
+Error: -0.287517307329
+team 1 would win this game with a predicted score of: 107.708860759 - 95.0759493671
+
+Actual result: 106 - 94
+
+Error: -0.275564694429
+team 1 would win this game with a predicted score of: 118.0 - 103.430379747
+
+Actual result: 120 - 103
+
+Error: -0.0186710632016
+team 1 would win this game with a predicted score of: 107.379746835 - 99.6582278481
+
+Actual result: 113 - 111
+
+Error: -0.185267124678
+team 1 would win this game with a predicted score of: 114.506329114 - 103.582278481
+
+Actual result: 115 - 108
+
+Error: 0.00297422335768
+team 2 would win this game with a predicted score of: 119.037974684 - 108.291139241
+
+Actual result: 122 - 117
+
+Error: -0.263967148929
+team 1 would win this game with a predicted score of: 123.164556962 - 111.037974684
+
+Actual result: 126 - 117
+
+Error: 0.0424872722115
+team 2 would win this game with a predicted score of: 109.493670886 - 102.113924051
+
+Actual result: 108 - 105
+
+Error: -0.106129581784
+team 1 would win this game with a predicted score of: 108.430379747 - 99.253164557
+
+Actual result: 110 - 98
+
+Error: 0.0762111841348
+team 2 would win this game with a predicted score of: 119.392405063 - 110.759493671
+
+Actual result: 127 - 121
+
+Error: -0.0475607529702
+team 1 would win this game with a predicted score of: 118.202531646 - 108.367088608
+
+Actual result: 113 - 111
+
+Error: -0.324007279762
+team 1 would win this game with a predicted score of: 119.278481013 - 109.126582278
+
+Actual result: 127 - 117
+
+Error: -0.0379723616464
+team 1 would win this game with a predicted score of: 115.987341772 - 107.113924051
+
+Actual result: 114 - 112
+
+Error: -0.427135459129
+team 1 would win this game with a predicted score of: 120.075949367 - 106.594936709
+
+Actual result: 122 - 112
+
+Error: 0.00696423906373
+team 2 would win this game with a predicted score of: 109.101265823 - 101.392405063
+
+Actual result: 103 - 99
+
+Error: -0.181040410029
+team 1 would win this game with a predicted score of: 120.037974684 - 104.936708861
+
+Actual result: 119 - 106
+
+Error: -0.0597487199696
+team 1 would win this game with a predicted score of: 123.303797468 - 112.291139241
+
+Actual result: 131 - 123
+
+Error: -0.277126951172
+team 1 would win this game with a predicted score of: 111.367088608 - 100.632911392
+
+Actual result: 105 - 96
+
+Error: -0.222672566429
+team 1 would win this game with a predicted score of: 121.860759494 - 109.683544304
+
+Actual result: 123 - 107
+
+Error: -0.295738262894
+team 1 would win this game with a predicted score of: 117.316455696 - 102.291139241
+
+Actual result: 122 - 99
+
+Error: -0.199524270407
+team 1 would win this game with a predicted score of: 117.708860759 - 106.379746835
+
+Actual result: 123 - 114
+
+Error: -0.132998837443
+team 1 would win this game with a predicted score of: 108.974683544 - 97.3670886076
+
+Actual result: 111 - 91
+
+Error: -0.207658051314
+team 1 would win this game with a predicted score of: 110.746835443 - 99.253164557
+
+Actual result: 108 - 101
+
+Error: 0.168837665582
+team 2 would win this game with a predicted score of: 94.0 - 83.5443037975
+
+Actual result: 85 - 84
+
+Error: -0.230390187904
+team 1 would win this game with a predicted score of: 110.860759494 - 101.392405063
+
+Actual result: 109 - 108
+
+Error: -0.369617319371
+team 1 would win this game with a predicted score of: 119.936708861 - 105.303797468
+
+Actual result: 126 - 98
+
+Error: -0.322721089105
+team 1 would win this game with a predicted score of: 123.379746835 - 111.518987342
+
+Actual result: 130 - 117
+
+Error: -0.365557134272
+team 1 would win this game with a predicted score of: 109.696202532 - 95.7088607595
+
+Actual result: 110 - 92
+
+Error: 0.163847943483
+team 2 would win this game with a predicted score of: 111.367088608 - 100.746835443
+
+Actual result: 110 - 101
+
+Error: -0.176360454981
+team 1 would win this game with a predicted score of: 124.974683544 - 108.784810127
+
+Actual result: 126 - 117
+
+Error: -0.233952366694
+team 1 would win this game with a predicted score of: 100.493670886 - 91.582278481
+
+Actual result: 94 - 93
+
+Error: -0.175595625392
+team 1 would win this game with a predicted score of: 114.278481013 - 102.582278481
+
+Actual result: 113 - 94
+
+Error: -0.124051102573
+team 1 would win this game with a predicted score of: 119.582278481 - 106.696202532
+
+Actual result: 124 - 113
+
+Error: -0.438632160838
+team 1 would win this game with a predicted score of: 113.0 - 96.9240506329
+
+Actual result: 116 - 85
+
+Error: -0.153908093803
+team 1 would win this game with a predicted score of: 111.151898734 - 100.974683544
+
+Actual result: 106 - 92
+
+Error: -0.191844888706
+team 1 would win this game with a predicted score of: 105.341772152 - 95.3291139241
+
+Actual result: 102 - 93
+
+Error: -0.072798498139
+team 1 would win this game with a predicted score of: 105.17721519 - 97.3797468354
+
+Actual result: 110 - 109
+
+Error: -0.0923660433046
+team 1 would win this game with a predicted score of: 110.594936709 - 101.632911392
+
+Actual result: 103 - 98
+
+Error: -0.562575449812
+team 1 would win this game with a predicted score of: 117.050632911 - 101.924050633
+
+Actual result: 132 - 102
+
+Error: -0.127974074097
+team 1 would win this game with a predicted score of: 111.949367089 - 99.7341772152
+
+Actual result: 106 - 100
+
+Error: -0.025412382846
+team 1 would win this game with a predicted score of: 109.696202532 - 101.64556962
+
+Actual result: 109 - 105
+
+Error: -0.139182173161
+team 1 would win this game with a predicted score of: 105.189873418 - 95.8734177215
+
+Actual result: 108 - 95
+
+Error: 0.0412142495197
+team 2 would win this game with a predicted score of: 117.303797468 - 108.316455696
+
+Actual result: 117 - 110
+
+Error: -0.196914921804
+team 1 would win this game with a predicted score of: 97.9746835443 - 89.4050632911
+
+Actual result: 94 - 89
+
+Error: -0.109808489165
+team 1 would win this game with a predicted score of: 113.075949367 - 104.810126582
+
+Actual result: 118 - 103
+
+Error: -0.213594198591
+team 1 would win this game with a predicted score of: 117.063291139 - 105.101265823
+
+Actual result: 120 - 105
+
+Error: -0.121435458741
+team 1 would win this game with a predicted score of: 113.658227848 - 102.341772152
+
+Actual result: 117 - 103
+
+Error: -0.290168063068
+team 1 would win this game with a predicted score of: 112.227848101 - 96.8481012658
+
+Actual result: 117 - 93
+
+Error: -0.0595082914878
+team 1 would win this game with a predicted score of: 122.962025316 - 114.164556962
+
+Actual result: 129 - 127
+
+Error: -0.257629437208
+team 1 would win this game with a predicted score of: 115.050632911 - 98.5443037975
+
+Actual result: 111 - 94
+
+Error: -0.209379655215
+team 1 would win this game with a predicted score of: 111.620253165 - 101.037974684
+
+Actual result: 116 - 103
+
+Error: -0.0187483615256
+team 1 would win this game with a predicted score of: 114.35443038 - 103.392405063
+
+Actual result: 113 - 111
+
+Error: -0.129455844852
+team 1 would win this game with a predicted score of: 124.240506329 - 114.708860759
+
+Actual result: 128 - 123
+
+Error: -0.437424329144
+team 1 would win this game with a predicted score of: 116.291139241 - 102.455696203
+
+Actual result: 123 - 104
+
+Error: -0.394365549871
+team 1 would win this game with a predicted score of: 121.708860759 - 104.215189873
+
+Actual result: 129 - 105
+
+Error: -0.120808558603
+team 1 would win this game with a predicted score of: 114.734177215 - 98.9367088608
+
+Actual result: 120 - 106
+
+Error: -0.353449305516
+team 1 would win this game with a predicted score of: 112.012658228 - 99.5443037975
+
+Actual result: 121 - 103
+
+Error: -0.265447413994
+team 1 would win this game with a predicted score of: 98.0253164557 - 89.1265822785
+
+Actual result: 92 - 88
+
+Error: -0.287859577084
+team 1 would win this game with a predicted score of: 111.126582278 - 100.012658228
+
+Actual result: 111 - 98
+
+Error: -0.12846954012
+team 1 would win this game with a predicted score of: 119.341772152 - 108.64556962
+
+Actual result: 117 - 112
+
+Error: -0.147510935741
+team 1 would win this game with a predicted score of: 107.481012658 - 99.8987341772
+
+Actual result: 108 - 99
+
+Error: -0.0933770553277
+team 1 would win this game with a predicted score of: 126.240506329 - 114.898734177
+
+Actual result: 143 - 138
+
+Error: -0.422402098896
+team 1 would win this game with a predicted score of: 118.860759494 - 107.35443038
+
+Actual result: 118 - 108
+
+Error: -0.264105766899
+team 1 would win this game with a predicted score of: 105.544303797 - 96.2784810127
+
+Actual result: 105 - 99
+
+Error: -0.408690327707
+team 1 would win this game with a predicted score of: 111.569620253 - 97.7341772152
+
+Actual result: 114 - 91
+
+Error: 0.0382989312473
+team 2 would win this game with a predicted score of: 115.379746835 - 104.012658228
+
+Actual result: 127 - 118
+
+Error: -0.123367327318
+team 1 would win this game with a predicted score of: 109.987341772 - 101.151898734
+
+Actual result: 107 - 105
+
+Error: -0.249002929431
+team 1 would win this game with a predicted score of: 108.607594937 - 96.6582278481
+
+Actual result: 105 - 91
+
+Error: -0.246150037824
+team 1 would win this game with a predicted score of: 117.835443038 - 108.189873418
+
+Actual result: 118 - 115
+
+Error: -0.170814810751
+team 1 would win this game with a predicted score of: 118.063291139 - 109.17721519
+
+Actual result: 120 - 110
+
+Error: -0.243797494092
+team 1 would win this game with a predicted score of: 116.253164557 - 104.164556962
+
+Actual result: 126 - 120
+
+Error: -0.216091269649
+team 1 would win this game with a predicted score of: 103.810126582 - 93.3037974684
+
+Actual result: 106 - 94
+
+Error: -0.171703280456
+team 1 would win this game with a predicted score of: 114.253164557 - 105.405063291
+
+Actual result: 112 - 103
+
+Error: -0.18575767221
+team 1 would win this game with a predicted score of: 109.544303797 - 99.2784810127
+
+Actual result: 106 - 100
+
+Error: 0.120133091687
+team 2 would win this game with a predicted score of: 121.911392405 - 112.493670886
+
+Actual result: 125 - 121
+
+Error: -0.03651338444
+team 1 would win this game with a predicted score of: 103.35443038 - 93.1518987342
+
+Actual result: 96 - 94
+
+Error: -0.199369394243
+team 1 would win this game with a predicted score of: 112.075949367 - 101.012658228
+
+Actual result: 119 - 110
+
+Error: -0.0705529480246
+team 1 would win this game with a predicted score of: 118.037974684 - 107.873417722
+
+Actual result: 118 - 111
+
+Error: -0.2200528047
+team 1 would win this game with a predicted score of: 113.64556962 - 101.784810127
+
+Actual result: 110 - 104
+
+Error: -0.0786214870035
+team 1 would win this game with a predicted score of: 101.556962025 - 93.8860759494
+
+Actual result: 99 - 94
+
+Error: -0.443294718727
+team 1 would win this game with a predicted score of: 119.075949367 - 101.797468354
+
+Actual result: 130 - 99
+
+Error: -0.181031483878
+team 1 would win this game with a predicted score of: 107.734177215 - 96.5189873418
+
+Actual result: 109 - 101
+
+Error: -0.27897662572
+team 1 would win this game with a predicted score of: 108.367088608 - 98.6962025316
+
+Actual result: 118 - 108
+
+Error: -0.100219501905
+team 1 would win this game with a predicted score of: 103.658227848 - 92.746835443
+
+Actual result: 103 - 88
+
+Error: -0.0932694894255
+team 1 would win this game with a predicted score of: 98.0379746835 - 89.6962025316
+
+Actual result: 100 - 96
+
+Error: -0.211145147642
+team 1 would win this game with a predicted score of: 110.303797468 - 100.392405063
+
+Actual result: 111 - 102
+
+Error: -0.20661341285
+team 1 would win this game with a predicted score of: 109.886075949 - 96.7088607595
+
+Actual result: 112 - 96
+
+Error: -0.0734550440969
+team 1 would win this game with a predicted score of: 110.556962025 - 101.316455696
+
+Actual result: 116 - 106
+
+Error: -0.243332737251
+team 1 would win this game with a predicted score of: 109.810126582 - 100.025316456
+
+Actual result: 107 - 100
+
+Error: -0.0132943471429
+team 1 would win this game with a predicted score of: 115.53164557 - 107.696202532
+
+Actual result: 136 - 134
+
+Error: -0.227636727117
+team 1 would win this game with a predicted score of: 107.53164557 - 96.9620253165
+
+Actual result: 110 - 99
+
+Error: -0.200317678685
+team 1 would win this game with a predicted score of: 117.53164557 - 107.898734177
+
+Actual result: 120 - 105
+
+Error: -0.15210615803
+team 1 would win this game with a predicted score of: 118.493670886 - 107.240506329
+
+Actual result: 123 - 109
+
+Error: -0.294272929019
+team 1 would win this game with a predicted score of: 112.974683544 - 100.189873418
+
+Actual result: 113 - 102
+
+Error: -0.474837160622
+team 1 would win this game with a predicted score of: 112.202531646 - 95.9367088608
+
+Actual result: 115 - 89
+
+Error: -0.266702857011
+team 1 would win this game with a predicted score of: 107.088607595 - 96.5189873418
+
+Actual result: 107 - 91
+
+Error: -0.277697257001
+team 1 would win this game with a predicted score of: 122.202531646 - 107.860759494
+
+Actual result: 129 - 106
+
+Error: 0.0829737185782
+team 2 would win this game with a predicted score of: 102.189873418 - 95.0759493671
+
+Actual result: 106 - 105
+
+Error: -0.209114024748
+team 1 would win this game with a predicted score of: 105.987341772 - 96.0
+
+Actual result: 96 - 95
+
+Error: -0.0851325051843
+team 1 would win this game with a predicted score of: 111.025316456 - 100.82278481
+
+Actual result: 111 - 103
+
+Error: -0.0850166047033
+team 1 would win this game with a predicted score of: 111.063291139 - 101.746835443
+
+Actual result: 115 - 99
+
+Error: -0.0821273199573
+team 1 would win this game with a predicted score of: 108.569620253 - 100.012658228
+
+Actual result: 113 - 103
+
+Error: 0.167046167116
+team 2 would win this game with a predicted score of: 107.658227848 - 98.3291139241
+
+Actual result: 112 - 111
+
+Error: -0.224549273935
+team 1 would win this game with a predicted score of: 121.012658228 - 112.329113924
+
+Actual result: 123 - 116
+
+Error: 0.0970032855829
+team 2 would win this game with a predicted score of: 111.886075949 - 103.278481013
+
+Actual result: 114 - 112
+
+Error: -0.203798915991
+team 1 would win this game with a predicted score of: 94.9113924051 - 87.164556962
+
+Actual result: 93 - 84
+
+Error: -0.199710477493
+team 1 would win this game with a predicted score of: 105.696202532 - 96.4050632911
+
+Actual result: 106 - 92
+
+Error: -0.125048859337
+team 1 would win this game with a predicted score of: 101.126582278 - 93.5696202532
+
+Actual result: 96 - 89
+
+Error: -0.0114513299145
+team 1 would win this game with a predicted score of: 96.1772151899 - 85.9113924051
+
+Actual result: 80 - 75
+
+Error: -0.194157503409
+team 1 would win this game with a predicted score of: 119.265822785 - 109.392405063
+
+Actual result: 127 - 114
+
+Error: -0.0528439594225
+team 1 would win this game with a predicted score of: 94.9746835443 - 87.1898734177
+
+Actual result: 102 - 96
+
+Error: -0.194235809912
+team 1 would win this game with a predicted score of: 114.835443038 - 104.189873418
+
+Actual result: 119 - 106
+
+Error: -0.197986434524
+team 1 would win this game with a predicted score of: 97.4683544304 - 89.2405063291
+
+Actual result: 95 - 89
+
+Error: -0.0099425344798
+team 1 would win this game with a predicted score of: 107.53164557 - 97.8481012658
+
+Actual result: 104 - 96
+
+Error: -0.193365651635
+team 1 would win this game with a predicted score of: 112.35443038 - 103.481012658
+
+Actual result: 115 - 102
+
+Error: -0.263377092901
+team 1 would win this game with a predicted score of: 111.088607595 - 97.7341772152
+
+Actual result: 109 - 101
+
+Error: -0.250708296981
+team 1 would win this game with a predicted score of: 120.063291139 - 107.46835443
+
+Actual result: 116 - 108
+
+Error: -0.16456841973
+team 1 would win this game with a predicted score of: 104.746835443 - 95.7974683544
+
+Actual result: 115 - 109
+
+Error: -0.0839233469764
+team 1 would win this game with a predicted score of: 104.746835443 - 92.2911392405
+
+Actual result: 100 - 92
+
+Error: -0.0239068337932
+team 1 would win this game with a predicted score of: 117.797468354 - 108.164556962
+
+Actual result: 134 - 125
+
+Error: -0.0960407847962
+team 1 would win this game with a predicted score of: 117.873417722 - 104.518987342
+
+Actual result: 124 - 108
+
+Error: 0.0154255671408
+team 2 would win this game with a predicted score of: 100.962025316 - 93.7594936709
+
+Actual result: 99 - 92
+
+Error: -0.140290079918
+team 1 would win this game with a predicted score of: 95.3164556962 - 87.3291139241
+
+Actual result: 94 - 82
+
+Error: -0.268037746105
+team 1 would win this game with a predicted score of: 123.797468354 - 111.278481013
+
+Actual result: 128 - 120
+
+Error: -0.27545717175
+team 1 would win this game with a predicted score of: 127.303797468 - 110.582278481
+
+Actual result: 138 - 115
+
+Error: -0.176005328015
+team 1 would win this game with a predicted score of: 114.481012658 - 106.063291139
+
+Actual result: 119 - 114
+
+Error: -0.121668916346
+team 1 would win this game with a predicted score of: 113.481012658 - 104.164556962
+
+Actual result: 112 - 106
+
+Error: -0.100653185825
+team 1 would win this game with a predicted score of: 96.2784810127 - 87.2658227848
+
+Actual result: 90 - 83
+
+Error: -0.237710380668
+team 1 would win this game with a predicted score of: 104.35443038 - 94.1772151899
+
+Actual result: 104 - 97
+
+Error: -0.354693363065
+team 1 would win this game with a predicted score of: 111.544303797 - 97.9620253165
+
+Actual result: 111 - 91
+
+Error: -0.159013483348
+team 1 would win this game with a predicted score of: 118.53164557 - 108.050632911
+
+Actual result: 123 - 120
+
+Error: -0.189633057542
+team 1 would win this game with a predicted score of: 113.797468354 - 105.088607595
+
+Actual result: 126 - 121
+
+Error: 0.0195908195292
+team 2 would win this game with a predicted score of: 112.721518987 - 103.683544304
+
+Actual result: 121 - 119
+
+Error: -0.182055942648
+team 1 would win this game with a predicted score of: 115.139240506 - 104.417721519
+
+Actual result: 114 - 106
+
+Error: -0.105631266694
+team 1 would win this game with a predicted score of: 106.037974684 - 95.8987341772
+
+Actual result: 101 - 96
+
+Error: -0.128370137138
+team 1 would win this game with a predicted score of: 111.303797468 - 95.6455696203
+
+Actual result: 108 - 91
+
+Error: -0.168506820094
+team 1 would win this game with a predicted score of: 101.544303797 - 92.4430379747
+
+Actual result: 95 - 88
+
+Error: -0.339367340468
+team 1 would win this game with a predicted score of: 111.417721519 - 101.35443038
+
+Actual result: 114 - 96
+
+Error: -0.272213677423
+team 1 would win this game with a predicted score of: 106.443037975 - 96.4683544304
+
+Actual result: 104 - 93
+
+Error: -0.218058172779
+team 1 would win this game with a predicted score of: 96.2405063291 - 84.7088607595
+
+Actual result: 100 - 83
+
+Error: -0.0804711967923
+team 1 would win this game with a predicted score of: 108.113924051 - 98.4303797468
+
+Actual result: 110 - 100
+
+Error: -0.204470940976
+team 1 would win this game with a predicted score of: 112.227848101 - 100.772151899
+
+Actual result: 120 - 109
+
+Error: 0.0518997877942
+team 2 would win this game with a predicted score of: 99.8860759494 - 91.1139240506
+
+Actual result: 103 - 100
+
+Error: -0.334350034872
+team 1 would win this game with a predicted score of: 111.53164557 - 99.6075949367
+
+Actual result: 115 - 95
+
+Error: -0.132165576792
+team 1 would win this game with a predicted score of: 104.64556962 - 96.3797468354
+
+Actual result: 99 - 95
+
+Error: -0.317798559812
+team 1 would win this game with a predicted score of: 106.189873418 - 91.0886075949
+
+Actual result: 116 - 90
+
+Error: -0.00916787625041
+team 1 would win this game with a predicted score of: 115.696202532 - 107.303797468
+
+Actual result: 119 - 116
+
+Error: 0.0954750227155
+team 2 would win this game with a predicted score of: 117.962025316 - 107.405063291
+
+Actual result: 128 - 123
+
+Error: -0.20257040264
+team 1 would win this game with a predicted score of: 118.784810127 - 107.379746835
+
+Actual result: 125 - 107
+
+Error: -0.174544544817
+team 1 would win this game with a predicted score of: 106.987341772 - 93.7215189873
+
+Actual result: 109 - 89
+
+Error: -0.0191763856434
+team 1 would win this game with a predicted score of: 93.3164556962 - 85.0126582278
+
+Actual result: 90 - 84
+
+Error: -0.221706474381
+team 1 would win this game with a predicted score of: 113.620253165 - 101.405063291
+
+Actual result: 121 - 102
+
+Error: -0.15137285797
+team 1 would win this game with a predicted score of: 97.3670886076 - 87.9367088608
+
+Actual result: 98 - 86
+
+Error: -0.219334404477
+team 1 would win this game with a predicted score of: 111.658227848 - 96.582278481
+
+Actual result: 127 - 97
+
+Error: 0.0617813261867
+team 2 would win this game with a predicted score of: 96.8734177215 - 89.7215189873
+
+Actual result: 90 - 88
+
+Error: -0.0508912828627
+team 1 would win this game with a predicted score of: 106.291139241 - 94.4556962025
+
+Actual result: 109 - 92
+
+Error: -0.45987096175
+team 1 would win this game with a predicted score of: 112.35443038 - 93.5443037975
+
+Actual result: 115 - 85
+
+Error: -0.149500284248
+team 1 would win this game with a predicted score of: 109.544303797 - 94.0379746835
+
+Actual result: 117 - 98
+
+Error: -0.195224994756
+team 1 would win this game with a predicted score of: 109.670886076 - 97.9113924051
+
+Actual result: 108 - 103
+
+Error: -0.329163657577
+team 1 would win this game with a predicted score of: 106.962025316 - 90.2911392405
+
+Actual result: 114 - 79
+
+Error: -0.261988964759
+team 1 would win this game with a predicted score of: 108.392405063 - 97.6202531646
+
+Actual result: 102 - 92
+
+Error: -0.0930845537167
+team 1 would win this game with a predicted score of: 111.392405063 - 101.797468354
+
+Actual result: 107 - 100
+
+Error: -0.112028493809
+team 1 would win this game with a predicted score of: 96.0 - 87.5063291139
+
+Actual result: 88 - 82
+
+Error: -0.215607132135
+team 1 would win this game with a predicted score of: 110.873417722 - 100.189873418
+
+Actual result: 113 - 101
+
+Error: 0.0237007476173
+team 2 would win this game with a predicted score of: 101.620253165 - 92.9746835443
+
+Actual result: 97 - 94
+
+Error: -0.141425788026
+team 1 would win this game with a predicted score of: 100.329113924 - 89.9113924051
+
+Actual result: 90 - 88
+
+Error: -0.342348643993
+team 1 would win this game with a predicted score of: 110.063291139 - 98.4050632911
+
+Actual result: 111 - 101
+
+Error: -0.361815026527
+team 1 would win this game with a predicted score of: 102.126582278 - 92.6708860759
+
+Actual result: 101 - 90
+
+Error: -0.281301090676
+team 1 would win this game with a predicted score of: 109.025316456 - 95.6962025316
+
+Actual result: 106 - 97
+
+Error: -0.0384031872521
+team 1 would win this game with a predicted score of: 116.164556962 - 108.734177215
+
+Actual result: 115 - 107
+
+Error: -0.146859915874
+team 1 would win this game with a predicted score of: 109.670886076 - 95.9873417722
+
+Actual result: 113 - 100
+
+Error: -0.162205684137
+team 1 would win this game with a predicted score of: 101.075949367 - 89.6329113924
+
+Actual result: 100 - 84
+
+Error: -0.0496850362051
+team 1 would win this game with a predicted score of: 108.0 - 96.746835443
+
+Actual result: 102 - 98
+
+Error: -0.0664964195514
+team 1 would win this game with a predicted score of: 100.113924051 - 92.0253164557
+
+Actual result: 102 - 95
+
+Error: -0.143216981861
+team 1 would win this game with a predicted score of: 106.367088608 - 96.9493670886
+
+Actual result: 109 - 98
+
+Error: -0.0857503124159
+team 1 would win this game with a predicted score of: 110.417721519 - 99.7974683544
+
+Actual result: 117 - 113
+
+Error: 0.0431591005001
+team 2 would win this game with a predicted score of: 104.962025316 - 96.3797468354
+
+Actual result: 103 - 100
+
+Error: 0.0203202562557
+team 2 would win this game with a predicted score of: 107.227848101 - 96.5949367089
+
+Actual result: 106 - 105
+
+Error: -0.0475988361879
+team 1 would win this game with a predicted score of: 92.5443037975 - 85.3797468354
+
+Actual result: 92 - 83
+
+Error: 0.0794402423391
+team 2 would win this game with a predicted score of: 92.835443038 - 85.8101265823
+
+Actual result: 101 - 100
+
+Error: -0.150374847704
+team 1 would win this game with a predicted score of: 115.493670886 - 103.582278481
+
+Actual result: 114 - 109
+
+Error: -0.0204389631134
+team 1 would win this game with a predicted score of: 96.5569620253 - 87.2405063291
+
+Actual result: 95 - 93
+
+Error: 0.0156006623792
+team 2 would win this game with a predicted score of: 111.405063291 - 101.594936709
+
+Actual result: 106 - 103
+
+Error: -0.322632493225
+team 1 would win this game with a predicted score of: 118.037974684 - 104.544303797
+
+Actual result: 136 - 107
+
+Error: -0.292814160197
+team 1 would win this game with a predicted score of: 112.683544304 - 96.9367088608
+
+Actual result: 117 - 87
+
+Error: -0.0851944811418
+team 1 would win this game with a predicted score of: 96.9113924051 - 86.1898734177
+
+Actual result: 91 - 84
+
+Error: -0.0165010528397
+team 1 would win this game with a predicted score of: 114.139240506 - 105.0
+
+Actual result: 126 - 104
+
+Error: -0.314041758427
+team 1 would win this game with a predicted score of: 101.050632911 - 91.2278481013
+
+Actual result: 103 - 93
+
+Error: -0.170599721531
+team 1 would win this game with a predicted score of: 110.683544304 - 101.518987342
+
+Actual result: 109 - 99
+
+Error: -0.0897018775614
+team 1 would win this game with a predicted score of: 103.240506329 - 93.4810126582
+
+Actual result: 96 - 90
+
+Error: -0.007368367877
+team 1 would win this game with a predicted score of: 117.012658228 - 109.734177215
+
+Actual result: 123 - 117
+
+Error: -0.216107479513
+team 1 would win this game with a predicted score of: 107.696202532 - 94.8101265823
+
+Actual result: 112 - 94
+
+Error: -0.183509226703
+team 1 would win this game with a predicted score of: 108.911392405 - 101.632911392
+
+Actual result: 112 - 108
+
+Error: -0.112590191102
+team 1 would win this game with a predicted score of: 113.202531646 - 103.037974684
+
+Actual result: 115 - 106
+
+Error: -0.196229173117
+team 1 would win this game with a predicted score of: 101.126582278 - 86.8481012658
+
+Actual result: 106 - 81
+
+Error: -0.212085173661
+team 1 would win this game with a predicted score of: 106.303797468 - 96.7594936709
+
+Actual result: 112 - 94
+
+Error: -0.00761245141991
+team 1 would win this game with a predicted score of: 107.050632911 - 95.9240506329
+
+Actual result: 112 - 101
+
+Error: -0.068293600857
+team 1 would win this game with a predicted score of: 103.481012658 - 93.7848101266
+
+Actual result: 103 - 96
+
+Error: -0.119170788634
+team 1 would win this game with a predicted score of: 103.050632911 - 92.7088607595
+
+Actual result: 101 - 92
+
+Error: -0.0230806240012
+team 1 would win this game with a predicted score of: 99.2025316456 - 92.0632911392
+
+Actual result: 93 - 92
+
+Error: -0.116916838186
+team 1 would win this game with a predicted score of: 108.012658228 - 96.0759493671
+
+Actual result: 106 - 104
+
+Error: -0.243667389995
+team 1 would win this game with a predicted score of: 107.569620253 - 97.4936708861
+
+Actual result: 110 - 102
+
+Error: -0.223268983509
+team 1 would win this game with a predicted score of: 104.772151899 - 94.2278481013
+
+Actual result: 102 - 95
+
+Error: -0.0672773115356
+team 1 would win this game with a predicted score of: 104.139240506 - 95.3670886076
+
+Actual result: 100 - 94
+
+Error: -0.2528375296
+team 1 would win this game with a predicted score of: 109.721518987 - 98.1772151899
+
+Actual result: 113 - 105
+
+Error: -0.180896921246
+team 1 would win this game with a predicted score of: 97.1265822785 - 87.4936708861
+
+Actual result: 99 - 80
+
+Error: -0.442196415495
+team 1 would win this game with a predicted score of: 107.721518987 - 91.582278481
+
+Actual result: 110 - 78
+
+Error: 0.0665275030104
+team 2 would win this game with a predicted score of: 106.924050633 - 100.088607595
+
+Actual result: 104 - 102
+
+Error: -0.0527756844364
+team 1 would win this game with a predicted score of: 108.0 - 98.3670886076
+
+Actual result: 106 - 103
+
+Error: -0.11415339781
+team 1 would win this game with a predicted score of: 105.810126582 - 97.6202531646
+
+Actual result: 101 - 95
+
+Error: -0.315466321774
+team 1 would win this game with a predicted score of: 107.721518987 - 95.2025316456
+
+Actual result: 121 - 88
+
+Error: -0.113151223882
+team 1 would win this game with a predicted score of: 104.987341772 - 93.9620253165
+
+Actual result: 102 - 97
+
+Error: -0.089165588371
+team 1 would win this game with a predicted score of: 96.5189873418 - 84.9113924051
+
+Actual result: 94 - 81
+
+Error: -0.0708046724298
+team 1 would win this game with a predicted score of: 103.455696203 - 93.9367088608
+
+Actual result: 99 - 98
+
+Error: -0.28740320601
+team 1 would win this game with a predicted score of: 114.278481013 - 99.0126582278
+
+Actual result: 121 - 97
+
+Error: -0.0837097473269
+team 1 would win this game with a predicted score of: 109.620253165 - 101.962025316
+
+Actual result: 107 - 103
+
+Error: -0.193340620841
+team 1 would win this game with a predicted score of: 113.949367089 - 102.746835443
+
+Actual result: 124 - 102
+
+Error: 0.0149958704085
+team 2 would win this game with a predicted score of: 104.037974684 - 95.5316455696
+
+Actual result: 110 - 108
+
+Error: -0.0788530514712
+team 1 would win this game with a predicted score of: 100.392405063 - 91.6708860759
+
+Actual result: 102 - 87
+
+Error: -0.10683778041
+team 1 would win this game with a predicted score of: 112.670886076 - 104.35443038
+
+Actual result: 109 - 102
+
+Error: 0.0833929440711
+team 2 would win this game with a predicted score of: 94.9493670886 - 87.0
+
+Actual result: 93 - 85
+
+Error: 0.0727263008482
+team 2 would win this game with a predicted score of: 101.202531646 - 94.4303797468
+
+Actual result: 101 - 93
+
+Error: -0.0310879763001
+team 1 would win this game with a predicted score of: 113.329113924 - 104.025316456
+
+Actual result: 115 - 101
+
+Error: -0.241204795517
+team 1 would win this game with a predicted score of: 94.8860759494 - 85.7974683544
+
+Actual result: 87 - 77
+
+Error: 0.124565935827
+team 2 would win this game with a predicted score of: 100.670886076 - 92.3797468354
+
+Actual result: 88 - 85
+
+Error: -0.0911868835975
+team 1 would win this game with a predicted score of: 103.949367089 - 94.5949367089
+
+Actual result: 106 - 97
+
+Error: -0.138329698171
+team 1 would win this game with a predicted score of: 108.46835443 - 99.7848101266
+
+Actual result: 109 - 99
+
+Error: 0.021973456252
+team 2 would win this game with a predicted score of: 95.1898734177 - 87.9493670886
+
+Actual result: 95 - 79
+
+Error: -0.0761948470519
+team 1 would win this game with a predicted score of: 91.5696202532 - 83.0632911392
+
+Actual result: 90 - 75
+
+Error: -0.17492791506
+team 1 would win this game with a predicted score of: 105.64556962 - 94.7341772152
+
+Actual result: 103 - 100
+
+Error: -0.0936364649755
+team 1 would win this game with a predicted score of: 107.405063291 - 96.5316455696
+
+Actual result: 106 - 97
+
+Error: -0.232903915288
+team 1 would win this game with a predicted score of: 99.5696202532 - 90.417721519
+
+Actual result: 94 - 92
+
+Error: -0.46962480666
+team 1 would win this game with a predicted score of: 98.1772151899 - 85.1139240506
+
+Actual result: 96 - 73
+
+Error: -0.0343775445289
+team 1 would win this game with a predicted score of: 93.1012658228 - 85.6962025316
+
+Actual result: 86 - 85
+
+Error: -0.247352058918
+team 1 would win this game with a predicted score of: 107.518987342 - 95.5063291139
+
+Actual result: 107 - 94
+
+Error: -0.155059059811
+team 1 would win this game with a predicted score of: 110.746835443 - 99.0506329114
+
+Actual result: 120 - 103
+
+Error: -0.158495778844
+team 1 would win this game with a predicted score of: 102.746835443 - 91.2784810127
+
+Actual result: 94 - 92
+
+Error: -0.360822969615
+team 1 would win this game with a predicted score of: 105.139240506 - 89.2278481013
+
+Actual result: 113 - 86
+
+Error: -0.152510271712
+team 1 would win this game with a predicted score of: 93.7974683544 - 84.5443037975
+
+Actual result: 82 - 78
+
+Error: -0.0190366568766
+team 1 would win this game with a predicted score of: 101.405063291 - 92.6708860759
+
+Actual result: 93 - 87
+
+Error: -0.451683737117
+team 1 would win this game with a predicted score of: 101.101265823 - 87.8607594937
+
+Actual result: 103 - 74
+
+Error: -0.195459921286
+team 1 would win this game with a predicted score of: 89.0253164557 - 77.4936708861
+
+Actual result: 84 - 60
+
+Error: 0.0270233665276
+team 2 would win this game with a predicted score of: 98.7721518987 - 91.7341772152
+
+Actual result: 93 - 89
+
+Error: -0.0975118940576
+team 1 would win this game with a predicted score of: 97.3544303797 - 88.1139240506
+
+Actual result: 93 - 83
+
+Error: -0.236711871041
+team 1 would win this game with a predicted score of: 118.202531646 - 108.17721519
+
+Actual result: 115 - 110
+
+Error: -0.111062434077
+team 1 would win this game with a predicted score of: 107.291139241 - 95.2405063291
+
+Actual result: 111 - 91
+
+Error: 0.00631192151781
+team 2 would win this game with a predicted score of: 93.4936708861 - 86.4556962025
+
+Actual result: 88 - 86
+
+Error: 0.0511531144971
+team 2 would win this game with a predicted score of: 99.3544303797 - 92.5316455696
+
+Actual result: 94 - 91
+
+Error: -0.0891273218615
+team 1 would win this game with a predicted score of: 94.7594936709 - 84.9113924051
+
+Actual result: 91 - 87
+
+Error: -0.185254406326
+team 1 would win this game with a predicted score of: 101.291139241 - 92.7974683544
+
+Actual result: 105 - 94
+
+Error: -0.00911615982137
+team 1 would win this game with a predicted score of: 101.392405063 - 93.2151898734
+
+Actual result: 99 - 97
+
+Error: -0.217698899855
+team 1 would win this game with a predicted score of: 104.607594937 - 92.4303797468
+
+Actual result: 104 - 96
+
+Error: -0.141999568335
+team 1 would win this game with a predicted score of: 115.898734177 - 106.17721519
+
+Actual result: 117 - 106
+
+Error: -0.147365429049
+team 1 would win this game with a predicted score of: 102.126582278 - 91.0379746835
+
+Actual result: 104 - 82
+
+Error: -0.125557187979
+team 1 would win this game with a predicted score of: 90.2405063291 - 80.5189873418
+
+Actual result: 80 - 75
+
+Error: -0.233272154524
+team 1 would win this game with a predicted score of: 91.4810126582 - 82.1139240506
+
+Actual result: 83 - 67
+
+Error: -0.0833562752742
+team 1 would win this game with a predicted score of: 95.0126582278 - 85.9746835443
+
+Actual result: 87 - 82
+
+Error: -0.194916740212
+team 1 would win this game with a predicted score of: 103.367088608 - 90.7974683544
+
+Actual result: 98 - 86
+
+Error: -0.0983583159876
+team 1 would win this game with a predicted score of: 112.050632911 - 102.620253165
+
+Actual result: 114 - 109
+
+Error: -0.196878686408
+team 1 would win this game with a predicted score of: 104.696202532 - 94.9240506329
+
+Actual result: 100 - 93
+
+Error: -0.129034326716
+team 1 would win this game with a predicted score of: 100.012658228 - 92.3037974684
+
+Actual result: 94 - 87
+
+Error: 0.0752065457157
+team 2 would win this game with a predicted score of: 111.594936709 - 103.291139241
+
+Actual result: 113 - 110
+
+Error: -0.0572093591423
+team 1 would win this game with a predicted score of: 94.4810126582 - 86.7848101266
+
+Actual result: 88 - 77
+
+Error: -0.0428941395127
+team 1 would win this game with a predicted score of: 95.0506329114 - 87.253164557
+
+Actual result: 92 - 88
+
+Error: -0.151414283214
+team 1 would win this game with a predicted score of: 92.8101265823 - 82.0506329114
+
+Actual result: 86 - 83
+
+Error: 0.00305242146135
+team 2 would win this game with a predicted score of: 99.6075949367 - 91.3164556962
+
+Actual result: 106 - 101
+
+Error: -0.199501497161
+team 1 would win this game with a predicted score of: 88.1012658228 - 76.5569620253
+
+Actual result: 87 - 69
+
+Error: -0.230143945752
+team 1 would win this game with a predicted score of: 101.17721519 - 89.6962025316
+
+Actual result: 94 - 88
+
+Error: -0.0544815993728
+team 1 would win this game with a predicted score of: 91.417721519 - 82.7721518987
+
+Actual result: 76 - 73
+
+Error: -0.230028657612
+team 1 would win this game with a predicted score of: 105.126582278 - 91.0886075949
+
+Actual result: 110 - 84
+
+Error: -0.0620546460616
+team 1 would win this game with a predicted score of: 100.974683544 - 91.0632911392
+
+Actual result: 97 - 86
+
+Error: -0.0349932337567
+team 1 would win this game with a predicted score of: 105.329113924 - 96.1012658228
+
+Actual result: 103 - 95
+
+Error: -0.0402209908017
+team 1 would win this game with a predicted score of: 112.53164557 - 102.329113924
+
+Actual result: 111 - 108
+
+Error: -0.106668297304
+team 1 would win this game with a predicted score of: 100.911392405 - 89.7341772152
+
+Actual result: 96 - 81
+
+Error: -0.0624519400829
+team 1 would win this game with a predicted score of: 109.658227848 - 102.215189873
+
+Actual result: 114 - 112
+
+Error: -0.268274249635
+team 1 would win this game with a predicted score of: 101.164556962 - 87.9746835443
+
+Actual result: 106 - 87
+
+Error: -0.100987720451
+team 1 would win this game with a predicted score of: 92.164556962 - 82.1139240506
+
+Actual result: 83 - 73
+
+Error: -0.112787545049
+team 1 would win this game with a predicted score of: 101.936708861 - 95.2278481013
+
+Actual result: 99 - 97
+
+Error: -0.145284147479
+team 1 would win this game with a predicted score of: 108.594936709 - 95.746835443
+
+Actual result: 108 - 104
+
+Error: -0.0648074215267
+team 1 would win this game with a predicted score of: 88.3924050633 - 79.7594936709
+
+Actual result: 77 - 74
+
+Error: -0.130783735293
+team 1 would win this game with a predicted score of: 106.962025316 - 96.7215189873
+
+Actual result: 103 - 97
+
+Error: -0.255355594141
+team 1 would win this game with a predicted score of: 112.139240506 - 101.962025316
+
+Actual result: 120 - 108
+
+Error: -0.0611538444532
+team 1 would win this game with a predicted score of: 110.759493671 - 101.367088608
+
+Actual result: 110 - 105
+
+Error: -0.236601226295
+team 1 would win this game with a predicted score of: 112.911392405 - 101.253164557
+
+Actual result: 111 - 106
+
+Error: 0.0421028870819
+team 2 would win this game with a predicted score of: 111.481012658 - 103.202531646
+
+Actual result: 108 - 102
+
+Error: 0.0139934317499
+team 2 would win this game with a predicted score of: 108.949367089 - 100.987341772
+
+Actual result: 112 - 107
+
+Error: -0.141812414876
+team 1 would win this game with a predicted score of: 104.873417722 - 95.9367088608
+
+Actual result: 95 - 86
+
+Error: -0.040130294591
+team 1 would win this game with a predicted score of: 103.0 - 93.582278481
+
+Actual result: 96 - 94
+
+Error: -0.234109737574
+team 1 would win this game with a predicted score of: 99.8860759494 - 90.4050632911
+
+Actual result: 93 - 90
+
+Error: -0.164034347128
+team 1 would win this game with a predicted score of: 109.113924051 - 96.6582278481
+
+Actual result: 117 - 106
+
+Error: -0.103725311416
+team 1 would win this game with a predicted score of: 105.797468354 - 97.417721519
+
+Actual result: 109 - 103
+
+Error: -0.127624832949
+team 1 would win this game with a predicted score of: 100.126582278 - 90.0253164557
+
+Actual result: 94 - 91
+
+Error: -0.104615081743
+team 1 would win this game with a predicted score of: 103.886075949 - 94.2405063291
+
+Actual result: 104 - 88
+
+Error: -0.211503154496
+team 1 would win this game with a predicted score of: 103.759493671 - 89.5443037975
+
+Actual result: 96 - 77
+
+Error: -0.196129752347
+team 1 would win this game with a predicted score of: 103.746835443 - 92.3670886076
+
+Actual result: 103 - 91
+
+Error: -0.0842641856859
+team 1 would win this game with a predicted score of: 104.974683544 - 96.1898734177
+
+Actual result: 96 - 88
+
+Error: 0.0602893805851
+team 2 would win this game with a predicted score of: 106.607594937 - 96.2405063291
+
+Actual result: 110 - 106
+
+Error: -0.0475662661452
+team 1 would win this game with a predicted score of: 114.025316456 - 102.632911392
+
+Actual result: 121 - 104
+
+Error: -0.101116145585
+team 1 would win this game with a predicted score of: 109.620253165 - 92.8987341772
+
+Actual result: 114 - 90
+
+Error: -0.160782655131
+team 1 would win this game with a predicted score of: 105.113924051 - 94.253164557
+
+Actual result: 103 - 90
+
+Error: -0.153294376508
+team 1 would win this game with a predicted score of: 102.012658228 - 94.4050632911
+
+Actual result: 104 - 88
+
+Error: -0.0467701009274
+team 1 would win this game with a predicted score of: 99.1139240506 - 91.8481012658
+
+Actual result: 95 - 94
+
+Error: 0.0185219223225
+team 2 would win this game with a predicted score of: 108.683544304 - 101.151898734
+
+Actual result: 101 - 100
+
+Error: 0.0419740411438
+team 2 would win this game with a predicted score of: 100.240506329 - 91.3924050633
+
+Actual result: 96 - 95
+
+Error: -0.198958926632
+team 1 would win this game with a predicted score of: 107.632911392 - 97.1139240506
+
+Actual result: 108 - 97
+
+Error: -0.0525147167808
+team 1 would win this game with a predicted score of: 93.3417721519 - 85.8481012658
+
+Actual result: 87 - 80
+
+Error: -0.129402011105
+team 1 would win this game with a predicted score of: 91.7848101266 - 81.3544303797
+
+Actual result: 88 - 71
+
+Error: -0.167098840865
+team 1 would win this game with a predicted score of: 90.2784810127 - 81.6202531646
+
+Actual result: 78 - 74
+
+Error: -0.135460969508
+team 1 would win this game with a predicted score of: 104.265822785 - 96.3164556962
+
+Actual result: 98 - 92
+
+Error: -0.156176415828
+team 1 would win this game with a predicted score of: 95.8481012658 - 85.1392405063
+
+Actual result: 91 - 79
+
+Error: -0.00423325056838
+team 1 would win this game with a predicted score of: 100.556962025 - 91.4556962025
+
+Actual result: 94 - 93
+
+Error: -0.116927520942
+team 1 would win this game with a predicted score of: 108.46835443 - 98.2784810127
+
+Actual result: 110 - 97
+
+Error: -0.207573546057
+team 1 would win this game with a predicted score of: 111.949367089 - 99.3417721519
+
+Actual result: 115 - 102
+
+Error: -0.154378384723
+team 1 would win this game with a predicted score of: 104.784810127 - 91.9240506329
+
+Actual result: 108 - 88
+
+Error: 0.00108427912704
+team 2 would win this game with a predicted score of: 96.417721519 - 88.0379746835
+
+Actual result: 94 - 90
+
+Error: -0.162385317455
+team 1 would win this game with a predicted score of: 106.227848101 - 98.835443038
+
+Actual result: 107 - 104
+
+Error: -0.278354011871
+team 1 would win this game with a predicted score of: 113.886075949 - 99.6582278481
+
+Actual result: 122 - 101
+
+Error: -0.286615907271
+team 1 would win this game with a predicted score of: 102.367088608 - 88.0886075949
+
+Actual result: 104 - 72
+
+Error: -0.0707611964289
+team 1 would win this game with a predicted score of: 93.6962025316 - 83.1392405063
+
+Actual result: 87 - 78
+
+Error: -0.0113576012714
+team 1 would win this game with a predicted score of: 102.658227848 - 95.2658227848
+
+Actual result: 102 - 98
+
+Error: -0.134512293771
+team 1 would win this game with a predicted score of: 92.6582278481 - 83.4936708861
+
+Actual result: 84 - 72
+
+Error: -0.0996793789278
+team 1 would win this game with a predicted score of: 102.0 - 93.3037974684
+
+Actual result: 101 - 92
+
+Error: -0.190792893402
+team 1 would win this game with a predicted score of: 101.936708861 - 91.9873417722
+
+Actual result: 101 - 88
+
+Error: -0.166390311974
+team 1 would win this game with a predicted score of: 103.569620253 - 92.5949367089
+
+Actual result: 99 - 87
+
+Error: -0.0688133467828
+team 1 would win this game with a predicted score of: 89.746835443 - 81.6075949367
+
+Actual result: 89 - 84
+
+Error: -0.294327006989
+team 1 would win this game with a predicted score of: 100.455696203 - 85.0506329114
+
+Actual result: 98 - 73
+
+Error: -0.245881899629
+team 1 would win this game with a predicted score of: 106.063291139 - 96.8860759494
+
+Actual result: 106 - 94
+
+Error: -0.199664558957
+team 1 would win this game with a predicted score of: 108.126582278 - 93.7341772152
+
+Actual result: 111 - 82
+
+Error: -0.141174841918
+team 1 would win this game with a predicted score of: 103.582278481 - 92.5569620253
+
+Actual result: 104 - 90
+
+Error: 0.00516775817889
+team 2 would win this game with a predicted score of: 99.7721518987 - 91.1012658228
+
+Actual result: 94 - 91
+
+Error: -0.134132324338
+team 1 would win this game with a predicted score of: 105.329113924 - 95.6075949367
+
+Actual result: 107 - 97
+
+Error: -0.035542268005
+team 1 would win this game with a predicted score of: 102.746835443 - 95.3544303797
+
+Actual result: 109 - 103
+
+Error: 0.0590581989192
+team 2 would win this game with a predicted score of: 108.392405063 - 99.6835443038
+
+Actual result: 108 - 101
+
+Error: -0.235919238373
+team 1 would win this game with a predicted score of: 103.746835443 - 89.1265822785
+
+Actual result: 103 - 80
+
+Error: 0.169071308334
+team 2 would win this game with a predicted score of: 100.670886076 - 91.3291139241
+
+Actual result: 95 - 91
+
+Error: -0.0452364398086
+team 1 would win this game with a predicted score of: 106.594936709 - 94.8987341772
+
+Actual result: 108 - 101
+
+Error: -0.277545147629
+team 1 would win this game with a predicted score of: 100.518987342 - 86.0
+
+Actual result: 99 - 79
+
+Error: -0.176927421091
+team 1 would win this game with a predicted score of: 111.873417722 - 101.607594937
+
+Actual result: 109 - 100
+
+Error: 0.049636835448
+team 2 would win this game with a predicted score of: 101.189873418 - 93.2278481013
+
+Actual result: 96 - 95
+
+Error: -0.00565600181579
+team 1 would win this game with a predicted score of: 103.936708861 - 95.0379746835
+
+Actual result: 112 - 106
+
+Error: -0.207352163885
+team 1 would win this game with a predicted score of: 103.784810127 - 90.9367088608
+
+Actual result: 107 - 83
+
+Error: -0.101090001272
+team 1 would win this game with a predicted score of: 104.088607595 - 93.1898734177
+
+Actual result: 97 - 89
+
+Error: -0.237872248331
+team 1 would win this game with a predicted score of: 92.3924050633 - 78.8734177215
+
+Actual result: 93 - 73
+
+Error: -0.303746161971
+team 1 would win this game with a predicted score of: 99.5189873418 - 90.1772151899
+
+Actual result: 95 - 86
+
+Error: -0.0928676419106
+team 1 would win this game with a predicted score of: 100.949367089 - 91.0886075949
+
+Actual result: 96 - 91
+
+Error: -0.21866679458
+team 1 would win this game with a predicted score of: 106.721518987 - 97.6202531646
+
+Actual result: 113 - 102
+
+Error: -0.0456403194736
+team 1 would win this game with a predicted score of: 92.8227848101 - 84.5316455696
+
+Actual result: 87 - 72
+
+Error: -0.186343296998
+team 1 would win this game with a predicted score of: 103.443037975 - 93.0759493671
+
+Actual result: 102 - 96
+
+Error: -0.0857523176704
+team 1 would win this game with a predicted score of: 114.088607595 - 105.0
+
+Actual result: 140 - 133
+
+Error: -0.202365027694
+team 1 would win this game with a predicted score of: 97.9367088608 - 86.7594936709
+
+Actual result: 95 - 84
+
+Error: -0.0836303480568
+team 1 would win this game with a predicted score of: 94.417721519 - 85.8227848101
+
+Actual result: 90 - 82
+
+Error: -0.0744010847453
+team 1 would win this game with a predicted score of: 95.8227848101 - 87.9113924051
+
+Actual result: 92 - 85
+
+Error: -0.160427866421
+team 1 would win this game with a predicted score of: 98.9240506329 - 91.3037974684
+
+Actual result: 97 - 91
+
+Error: -0.155031064694
+team 1 would win this game with a predicted score of: 93.7594936709 - 85.6582278481
+
+Actual result: 86 - 78
+
+Error: -0.0212614774355
+team 1 would win this game with a predicted score of: 98.6582278481 - 91.1139240506
+
+Actual result: 92 - 83
+
+Error: -0.152181507945
+team 1 would win this game with a predicted score of: 103.683544304 - 95.7721518987
+
+Actual result: 102 - 92
+
+Error: -0.129808601042
+team 1 would win this game with a predicted score of: 100.987341772 - 91.0126582278
+
+Actual result: 99 - 91
+
+Error: -0.0211053587171
+team 1 would win this game with a predicted score of: 107.594936709 - 98.8987341772
+
+Actual result: 111 - 110
+
+Error: -0.111956684847
+team 1 would win this game with a predicted score of: 107.696202532 - 99.6835443038
+
+Actual result: 114 - 105
+
+Error: -0.0315549801607
+team 1 would win this game with a predicted score of: 110.240506329 - 101.810126582
+
+Actual result: 117 - 115
+
+Error: -0.321780467663
+team 1 would win this game with a predicted score of: 100.746835443 - 86.8227848101
+
+Actual result: 100 - 81
+
+Error: -0.149636166864
+team 1 would win this game with a predicted score of: 113.64556962 - 103.455696203
+
+Actual result: 117 - 108
+
+Error: -0.145748687093
+team 1 would win this game with a predicted score of: 101.240506329 - 91.8607594937
+
+Actual result: 100 - 84
+
+Error: -0.309271153909
+team 1 would win this game with a predicted score of: 99.9113924051 - 88.4556962025
+
+Actual result: 97 - 86
+
+Error: 0.0728783641018
+team 2 would win this game with a predicted score of: 103.012658228 - 95.6075949367
+
+Actual result: 98 - 95
+
+Error: -0.194655835217
+team 1 would win this game with a predicted score of: 103.607594937 - 92.2151898734
+
+Actual result: 104 - 78
+
+Error: -0.0749942114115
+team 1 would win this game with a predicted score of: 102.886075949 - 93.3797468354
+
+Actual result: 101 - 89
+
+Error: -0.399690929349
+team 1 would win this game with a predicted score of: 111.139240506 - 93.9746835443
+
+Actual result: 110 - 82
+
+Error: 0.0139904779125
+team 2 would win this game with a predicted score of: 96.164556962 - 88.7974683544
+
+Actual result: 92 - 76
+
+Error: -0.0404628834909
+team 1 would win this game with a predicted score of: 105.82278481 - 96.1898734177
+
+Actual result: 106 - 102
+
+Error: -0.102678306731
+team 1 would win this game with a predicted score of: 113.746835443 - 102.835443038
+
+Actual result: 121 - 99
+
+Error: -0.152851827801
+team 1 would win this game with a predicted score of: 102.367088608 - 93.7974683544
+
+Actual result: 96 - 92
+
+Error: -0.0655387325549
+team 1 would win this game with a predicted score of: 100.303797468 - 90.8101265823
+
+Actual result: 96 - 88
+
+Error: -0.113779912502
+team 1 would win this game with a predicted score of: 88.2784810127 - 79.1012658228
+
+Actual result: 81 - 69
+
+Error: -0.114035685428
+team 1 would win this game with a predicted score of: 102.126582278 - 92.7341772152
+
+Actual result: 105 - 98
+
+Error: -0.0856858865488
+team 1 would win this game with a predicted score of: 101.544303797 - 86.8227848101
+
+Actual result: 100 - 83
+
+Error: -0.458012516807
+team 1 would win this game with a predicted score of: 112.291139241 - 92.1265822785
+
+Actual result: 124 - 89
+
+Error: -0.0901230092721
+team 1 would win this game with a predicted score of: 97.7848101266 - 89.5063291139
+
+Actual result: 91 - 86
+
+Error: -0.0608899767734
+team 1 would win this game with a predicted score of: 109.037974684 - 100.139240506
+
+Actual result: 110 - 107
+
+Error: -0.0774181165184
+team 1 would win this game with a predicted score of: 107.82278481 - 95.0759493671
+
+Actual result: 111 - 94
+
+Error: -0.0469523029468
+team 1 would win this game with a predicted score of: 104.341772152 - 95.3291139241
+
+Actual result: 98 - 96
+
+Error: -0.299219294155
+team 1 would win this game with a predicted score of: 99.0 - 87.4303797468
+
+Actual result: 100 - 81
+
+Error: 0.0288416423603
+team 2 would win this game with a predicted score of: 98.6455696203 - 91.4936708861
+
+Actual result: 101 - 93
+
+Error: -0.00649772568594
+team 1 would win this game with a predicted score of: 94.4303797468 - 86.6075949367
+
+Actual result: 88 - 82
+
+Error: -0.138637280319
+team 1 would win this game with a predicted score of: 103.063291139 - 95.5189873418
+
+Actual result: 102 - 99
+
+Error: -0.0944077128176
+team 1 would win this game with a predicted score of: 95.164556962 - 85.4430379747
+
+Actual result: 89 - 87
+
+Error: -0.177097073171
+team 1 would win this game with a predicted score of: 98.3670886076 - 88.9873417722
+
+Actual result: 96 - 86
+
+Error: -0.334901806116
+team 1 would win this game with a predicted score of: 113.075949367 - 97.7721518987
+
+Actual result: 125 - 99
+
+Error: -0.294145879671
+team 1 would win this game with a predicted score of: 108.721518987 - 95.6075949367
+
+Actual result: 114 - 102
+
+Error: -0.156666335155
+team 1 would win this game with a predicted score of: 95.8101265823 - 86.5696202532
+
+Actual result: 93 - 82
+
+Error: -0.117563133678
+team 1 would win this game with a predicted score of: 94.4556962025 - 84.1012658228
+
+Actual result: 93 - 78
+
+Error: -0.0989803530918
+team 1 would win this game with a predicted score of: 104.556962025 - 96.6075949367
+
+Actual result: 105 - 95
+
+Error: -0.0903499837892
+team 1 would win this game with a predicted score of: 106.126582278 - 98.3670886076
+
+Actual result: 106 - 104
+
+Error: -0.00507529099862
+team 1 would win this game with a predicted score of: 97.1392405063 - 89.835443038
+
+Actual result: 94 - 89
+
+Error: -0.263092496849
+team 1 would win this game with a predicted score of: 102.873417722 - 95.7341772152
+
+Actual result: 112 - 105
+
+Error: -0.0411283565155
+team 1 would win this game with a predicted score of: 98.2658227848 - 89.6075949367
+
+Actual result: 96 - 89
+
+Error: -0.142232044092
+team 1 would win this game with a predicted score of: 89.582278481 - 80.8860759494
+
+Actual result: 84 - 74
+
+Error: -0.0244593488335
+team 1 would win this game with a predicted score of: 100.898734177 - 94.2784810127
+
+Actual result: 98 - 94
+
+Error: -0.204535175431
+team 1 would win this game with a predicted score of: 101.253164557 - 92.0253164557
+
+Actual result: 103 - 86
+
+Error: -0.178266989161
+team 1 would win this game with a predicted score of: 93.6455696203 - 83.1772151899
+
+Actual result: 91 - 78
+
+Error: -0.192651602121
+team 1 would win this game with a predicted score of: 100.962025316 - 87.6962025316
+
+Actual result: 97 - 89
+
+Error: -0.28904208117
+team 1 would win this game with a predicted score of: 100.962025316 - 87.7215189873
+
+Actual result: 110 - 77
+
+Error: 0.0417513274481
+team 2 would win this game with a predicted score of: 94.9367088608 - 87.7594936709
+
+Actual result: 89 - 85
+
+Error: -0.225096756718
+team 1 would win this game with a predicted score of: 107.379746835 - 98.7721518987
+
+Actual result: 109 - 102
+
+Error: -0.273203363287
+team 1 would win this game with a predicted score of: 104.759493671 - 91.0632911392
+
+Actual result: 106 - 91
+
+Error: -0.15685256885
+team 1 would win this game with a predicted score of: 114.202531646 - 105.64556962
+
+Actual result: 117 - 107
+
+Error: -0.24268009107
+team 1 would win this game with a predicted score of: 105.506329114 - 94.1518987342
+
+Actual result: 104 - 88
+
+Error: -0.146762867469
+team 1 would win this game with a predicted score of: 88.746835443 - 76.6708860759
+
+Actual result: 78 - 65
+
+Error: -0.0870616452679
+team 1 would win this game with a predicted score of: 93.8860759494 - 83.3797468354
+
+Actual result: 98 - 79
+
+Error: -0.0491457962361
+team 1 would win this game with a predicted score of: 103.746835443 - 91.6329113924
+
+Actual result: 107 - 96
+
+Error: -0.167971445412
+team 1 would win this game with a predicted score of: 107.810126582 - 98.3291139241
+
+Actual result: 104 - 101
+
+Error: -0.150605794951
+team 1 would win this game with a predicted score of: 104.64556962 - 95.5189873418
+
+Actual result: 100 - 99
+
+Error: -0.0972020425775
+team 1 would win this game with a predicted score of: 104.556962025 - 95.0
+
+Actual result: 97 - 94
+
+Error: 0.0761108666415
+team 2 would win this game with a predicted score of: 100.835443038 - 92.8860759494
+
+Actual result: 92 - 88
+
+Error: -0.0630888525971
+team 1 would win this game with a predicted score of: 106.025316456 - 96.7594936709
+
+Actual result: 107 - 100
+
+Error: -0.0387453257003
+team 1 would win this game with a predicted score of: 101.227848101 - 93.4810126582
+
+Actual result: 100 - 99
+
+Error: -0.119132700721
+team 1 would win this game with a predicted score of: 91.0253164557 - 81.5189873418
+
+Actual result: 86 - 68
+
+Error: -0.0241966423036
+team 1 would win this game with a predicted score of: 101.582278481 - 92.5949367089
+
+Actual result: 97 - 94
+
+Error: -0.15410021117
+team 1 would win this game with a predicted score of: 98.9367088608 - 88.1012658228
+
+Actual result: 93 - 88
+
+Error: -0.173657076613
+team 1 would win this game with a predicted score of: 109.227848101 - 100.569620253
+
+Actual result: 123 - 108
+
+Error: 0.00342228707705
+team 2 would win this game with a predicted score of: 104.113924051 - 96.7721518987
+
+Actual result: 108 - 96
+
+Error: -0.232343719126
+team 1 would win this game with a predicted score of: 107.379746835 - 93.4430379747
+
+Actual result: 117 - 98
+
+Error: -0.0460297993484
+team 1 would win this game with a predicted score of: 105.0 - 96.7974683544
+
+Actual result: 105 - 103
+
+Error: -0.144877022181
+team 1 would win this game with a predicted score of: 115.911392405 - 104.063291139
+
+Actual result: 121 - 101
+
+Error: -0.150109177223
+team 1 would win this game with a predicted score of: 116.329113924 - 106.544303797
+
+Actual result: 119 - 114
+
+Error: -0.0782798969041
+team 1 would win this game with a predicted score of: 93.0379746835 - 85.5443037975
+
+Actual result: 82 - 78
+
+Error: -0.057899168454
+team 1 would win this game with a predicted score of: 94.6708860759 - 85.6962025316
+
+Actual result: 90 - 85
+
+Error: -0.0891623625134
+team 1 would win this game with a predicted score of: 101.151898734 - 90.6455696203
+
+Actual result: 90 - 86
+
+Error: -0.275997410848
+team 1 would win this game with a predicted score of: 113.126582278 - 103.329113924
+
+Actual result: 124 - 117
+
+Error: -0.261029794001
+team 1 would win this game with a predicted score of: 93.417721519 - 82.8987341772
+
+Actual result: 89 - 78
+
+Error: -0.184846129393
+team 1 would win this game with a predicted score of: 97.2278481013 - 85.5189873418
+
+Actual result: 92 - 78
+
+Error: -0.208149367295
+team 1 would win this game with a predicted score of: 96.8860759494 - 83.6202531646
+
+Actual result: 93 - 78
+
+Error: -0.0519582996357
+team 1 would win this game with a predicted score of: 111.392405063 - 99.9240506329
+
+Actual result: 108 - 104
+
+Error: 0.0135288446946
+team 2 would win this game with a predicted score of: 99.3797468354 - 92.3417721519
+
+Actual result: 104 - 100
+
+Error: -0.0743372100866
+team 1 would win this game with a predicted score of: 98.4683544304 - 90.4430379747
+
+Actual result: 96 - 89
+
+Error: -0.0365691598824
+team 1 would win this game with a predicted score of: 110.202531646 - 101.113924051
+
+Actual result: 117 - 100
+
+Error: -0.151303225609
+team 1 would win this game with a predicted score of: 100.911392405 - 91.3924050633
+
+Actual result: 93 - 86
+
+Error: -0.0757168337651
+team 1 would win this game with a predicted score of: 102.075949367 - 94.0
+
+Actual result: 108 - 100
+
+Error: -0.195907829755
+team 1 would win this game with a predicted score of: 101.835443038 - 92.8481012658
+
+Actual result: 103 - 89
+
+Error: -0.107150877283
+team 1 would win this game with a predicted score of: 101.569620253 - 94.8987341772
+
+Actual result: 96 - 92
+
+Error: -0.234282099747
+team 1 would win this game with a predicted score of: 95.9113924051 - 84.5063291139
+
+Actual result: 101 - 92
+
+Error: -0.211085276964
+team 1 would win this game with a predicted score of: 109.189873418 - 92.2784810127
+
+Actual result: 113 - 92
+
+Error: -0.133697757119
+team 1 would win this game with a predicted score of: 97.6962025316 - 89.7341772152
+
+Actual result: 101 - 91
+
+Error: -0.32041966483
+team 1 would win this game with a predicted score of: 99.7341772152 - 84.6329113924
+
+Actual result: 106 - 69
+
+Error: -0.190647184616
+team 1 would win this game with a predicted score of: 110.708860759 - 94.417721519
+
+Actual result: 118 - 94
+
+Error: -0.240251331415
+team 1 would win this game with a predicted score of: 111.556962025 - 100.82278481
+
+Actual result: 117 - 109
+
+Error: -0.173663896013
+team 1 would win this game with a predicted score of: 99.0506329114 - 88.7721518987
+
+Actual result: 92 - 88
+
+Error: 0.0952975129303
+team 2 would win this game with a predicted score of: 97.9746835443 - 89.1898734177
+
+Actual result: 95 - 89
+
+Error: -0.212596918404
+team 1 would win this game with a predicted score of: 97.0759493671 - 86.4936708861
+
+Actual result: 93 - 80
+
+Error: -0.28222938768
+team 1 would win this game with a predicted score of: 103.759493671 - 88.8101265823
+
+Actual result: 102 - 88
+
+Error: -0.167787991407
+team 1 would win this game with a predicted score of: 105.873417722 - 95.6582278481
+
+Actual result: 105 - 99
+
+Error: -0.0876501354264
+team 1 would win this game with a predicted score of: 111.189873418 - 100.303797468
+
+Actual result: 116 - 105
+
+Error: -0.00614518789106
+team 1 would win this game with a predicted score of: 92.3037974684 - 84.835443038
+
+Actual result: 87 - 85
+
+Error: -0.155959623018
+team 1 would win this game with a predicted score of: 111.291139241 - 97.3417721519
+
+Actual result: 112 - 95
+
+Error: 0.0313892972064
+team 2 would win this game with a predicted score of: 95.9367088608 - 87.8860759494
+
+Actual result: 102 - 98
+
+Error: -0.304618701076
+team 1 would win this game with a predicted score of: 110.202531646 - 94.7848101266
+
+Actual result: 123 - 92
+
+Error: -0.244413510418
+team 1 would win this game with a predicted score of: 101.594936709 - 92.835443038
+
+Actual result: 98 - 90
+
+Error: -0.369350071831
+team 1 would win this game with a predicted score of: 108.063291139 - 92.3797468354
+
+Actual result: 124 - 84
+
+Error: -0.289424520342
+team 1 would win this game with a predicted score of: 103.924050633 - 91.0632911392
+
+Actual result: 102 - 91
+
+Error: -0.201519578636
+team 1 would win this game with a predicted score of: 115.012658228 - 102.962025316
+
+Actual result: 128 - 106
+
+Error: -0.104311709738
+team 1 would win this game with a predicted score of: 103.797468354 - 93.835443038
+
+Actual result: 104 - 90
+
+Error: -0.0161873166025
+team 1 would win this game with a predicted score of: 94.6962025316 - 86.9873417722
+
+Actual result: 95 - 83
+
+Error: -0.285990614295
+team 1 would win this game with a predicted score of: 115.46835443 - 100.620253165
+
+Actual result: 124 - 104
+
+Error: -0.039046771102
+team 1 would win this game with a predicted score of: 97.7848101266 - 90.0253164557
+
+Actual result: 94 - 88
+
+Error: -0.0480530367344
+team 1 would win this game with a predicted score of: 107.506329114 - 97.4936708861
+
+Actual result: 105 - 103
+
+Error: -0.270903769127
+team 1 would win this game with a predicted score of: 108.012658228 - 92.4556962025
+
+Actual result: 120 - 93
+
+Error: -0.0830979514745
+team 1 would win this game with a predicted score of: 100.088607595 - 90.8860759494
+
+Actual result: 102 - 91
+
+Error: -0.0919647745458
+team 1 would win this game with a predicted score of: 113.113924051 - 102.607594937
+
+Actual result: 118 - 109
+
+Error: -0.0452887243616
+team 1 would win this game with a predicted score of: 98.3291139241 - 89.3924050633
+
+Actual result: 95 - 90
+
+Error: -0.108819892502
+team 1 would win this game with a predicted score of: 101.151898734 - 93.2278481013
+
+Actual result: 100 - 99
+
+Error: -0.102393870399
+team 1 would win this game with a predicted score of: 107.126582278 - 99.1265822785
+
+Actual result: 108 - 99
+
+Error: -0.0360268039389
+team 1 would win this game with a predicted score of: 97.8860759494 - 90.5316455696
+
+Actual result: 98 - 94
+
+Error: -0.190601453215
+team 1 would win this game with a predicted score of: 105.772151899 - 93.1012658228
+
+Actual result: 110 - 98
+
+Error: -0.254596424861
+team 1 would win this game with a predicted score of: 102.012658228 - 88.7848101266
+
+Actual result: 113 - 81
+
+Error: -0.180363927752
+team 1 would win this game with a predicted score of: 114.873417722 - 103.518987342
+
+Actual result: 122 - 114
+
+Error: -0.132705699361
+team 1 would win this game with a predicted score of: 98.0 - 89.253164557
+
+Actual result: 93 - 87
+
+Error: -0.035296214611
+team 1 would win this game with a predicted score of: 99.164556962 - 90.6708860759
+
+Actual result: 99 - 91
+
+Error: -0.119967022959
+team 1 would win this game with a predicted score of: 104.253164557 - 94.9113924051
+
+Actual result: 108 - 99
+
+Error: -0.184396458244
+team 1 would win this game with a predicted score of: 114.329113924 - 103.936708861
+
+Actual result: 116 - 106
+
+Error: -0.0932602616646
+team 1 would win this game with a predicted score of: 98.3544303797 - 90.5189873418
+
+Actual result: 96 - 89
+
+Error: 0.0304617039922
+team 2 would win this game with a predicted score of: 93.7088607595 - 85.164556962
+
+Actual result: 87 - 86
+
+Error: 0.00915280655556
+team 2 would win this game with a predicted score of: 99.582278481 - 90.6962025316
+
+Actual result: 102 - 96
+
+Error: -0.247253268701
+team 1 would win this game with a predicted score of: 102.35443038 - 94.1772151899
+
+Actual result: 102 - 87
+
+Error: -0.173023298313
+team 1 would win this game with a predicted score of: 106.987341772 - 93.9493670886
+
+Actual result: 115 - 89
+
+Error: 0.0610686889611
+team 2 would win this game with a predicted score of: 103.949367089 - 96.0886075949
+
+Actual result: 102 - 97
+
+Error: -0.0592648385618
+team 1 would win this game with a predicted score of: 98.7594936709 - 90.6075949367
+
+Actual result: 100 - 90
+
+Error: 0.0525901811333
+team 2 would win this game with a predicted score of: 111.443037975 - 102.202531646
+
+Actual result: 116 - 112
+
+Error: 0.0864688282469
+team 2 would win this game with a predicted score of: 104.556962025 - 94.2278481013
+
+Actual result: 97 - 96
+
+Error: -0.308162014579
+team 1 would win this game with a predicted score of: 104.405063291 - 88.5063291139
+
+Actual result: 108 - 89
+
+Error: 0.0137633134332
+team 2 would win this game with a predicted score of: 114.860759494 - 106.430379747
+
+Actual result: 116 - 113
+
+Error: -0.191695045935
+team 1 would win this game with a predicted score of: 104.620253165 - 93.1012658228
+
+Actual result: 105 - 95
+
+Error: -0.142011201868
+team 1 would win this game with a predicted score of: 103.759493671 - 94.8860759494
+
+Actual result: 107 - 94
+
+Error: 0.0382765604661
+team 2 would win this game with a predicted score of: 109.227848101 - 99.8860759494
+
+Actual result: 111 - 108
+
+Error: -0.407213680223
+team 1 would win this game with a predicted score of: 115.189873418 - 96.9873417722
+
+Actual result: 128 - 86
+
+Error: -0.192096759669
+team 1 would win this game with a predicted score of: 98.7848101266 - 86.4430379747
+
+Actual result: 101 - 82
+
+Error: -0.11933777829
+team 1 would win this game with a predicted score of: 105.746835443 - 96.0886075949
+
+Actual result: 103 - 96
+
+Error: -0.290332754323
+team 1 would win this game with a predicted score of: 109.443037975 - 100.367088608
+
+Actual result: 117 - 107
+
+Error: 0.0179787006229
+team 2 would win this game with a predicted score of: 106.278481013 - 98.6835443038
+
+Actual result: 104 - 101
+
+Error: 0.000458643073583
+team 2 would win this game with a predicted score of: 102.481012658 - 94.9873417722
+
+Actual result: 100 - 99
+
+Error: -0.150856633624
+team 1 would win this game with a predicted score of: 107.278481013 - 96.0253164557
+
+Actual result: 111 - 98
+
+Error: -0.227029885266
+team 1 would win this game with a predicted score of: 95.6835443038 - 85.5316455696
+
+Actual result: 95 - 78
+
+Error: -0.104137682705
+team 1 would win this game with a predicted score of: 105.278481013 - 95.4556962025
+
+Actual result: 97 - 92
+
+Error: -0.117023828644
+team 1 would win this game with a predicted score of: 103.911392405 - 92.4430379747
+
+Actual result: 105 - 100
+
+Error: -0.191088127758
+team 1 would win this game with a predicted score of: 99.9113924051 - 89.7974683544
+
+Actual result: 96 - 91
+
+Error: -0.106606501381
+team 1 would win this game with a predicted score of: 93.3544303797 - 83.6835443038
+
+Actual result: 90 - 77
+
+Error: -0.045031123043
+team 1 would win this game with a predicted score of: 109.139240506 - 101.075949367
+
+Actual result: 108 - 103
+
+Error: -0.105194771889
+team 1 would win this game with a predicted score of: 112.721518987 - 102.670886076
+
+Actual result: 121 - 105
+
+Error: -0.0555750208125
+team 1 would win this game with a predicted score of: 105.721518987 - 96.2658227848
+
+Actual result: 103 - 94
+
+Error: -0.2367514948
+team 1 would win this game with a predicted score of: 114.17721519 - 105.784810127
+
+Actual result: 116 - 105
+
+Error: 0.127571522586
+team 2 would win this game with a predicted score of: 99.1518987342 - 91.7215189873
+
+Actual result: 96 - 94
+
+Error: -0.00834804225323
+team 1 would win this game with a predicted score of: 99.4303797468 - 92.3544303797
+
+Actual result: 98 - 94
+
+Error: -0.145627389996
+team 1 would win this game with a predicted score of: 100.291139241 - 89.7088607595
+
+Actual result: 102 - 84
+
+Error: -0.17986218865
+team 1 would win this game with a predicted score of: 104.835443038 - 96.0886075949
+
+Actual result: 101 - 96
+
+Error: -0.027172691081
+team 1 would win this game with a predicted score of: 94.3037974684 - 85.8481012658
+
+Actual result: 98 - 91
+
+Error: -0.18695601402
+team 1 would win this game with a predicted score of: 109.405063291 - 98.3670886076
+
+Actual result: 115 - 93
+
+Error: -0.168421053736
+team 1 would win this game with a predicted score of: 95.7088607595 - 84.417721519
+
+Actual result: 91 - 79
+
+Error: -0.0486589355594
+team 1 would win this game with a predicted score of: 105.683544304 - 99.0632911392
+
+Actual result: 104 - 100
+
+Error: -0.414104339979
+team 1 would win this game with a predicted score of: 98.0506329114 - 80.1518987342
+
+Actual result: 104 - 64
+
+Error: -0.140654700343
+team 1 would win this game with a predicted score of: 100.772151899 - 92.5189873418
+
+Actual result: 95 - 90
+
+Error: -0.133695344774
+team 1 would win this game with a predicted score of: 97.9113924051 - 88.5063291139
+
+Actual result: 107 - 101
+
+Error: -0.337467835418
+team 1 would win this game with a predicted score of: 106.658227848 - 92.9620253165
+
+Actual result: 111 - 85
+
+Error: -0.100375393725
+team 1 would win this game with a predicted score of: 99.0253164557 - 91.0379746835
+
+Actual result: 98 - 88
+
+Error: -0.049539944981
+team 1 would win this game with a predicted score of: 104.17721519 - 95.9113924051
+
+Actual result: 104 - 97
+
+Error: -0.230938923012
+team 1 would win this game with a predicted score of: 107.873417722 - 92.6075949367
+
+Actual result: 112 - 91
+
+Error: -0.218988917309
+team 1 would win this game with a predicted score of: 105.139240506 - 91.3164556962
+
+Actual result: 115 - 89
+
+Error: -0.223227385365
+team 1 would win this game with a predicted score of: 102.886075949 - 92.2911392405
+
+Actual result: 98 - 91
+
+Error: -0.0393217531445
+team 1 would win this game with a predicted score of: 96.6329113924 - 87.4556962025
+
+Actual result: 90 - 87
+
+Error: -0.0440417354623
+team 1 would win this game with a predicted score of: 90.8481012658 - 82.6329113924
+
+Actual result: 79 - 77
+
+Error: -0.188338981888
+team 1 would win this game with a predicted score of: 112.696202532 - 99.9240506329
+
+Actual result: 111 - 99
+
+Error: -0.224540166682
+team 1 would win this game with a predicted score of: 111.962025316 - 97.7721518987
+
+Actual result: 109 - 94
+
+Error: -0.115627290216
+team 1 would win this game with a predicted score of: 97.6835443038 - 88.6455696203
+
+Actual result: 93 - 85
+
+Error: -0.0624217965895
+team 1 would win this game with a predicted score of: 110.556962025 - 100.784810127
+
+Actual result: 112 - 103
+
+Error: -0.26891136819
+team 1 would win this game with a predicted score of: 100.569620253 - 87.835443038
+
+Actual result: 105 - 82
+
+Error: -0.308123154293
+team 1 would win this game with a predicted score of: 94.6329113924 - 80.0
+
+Actual result: 96 - 72
+
+Error: -0.135562166317
+team 1 would win this game with a predicted score of: 106.240506329 - 97.9620253165
+
+Actual result: 109 - 97
+
+Error: -0.108629360822
+team 1 would win this game with a predicted score of: 100.594936709 - 91.1012658228
+
+Actual result: 105 - 99
+
+Error: -0.0105628481523
+team 1 would win this game with a predicted score of: 102.417721519 - 91.8734177215
+
+Actual result: 99 - 96
+
+Error: -0.0482260827346
+team 1 would win this game with a predicted score of: 91.4556962025 - 83.582278481
+
+Actual result: 76 - 73
+
+Error: -0.0623893182823
+team 1 would win this game with a predicted score of: 105.544303797 - 94.7974683544
+
+Actual result: 105 - 95
+
+Error: -0.0413005976707
+team 1 would win this game with a predicted score of: 94.5443037975 - 83.6835443038
+
+Actual result: 89 - 76
+
+Error: -0.277717335309
+team 1 would win this game with a predicted score of: 98.7974683544 - 86.1518987342
+
+Actual result: 103 - 83
+
+Error: 0.0536713761599
+team 2 would win this game with a predicted score of: 97.9873417722 - 88.9746835443
+
+Actual result: 79 - 77
+
+Error: -0.111133311067
+team 1 would win this game with a predicted score of: 114.924050633 - 103.164556962
+
+Actual result: 124 - 116
+
+Error: 0.0236315965238
+team 2 would win this game with a predicted score of: 98.7341772152 - 92.0759493671
+
+Actual result: 97 - 94
+
+Error: -0.129869568137
+team 1 would win this game with a predicted score of: 107.265822785 - 96.6835443038
+
+Actual result: 111 - 98
+
+Error: -0.282876224083
+team 1 would win this game with a predicted score of: 112.050632911 - 99.8987341772
+
+Actual result: 122 - 97
+
+Error: -0.163745003766
+team 1 would win this game with a predicted score of: 100.962025316 - 91.1265822785
+
+Actual result: 99 - 89
+
+Error: -0.195496871078
+team 1 would win this game with a predicted score of: 94.5696202532 - 85.253164557
+
+Actual result: 90 - 78
+
+Error: -0.156382089488
+team 1 would win this game with a predicted score of: 98.2911392405 - 87.4050632911
+
+Actual result: 97 - 77
+
+Error: -0.0174275676525
+team 1 would win this game with a predicted score of: 99.5443037975 - 91.1012658228
+
+Actual result: 96 - 94
+
+Error: -0.227176763266
+team 1 would win this game with a predicted score of: 103.265822785 - 89.5316455696
+
+Actual result: 104 - 88
+
+Error: -0.217561004144
+team 1 would win this game with a predicted score of: 99.5316455696 - 88.8227848101
+
+Actual result: 96 - 86
+
+Error: -0.222427465904
+team 1 would win this game with a predicted score of: 98.3797468354 - 84.9873417722
+
+Actual result: 93 - 76
+
+Error: -0.210819424078
+team 1 would win this game with a predicted score of: 103.164556962 - 90.7341772152
+
+Actual result: 103 - 92
+
+Error: -0.277047758787
+team 1 would win this game with a predicted score of: 104.379746835 - 93.5569620253
+
+Actual result: 111 - 89
+
+Error: 0.0477582392256
+team 2 would win this game with a predicted score of: 109.0 - 99.8734177215
+
+Actual result: 109 - 108
+
+Error: -0.0181780940572
+team 1 would win this game with a predicted score of: 102.632911392 - 94.0126582278
+
+Actual result: 113 - 111
+
+Error: -0.286954520247
+team 1 would win this game with a predicted score of: 103.189873418 - 91.0759493671
+
+Actual result: 105 - 91
+
+Error: 0.0285102912576
+team 2 would win this game with a predicted score of: 100.987341772 - 93.5696202532
+
+Actual result: 110 - 107
+
+Error: -0.167267462408
+team 1 would win this game with a predicted score of: 111.683544304 - 98.8987341772
+
+Actual result: 117 - 101
+
+Error: -0.324041954348
+team 1 would win this game with a predicted score of: 106.848101266 - 95.9873417722
+
+Actual result: 117 - 104
+
+Error: -0.180707426547
+team 1 would win this game with a predicted score of: 92.5696202532 - 80.6202531646
+
+Actual result: 93 - 72
+
+Error: -0.0157034836699
+team 1 would win this game with a predicted score of: 99.1012658228 - 88.4683544304
+
+Actual result: 99 - 87
+
+Error: -0.131362160501
+team 1 would win this game with a predicted score of: 100.936708861 - 90.1518987342
+
+Actual result: 99 - 95
+
+Error: -0.241419125261
+team 1 would win this game with a predicted score of: 98.4430379747 - 86.6708860759
+
+Actual result: 103 - 77
+
+Error: -0.0850474990954
+team 1 would win this game with a predicted score of: 105.240506329 - 95.0
+
+Actual result: 104 - 90
+
+Error: -0.131202182719
+team 1 would win this game with a predicted score of: 98.9493670886 - 89.5189873418
+
+Actual result: 91 - 90
+
+Error: 0.0776589490447
+team 2 would win this game with a predicted score of: 102.493670886 - 91.0506329114
+
+Actual result: 101 - 100
+
+Error: -0.269941814434
+team 1 would win this game with a predicted score of: 115.860759494 - 106.316455696
+
+Actual result: 131 - 112
+
+Error: -0.0766388886974
+team 1 would win this game with a predicted score of: 94.582278481 - 85.4050632911
+
+Actual result: 90 - 83
+
+Error: -0.293049238207
+team 1 would win this game with a predicted score of: 106.569620253 - 92.4050632911
+
+Actual result: 107 - 96
+
+Error: -0.0547120897633
+team 1 would win this game with a predicted score of: 99.5696202532 - 91.2784810127
+
+Actual result: 99 - 93
+
+Error: 0.0951279724228
+team 2 would win this game with a predicted score of: 94.2911392405 - 84.9873417722
+
+Actual result: 90 - 88
+
+Error: -0.19652268568
+team 1 would win this game with a predicted score of: 93.6202531646 - 82.8101265823
+
+Actual result: 89 - 80
+
+Error: -0.0877037405111
+team 1 would win this game with a predicted score of: 105.493670886 - 93.2911392405
+
+Actual result: 102 - 98
+
+Error: -0.105459114162
+team 1 would win this game with a predicted score of: 103.886075949 - 94.3797468354
+
+Actual result: 107 - 93
+
+Error: -0.233837382635
+team 1 would win this game with a predicted score of: 102.518987342 - 89.3291139241
+
+Actual result: 115 - 88
+
+Error: -0.320389565593
+team 1 would win this game with a predicted score of: 105.556962025 - 89.3037974684
+
+Actual result: 108 - 89
+
+Error: -0.119724844725
+team 1 would win this game with a predicted score of: 91.8734177215 - 82.6329113924
+
+Actual result: 93 - 76
+
+Error: -0.109330077534
+team 1 would win this game with a predicted score of: 106.35443038 - 94.8860759494
+
+Actual result: 113 - 90
+
+Error: -0.0562203592657
+team 1 would win this game with a predicted score of: 108.797468354 - 99.2911392405
+
+Actual result: 109 - 101
+
+Error: -0.0393541917092
+team 1 would win this game with a predicted score of: 97.7721518987 - 90.835443038
+
+Actual result: 90 - 86
+
+Error: -0.0270580244394
+team 1 would win this game with a predicted score of: 104.886075949 - 93.7721518987
+
+Actual result: 103 - 102
+
+Error: -0.0184344233032
+team 1 would win this game with a predicted score of: 111.291139241 - 101.341772152
+
+Actual result: 118 - 104
+
+Error: -0.140819421303
+team 1 would win this game with a predicted score of: 102.493670886 - 94.2278481013
+
+Actual result: 105 - 97
+
+Error: -0.050153977642
+team 1 would win this game with a predicted score of: 100.417721519 - 92.835443038
+
+Actual result: 97 - 90
+
+Error: -0.272190786685
+team 1 would win this game with a predicted score of: 101.037974684 - 87.0253164557
+
+Actual result: 101 - 78
+
+Error: -0.0527048422575
+team 1 would win this game with a predicted score of: 102.430379747 - 95.5063291139
+
+Actual result: 100 - 95
+
+Error: -0.121772953922
+team 1 would win this game with a predicted score of: 102.0 - 92.9367088608
+
+Actual result: 90 - 88
+
+Error: -0.0378497164604
+team 1 would win this game with a predicted score of: 96.1012658228 - 87.5949367089
+
+Actual result: 97 - 83
+
+Error: -0.252600593168
+team 1 would win this game with a predicted score of: 87.5316455696 - 75.8101265823
+
+Actual result: 82 - 62
+
+Error: -0.115719346405
+team 1 would win this game with a predicted score of: 102.696202532 - 91.9113924051
+
+Actual result: 96 - 89
+
+Error: -0.0290508483178
+team 1 would win this game with a predicted score of: 94.5443037975 - 87.4936708861
+
+Actual result: 90 - 80
+
+Error: -0.288180513128
+team 1 would win this game with a predicted score of: 96.1012658228 - 83.5569620253
+
+Actual result: 92 - 72
+
+Error: -0.0871806302396
+team 1 would win this game with a predicted score of: 101.556962025 - 89.3924050633
+
+Actual result: 104 - 93
+
+Error: -0.357520835997
+team 1 would win this game with a predicted score of: 105.17721519 - 86.8607594937
+
+Actual result: 109 - 79
+
+Error: -0.0905231352342
+team 1 would win this game with a predicted score of: 104.392405063 - 96.9493670886
+
+Actual result: 104 - 102
+
+Error: -0.215969638245
+team 1 would win this game with a predicted score of: 99.5316455696 - 87.746835443
+
+Actual result: 103 - 79
+
+Error: -0.0377459377157
+team 1 would win this game with a predicted score of: 94.1392405063 - 86.6582278481
+
+Actual result: 87 - 82
+
+Error: -0.211578827374
+team 1 would win this game with a predicted score of: 98.4556962025 - 89.2405063291
+
+Actual result: 99 - 94
+
+Error: -0.130022450969
+team 1 would win this game with a predicted score of: 98.7088607595 - 88.4050632911
+
+Actual result: 96 - 75
+
+Error: -0.136193046854
+team 1 would win this game with a predicted score of: 103.848101266 - 97.1772151899
+
+Actual result: 107 - 96
+
+Error: -0.380540488523
+team 1 would win this game with a predicted score of: 114.632911392 - 103.443037975
+
+Actual result: 115 - 99
+
+Error: 0.0422337278079
+team 2 would win this game with a predicted score of: 93.3037974684 - 85.9493670886
+
+Actual result: 89 - 79
+
+Error: -0.152560193264
+team 1 would win this game with a predicted score of: 113.658227848 - 102.556962025
+
+Actual result: 117 - 101
+
+Error: 0.144599027668
+team 2 would win this game with a predicted score of: 108.860759494 - 100.582278481
+
+Actual result: 106 - 104
+
+Error: -0.106107047037
+team 1 would win this game with a predicted score of: 101.101265823 - 92.5189873418
+
+Actual result: 99 - 93
+
+Error: -0.230646339857
+team 1 would win this game with a predicted score of: 108.544303797 - 95.1139240506
+
+Actual result: 108 - 94
+
+Error: -0.0730030273538
+team 1 would win this game with a predicted score of: 95.2405063291 - 86.0253164557
+
+Actual result: 88 - 84
+
+Error: -0.336235300224
+team 1 would win this game with a predicted score of: 91.6455696203 - 77.1772151899
+
+Actual result: 83 - 68
+
+Error: -0.135793673573
+team 1 would win this game with a predicted score of: 107.050632911 - 99.2658227848
+
+Actual result: 113 - 110
+
+Error: -0.0742447369266
+team 1 would win this game with a predicted score of: 99.746835443 - 90.417721519
+
+Actual result: 94 - 92
+
+Error: -0.282932706186
+team 1 would win this game with a predicted score of: 102.607594937 - 88.8101265823
+
+Actual result: 102 - 86
+
+Error: -0.0761763252972
+team 1 would win this game with a predicted score of: 94.5063291139 - 86.2025316456
+
+Actual result: 94 - 86
+
+Error: -0.0671756301993
+team 1 would win this game with a predicted score of: 108.810126582 - 98.5189873418
+
+Actual result: 110 - 99
+
+Error: -0.184050269245
+team 1 would win this game with a predicted score of: 116.215189873 - 104.582278481
+
+Actual result: 129 - 107
+
+Error: -0.106484229049
+team 1 would win this game with a predicted score of: 102.481012658 - 90.9493670886
+
+Actual result: 97 - 91
+
+Error: -0.0706638065009
+team 1 would win this game with a predicted score of: 99.1772151899 - 91.1898734177
+
+Actual result: 92 - 89
+

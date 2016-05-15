@@ -1,0 +1,6275 @@
+K: 178
+Error: 0.000467033176392
+Team 2 would win this game
+Error: -0.0402459430406
+Team 1 would win this game
+Error: -0.033489260597
+Team 1 would win this game
+Error: 0.00247442749969
+Team 2 would win this game
+Error: -0.0226496462274
+Team 1 would win this game
+Error: 0.00466020759632
+Team 2 would win this game
+Error: 0.00330444955762
+Team 2 would win this game
+Error: -0.0174885591841
+Team 1 would win this game
+Error: -0.0599363846122
+Team 1 would win this game
+Error: 0.0180823266273
+Team 2 would win this game
+Error: -0.0246190404505
+Team 1 would win this game
+Error: -0.0381282929084
+Team 1 would win this game
+Error: -0.0256737048621
+Team 1 would win this game
+Error: -0.0274379312177
+Team 1 would win this game
+Error: -0.0120111961514
+Team 1 would win this game
+Error: -0.0191439073169
+Team 1 would win this game
+Error: 0.021302518835
+Team 2 would win this game
+Error: -0.054774799275
+Team 1 would win this game
+Error: -0.0144128529937
+Team 1 would win this game
+Error: -0.0125194950306
+Team 1 would win this game
+Error: -0.0517027681344
+Team 1 would win this game
+Error: -0.0439874389122
+Team 1 would win this game
+Error: -0.0129388812857
+Team 1 would win this game
+Error: -0.00791919094627
+Team 1 would win this game
+Error: -0.0571981977555
+Team 1 would win this game
+Error: 0.0187613973176
+Team 2 would win this game
+Error: -0.00817653023842
+Team 1 would win this game
+Error: -0.0221043519341
+Team 1 would win this game
+Error: -0.05003703892
+Team 1 would win this game
+Error: -0.00026783766225
+Team 1 would win this game
+Error: -0.0340388237091
+Team 1 would win this game
+Error: -0.0237238829795
+Team 1 would win this game
+Error: -0.000240781919274
+Team 1 would win this game
+Error: -0.0212738343325
+Team 1 would win this game
+Error: -0.00845678224869
+Team 1 would win this game
+Error: 0.000118662159366
+Team 2 would win this game
+Error: -0.0499692900921
+Team 1 would win this game
+Error: 0.00424227121403
+Team 2 would win this game
+Error: -0.0289028770785
+Team 1 would win this game
+Error: 0.00127310772223
+Team 2 would win this game
+Error: 0.0188831719061
+Team 2 would win this game
+Error: -0.0176059193182
+Team 1 would win this game
+Error: -0.0182944253538
+Team 1 would win this game
+Error: -0.0368480523102
+Team 1 would win this game
+Error: -0.042677275429
+Team 1 would win this game
+Error: 0.0239984734144
+Team 2 would win this game
+Error: -0.00566088171763
+Team 1 would win this game
+Error: -0.037418984306
+Team 1 would win this game
+Error: -0.00749116187944
+Team 1 would win this game
+Error: -0.0132656058122
+Team 1 would win this game
+Error: 0.00487500369491
+Team 2 would win this game
+Error: -0.0578120721839
+Team 1 would win this game
+Error: -0.0271388359324
+Team 1 would win this game
+Error: -0.031791277419
+Team 1 would win this game
+Error: -0.0198979447741
+Team 1 would win this game
+Error: -0.0655591926043
+Team 1 would win this game
+Error: -0.0387224534934
+Team 1 would win this game
+Error: -0.0242670946973
+Team 1 would win this game
+Error: -0.00239475777198
+Team 1 would win this game
+Error: -0.0235907905735
+Team 1 would win this game
+Error: -0.0072052573596
+Team 1 would win this game
+Error: -0.0156439354178
+Team 1 would win this game
+Error: -0.0560997278444
+Team 1 would win this game
+Error: -0.00890530087054
+Team 1 would win this game
+Error: -0.0100616594136
+Team 1 would win this game
+Error: -0.072596743179
+Team 1 would win this game
+Error: -0.0438536724832
+Team 1 would win this game
+Error: -0.0403431706727
+Team 1 would win this game
+Error: -0.0549565621041
+Team 1 would win this game
+Error: -0.0450223956796
+Team 1 would win this game
+Error: 0.0245876564441
+Team 2 would win this game
+Error: -0.0179947071811
+Team 1 would win this game
+Error: -0.0429504783096
+Team 1 would win this game
+Error: -0.0294522239565
+Team 1 would win this game
+Error: -0.0441911847229
+Team 1 would win this game
+Error: -0.0590267392181
+Team 1 would win this game
+Error: 0.0079920237331
+Team 2 would win this game
+Error: 0.0183596564602
+Team 2 would win this game
+Error: -0.0543609102533
+Team 1 would win this game
+Error: -0.00972940728388
+Team 1 would win this game
+Error: -0.000577146325668
+Team 1 would win this game
+Error: -0.0284654576244
+Team 1 would win this game
+Error: -0.0059529858554
+Team 1 would win this game
+Error: -0.0287112102887
+Team 1 would win this game
+Error: -0.0280640074561
+Team 1 would win this game
+Error: -0.0246421516567
+Team 1 would win this game
+Error: -0.0417695378783
+Team 1 would win this game
+Error: -0.0224040361209
+Team 1 would win this game
+Error: -0.0457102001164
+Team 1 would win this game
+Error: -0.0525055484613
+Team 1 would win this game
+Error: -0.00620947668358
+Team 1 would win this game
+Error: -0.0143890366526
+Team 1 would win this game
+Error: 0.00670597444696
+Team 2 would win this game
+Error: -0.012199899902
+Team 1 would win this game
+Error: -0.00917383797059
+Team 1 would win this game
+Error: -0.0506897670639
+Team 1 would win this game
+Error: -0.0679797794874
+Team 1 would win this game
+Error: -0.00493340691901
+Team 1 would win this game
+Error: -0.0359543593513
+Team 1 would win this game
+Error: -0.0193177356268
+Team 1 would win this game
+Error: -0.00528354193375
+Team 1 would win this game
+Error: -0.0579011785958
+Team 1 would win this game
+Error: -0.00927536932431
+Team 1 would win this game
+Error: -0.0339164215402
+Team 1 would win this game
+Error: -0.033161857049
+Team 1 would win this game
+Error: -0.0148558798319
+Team 1 would win this game
+Error: 0.00821008207276
+Team 2 would win this game
+Error: -0.0479267262635
+Team 1 would win this game
+Error: -0.0232042343632
+Team 1 would win this game
+Error: -0.0106970509441
+Team 1 would win this game
+Error: -0.0155263330162
+Team 1 would win this game
+Error: -0.0284463869466
+Team 1 would win this game
+Error: -0.0397489050883
+Team 1 would win this game
+Error: -0.00745064864896
+Team 1 would win this game
+Error: -0.0309701856168
+Team 1 would win this game
+Error: -0.048919050736
+Team 1 would win this game
+Error: -0.0356423540215
+Team 1 would win this game
+Error: -0.039708327844
+Team 1 would win this game
+Error: -0.00611978225788
+Team 1 would win this game
+Error: -0.0298893105282
+Team 1 would win this game
+Error: -0.00939161883434
+Team 1 would win this game
+Error: -0.0506305253293
+Team 1 would win this game
+Error: -0.0366910880257
+Team 1 would win this game
+Error: -0.0553756108711
+Team 1 would win this game
+Error: -0.0753904062221
+Team 1 would win this game
+Error: -0.0692455890821
+Team 1 would win this game
+Error: -0.0433367576916
+Team 1 would win this game
+Error: -0.0309854059742
+Team 1 would win this game
+Error: -0.0486084045478
+Team 1 would win this game
+Error: -0.0095734735296
+Team 1 would win this game
+Error: -0.0442619701353
+Team 1 would win this game
+Error: 0.00815673886973
+Team 2 would win this game
+Error: -0.00329881148355
+Team 1 would win this game
+Error: -0.0764033137748
+Team 1 would win this game
+Error: -0.0568403233046
+Team 1 would win this game
+Error: -0.0321509214773
+Team 1 would win this game
+Error: -0.0287358131027
+Team 1 would win this game
+Error: -0.0510859923161
+Team 1 would win this game
+Error: 0.00352468220808
+Team 2 would win this game
+Error: -0.0635964422981
+Team 1 would win this game
+Error: -0.00216179974086
+Team 1 would win this game
+Error: -0.0460336245014
+Team 1 would win this game
+Error: -0.0176573857461
+Team 1 would win this game
+Error: 0.0135367139374
+Team 2 would win this game
+Error: -0.0294157695243
+Team 1 would win this game
+Error: -0.070813446051
+Team 1 would win this game
+Error: -0.0161645559929
+Team 1 would win this game
+Error: -0.0531755863485
+Team 1 would win this game
+Error: 0.000500257126987
+Team 2 would win this game
+Error: -0.0795966550431
+Team 1 would win this game
+Error: -0.00182411204878
+Team 1 would win this game
+Error: -0.0214036418693
+Team 1 would win this game
+Error: -0.0532322832732
+Team 1 would win this game
+Error: -0.0369052986134
+Team 1 would win this game
+Error: -0.0364426243177
+Team 1 would win this game
+Error: -0.0287111550497
+Team 1 would win this game
+Error: -0.0325411588128
+Team 1 would win this game
+Error: 0.022483986686
+Team 2 would win this game
+Error: -0.0233682844628
+Team 1 would win this game
+Error: -0.068344353298
+Team 1 would win this game
+Error: -0.0428942332437
+Team 1 would win this game
+Error: -0.0383428991918
+Team 1 would win this game
+Error: 0.0275927455514
+Team 2 would win this game
+Error: -0.0184684393971
+Team 1 would win this game
+Error: -0.046367573108
+Team 1 would win this game
+Error: -0.0367413230488
+Team 1 would win this game
+Error: -0.0104616907411
+Team 1 would win this game
+Error: 0.0259109673425
+Team 2 would win this game
+Error: -0.0550647942655
+Team 1 would win this game
+Error: -0.0406248035943
+Team 1 would win this game
+Error: -0.0248738732407
+Team 1 would win this game
+Error: -0.0613995002641
+Team 1 would win this game
+Error: -0.010447246008
+Team 1 would win this game
+Error: -0.00264277524548
+Team 1 would win this game
+Error: -0.016389315897
+Team 1 would win this game
+Error: -0.0259004789696
+Team 1 would win this game
+Error: -0.0435669254584
+Team 1 would win this game
+Error: -0.0390736274639
+Team 1 would win this game
+Error: -0.0472954658035
+Team 1 would win this game
+Error: -0.0461187157052
+Team 1 would win this game
+Error: 0.00976571253705
+Team 2 would win this game
+Error: -0.0684184786805
+Team 1 would win this game
+Error: -0.0241817623682
+Team 1 would win this game
+Error: -0.00800832720415
+Team 1 would win this game
+Error: -0.0478121635097
+Team 1 would win this game
+Error: 0.00103606477205
+Team 2 would win this game
+Error: -0.0186499970077
+Team 1 would win this game
+Error: -0.0585837473118
+Team 1 would win this game
+Error: -0.0359801546074
+Team 1 would win this game
+Error: 0.0130267856803
+Team 2 would win this game
+Error: -0.048945305316
+Team 1 would win this game
+Error: -0.00323272676906
+Team 1 would win this game
+Error: -0.00517837782536
+Team 1 would win this game
+Error: 0.0123541934663
+Team 2 would win this game
+Error: -0.0319082178466
+Team 1 would win this game
+Error: -0.020546767526
+Team 1 would win this game
+Error: 0.0167649976429
+Team 2 would win this game
+Error: -0.0382779674837
+Team 1 would win this game
+Error: -0.023823891439
+Team 1 would win this game
+Error: -0.0394385146355
+Team 1 would win this game
+Error: -0.00683162236237
+Team 1 would win this game
+Error: -0.0239668981594
+Team 1 would win this game
+Error: -0.0097155706535
+Team 1 would win this game
+Error: -0.00412294299895
+Team 1 would win this game
+Error: -0.0405224792994
+Team 1 would win this game
+Error: -0.0362510306368
+Team 1 would win this game
+Error: -0.0500815516862
+Team 1 would win this game
+Error: 0.00674394948146
+Team 2 would win this game
+Error: -0.00960895520257
+Team 1 would win this game
+Error: -0.0277500450902
+Team 1 would win this game
+Error: -0.026595583091
+Team 1 would win this game
+Error: -0.0106651186652
+Team 1 would win this game
+Error: -0.0254040063301
+Team 1 would win this game
+Error: -0.0192401925888
+Team 1 would win this game
+Error: -0.041088825179
+Team 1 would win this game
+Error: -0.0103741451894
+Team 1 would win this game
+Error: -0.0340527513617
+Team 1 would win this game
+Error: -0.026996520377
+Team 1 would win this game
+Error: -0.00880637411319
+Team 1 would win this game
+Error: -0.0185661627984
+Team 1 would win this game
+Error: 0.00119754987099
+Team 2 would win this game
+Error: -0.0271286827701
+Team 1 would win this game
+Error: -0.00283762556501
+Team 1 would win this game
+Error: -0.0191140824536
+Team 1 would win this game
+Error: -0.0141159055638
+Team 1 would win this game
+Error: -0.045644878177
+Team 1 would win this game
+Error: -0.0275952198281
+Team 1 would win this game
+Error: -0.0267783294184
+Team 1 would win this game
+Error: -0.041079489376
+Team 1 would win this game
+Error: -0.0685763387082
+Team 1 would win this game
+Error: -0.0651551593546
+Team 1 would win this game
+Error: -0.0472344463924
+Team 1 would win this game
+Error: -0.0392538896631
+Team 1 would win this game
+Error: -0.00751437000872
+Team 1 would win this game
+Error: -0.0230353011939
+Team 1 would win this game
+Error: -0.0522855460949
+Team 1 would win this game
+Error: -0.00487893921672
+Team 1 would win this game
+Error: -0.00849008827208
+Team 1 would win this game
+Error: -0.0354431897504
+Team 1 would win this game
+Error: -0.0355440671119
+Team 1 would win this game
+Error: 0.0050837168601
+Team 2 would win this game
+Error: -0.0159722018943
+Team 1 would win this game
+Error: -0.0354557412429
+Team 1 would win this game
+Error: -0.00802762350941
+Team 1 would win this game
+Error: -0.0680620141065
+Team 1 would win this game
+Error: -0.0543257272657
+Team 1 would win this game
+Error: -0.00152662587789
+Team 1 would win this game
+Error: 0.00417834427208
+Team 2 would win this game
+Error: -0.00234281529265
+Team 1 would win this game
+Error: -0.0057077860547
+Team 1 would win this game
+Error: 0.00742873505078
+Team 2 would win this game
+Error: -0.0186932389115
+Team 1 would win this game
+Error: -0.00858237250213
+Team 1 would win this game
+Error: -0.0629865554656
+Team 1 would win this game
+Error: -0.0150282188188
+Team 1 would win this game
+Error: -0.0465298098425
+Team 1 would win this game
+Error: -0.0338854570437
+Team 1 would win this game
+Error: -0.0323448158961
+Team 1 would win this game
+Error: -0.0253075590299
+Team 1 would win this game
+Error: -0.0425984737449
+Team 1 would win this game
+Error: -0.0231625837041
+Team 1 would win this game
+Error: -0.0361393176354
+Team 1 would win this game
+Error: 0.000900101287698
+Team 2 would win this game
+Error: -0.0807830750928
+Team 1 would win this game
+Error: -0.0208013313604
+Team 1 would win this game
+Error: -4.32902452303e-05
+Team 1 would win this game
+Error: -0.014644973322
+Team 1 would win this game
+Error: -0.0164813179435
+Team 1 would win this game
+Error: -0.0062279769918
+Team 1 would win this game
+Error: -0.0441708372673
+Team 1 would win this game
+Error: -0.0257039282442
+Team 1 would win this game
+Error: -0.0406585348683
+Team 1 would win this game
+Error: 0.00764070685545
+Team 2 would win this game
+Error: -0.0756952605661
+Team 1 would win this game
+Error: -0.0138250376185
+Team 1 would win this game
+Error: -0.0527963485583
+Team 1 would win this game
+Error: -0.0157379791781
+Team 1 would win this game
+Error: -0.0651089575331
+Team 1 would win this game
+Error: -0.0128541685481
+Team 1 would win this game
+Error: -0.00122932051454
+Team 1 would win this game
+Error: -0.0426818453707
+Team 1 would win this game
+Error: 0.00415571879421
+Team 2 would win this game
+Error: -0.0193988415631
+Team 1 would win this game
+Error: -0.0371649092485
+Team 1 would win this game
+Error: -0.0223359627053
+Team 1 would win this game
+Error: -0.0465072373554
+Team 1 would win this game
+Error: -0.0719175604754
+Team 1 would win this game
+Error: -0.0690906991658
+Team 1 would win this game
+Error: -0.060207688206
+Team 1 would win this game
+Error: -0.0636284040374
+Team 1 would win this game
+Error: -0.0432127942768
+Team 1 would win this game
+Error: -0.0757086226949
+Team 1 would win this game
+Error: -0.0388295305893
+Team 1 would win this game
+Error: -0.0547150136044
+Team 1 would win this game
+Error: 0.00835388622363
+Team 2 would win this game
+Error: -0.0623307929491
+Team 1 would win this game
+Error: -0.0339607045535
+Team 1 would win this game
+Error: -0.0397040841926
+Team 1 would win this game
+Error: 0.00503815573029
+Team 2 would win this game
+Error: -0.0343069285882
+Team 1 would win this game
+Error: -0.0233583596419
+Team 1 would win this game
+Error: -0.0258627992807
+Team 1 would win this game
+Error: -0.00155960969278
+Team 1 would win this game
+Error: -0.0621416339927
+Team 1 would win this game
+Error: -0.034454134875
+Team 1 would win this game
+Error: -0.0586779725345
+Team 1 would win this game
+Error: 0.010394908837
+Team 2 would win this game
+Error: 0.00511850362091
+Team 2 would win this game
+Error: -0.0397151813158
+Team 1 would win this game
+Error: -0.0028807458948
+Team 1 would win this game
+Error: -0.0179912142921
+Team 1 would win this game
+Error: 0.00239093357959
+Team 2 would win this game
+Error: 0.00248286373244
+Team 2 would win this game
+Error: 0.0166380150258
+Team 2 would win this game
+Error: -0.0269256739994
+Team 1 would win this game
+Error: -0.0337163574659
+Team 1 would win this game
+Error: -0.0514233257927
+Team 1 would win this game
+Error: -0.051815445011
+Team 1 would win this game
+Error: -0.06560594435
+Team 1 would win this game
+Error: -0.00643286827835
+Team 1 would win this game
+Error: -0.0169471239351
+Team 1 would win this game
+Error: -0.0452346989623
+Team 1 would win this game
+Error: -0.0241299978297
+Team 1 would win this game
+Error: -0.0429948322853
+Team 1 would win this game
+Error: -0.00505968835205
+Team 1 would win this game
+Error: -0.0305375353564
+Team 1 would win this game
+Error: -0.0134993435277
+Team 1 would win this game
+Error: 0.00347868324025
+Team 2 would win this game
+Error: -0.00468982521852
+Team 1 would win this game
+Error: -0.0247048435485
+Team 1 would win this game
+Error: 0.00151939642819
+Team 2 would win this game
+Error: 0.0272234782606
+Team 2 would win this game
+Error: -0.0240755132909
+Team 1 would win this game
+Error: 0.0101887790515
+Team 2 would win this game
+Error: 0.000935591480811
+Team 2 would win this game
+Error: -0.0302928455858
+Team 1 would win this game
+Error: 0.00357671178062
+Team 2 would win this game
+Error: -0.0392776206063
+Team 1 would win this game
+Error: 0.0118900642265
+Team 2 would win this game
+Error: -0.0280995481371
+Team 1 would win this game
+Error: 0.00196737422084
+Team 2 would win this game
+Error: -0.0430634629738
+Team 1 would win this game
+Error: -0.0251847649415
+Team 1 would win this game
+Error: -0.090040131312
+Team 1 would win this game
+Error: -0.058731338002
+Team 1 would win this game
+Error: -0.0355617068417
+Team 1 would win this game
+Error: 0.0239594269078
+Team 2 would win this game
+Error: -0.0172733525978
+Team 1 would win this game
+Error: -0.0259642582896
+Team 1 would win this game
+Error: -0.0331079513053
+Team 1 would win this game
+Error: -0.00965737992374
+Team 1 would win this game
+Error: -0.0552886466539
+Team 1 would win this game
+Error: -0.0134665213409
+Team 1 would win this game
+Error: -0.0348346085957
+Team 1 would win this game
+Error: 0.00841519444657
+Team 2 would win this game
+Error: -0.0166469481046
+Team 1 would win this game
+Error: -0.0237102754909
+Team 1 would win this game
+Error: -0.0206263354921
+Team 1 would win this game
+Error: -0.0360520918039
+Team 1 would win this game
+Error: -0.0134028348111
+Team 1 would win this game
+Error: 0.00377789189224
+Team 2 would win this game
+Error: -0.0619954362119
+Team 1 would win this game
+Error: -0.0519995055074
+Team 1 would win this game
+Error: -0.0318008700197
+Team 1 would win this game
+Error: -0.0310311042704
+Team 1 would win this game
+Error: -0.0347716913529
+Team 1 would win this game
+Error: -0.056441846973
+Team 1 would win this game
+Error: -0.0407937562995
+Team 1 would win this game
+Error: -0.0176276315615
+Team 1 would win this game
+Error: -0.0229554758625
+Team 1 would win this game
+Error: -0.0412659060603
+Team 1 would win this game
+Error: -0.0233943306957
+Team 1 would win this game
+Error: 0.0168390419276
+Team 2 would win this game
+Error: -0.0207794351809
+Team 1 would win this game
+Error: 0.00265242187743
+Team 2 would win this game
+Error: -0.0484357282912
+Team 1 would win this game
+Error: -0.0286909630886
+Team 1 would win this game
+Error: 0.00746173624793
+Team 2 would win this game
+Error: -0.065227305553
+Team 1 would win this game
+Error: -0.0618254766086
+Team 1 would win this game
+Error: -0.0315537622882
+Team 1 would win this game
+Error: -0.0911898639024
+Team 1 would win this game
+Error: -0.0363328125241
+Team 1 would win this game
+Error: -0.00273135661701
+Team 1 would win this game
+Error: -0.0419494748057
+Team 1 would win this game
+Error: -0.0109726082519
+Team 1 would win this game
+Error: -0.0300890289873
+Team 1 would win this game
+Error: -0.0361770728414
+Team 1 would win this game
+Error: -0.00655432942585
+Team 1 would win this game
+Error: -0.0413054122837
+Team 1 would win this game
+Error: -0.000833612328279
+Team 1 would win this game
+Error: -0.0409407919724
+Team 1 would win this game
+Error: -0.0368013183252
+Team 1 would win this game
+Error: -0.0508069691932
+Team 1 would win this game
+Error: -0.00898021031026
+Team 1 would win this game
+Error: -0.0312018137338
+Team 1 would win this game
+Error: -0.0281043377545
+Team 1 would win this game
+Error: 0.0136935473638
+Team 2 would win this game
+Error: -0.0205895820691
+Team 1 would win this game
+Error: -0.0206259870029
+Team 1 would win this game
+Error: -0.0697090838075
+Team 1 would win this game
+Error: 0.0274195172751
+Team 2 would win this game
+Error: -0.0463387880154
+Team 1 would win this game
+Error: 0.0148703929663
+Team 2 would win this game
+Error: -0.0336909498801
+Team 1 would win this game
+Error: -0.0536559993488
+Team 1 would win this game
+Error: -0.0174907951659
+Team 1 would win this game
+Error: -0.0453565696225
+Team 1 would win this game
+Error: -0.00349608745455
+Team 1 would win this game
+Error: -0.0358433668225
+Team 1 would win this game
+Error: -0.0129286421434
+Team 1 would win this game
+Error: -0.0324423266284
+Team 1 would win this game
+Error: -0.0259510751057
+Team 1 would win this game
+Error: -0.0111870621404
+Team 1 would win this game
+Error: -0.0114604121554
+Team 1 would win this game
+Error: -0.0351430438313
+Team 1 would win this game
+Error: -0.015536856401
+Team 1 would win this game
+Error: -0.0377513733692
+Team 1 would win this game
+Error: -0.0419719186757
+Team 1 would win this game
+Error: -0.0460506573072
+Team 1 would win this game
+Error: -0.00909131386288
+Team 1 would win this game
+Error: -0.018481958039
+Team 1 would win this game
+Error: -0.0096230478739
+Team 1 would win this game
+Error: -0.0145063502714
+Team 1 would win this game
+Error: -0.0378612416753
+Team 1 would win this game
+Error: -0.047021201528
+Team 1 would win this game
+Error: -0.0592402742695
+Team 1 would win this game
+Error: -0.0182248142519
+Team 1 would win this game
+Error: -0.0417027609219
+Team 1 would win this game
+Error: -0.013571605843
+Team 1 would win this game
+Error: -0.0237111383103
+Team 1 would win this game
+Error: -0.0304297305993
+Team 1 would win this game
+Error: -0.039842178674
+Team 1 would win this game
+Error: -0.0406892198953
+Team 1 would win this game
+Error: 0.000380302357371
+Team 2 would win this game
+Error: -0.00927371124999
+Team 1 would win this game
+Error: -0.0591405367959
+Team 1 would win this game
+Error: -0.0188968835282
+Team 1 would win this game
+Error: 0.00851596239227
+Team 2 would win this game
+Error: -0.0235013274578
+Team 1 would win this game
+Error: -0.0107750039242
+Team 1 would win this game
+Error: 0.0126797598568
+Team 2 would win this game
+Error: -0.0292293858729
+Team 1 would win this game
+Error: -0.0397684078853
+Team 1 would win this game
+Error: -0.0183177032668
+Team 1 would win this game
+Error: -0.0426810981517
+Team 1 would win this game
+Error: 0.0126751158678
+Team 2 would win this game
+Error: -0.0569692184508
+Team 1 would win this game
+Error: -0.0261616746138
+Team 1 would win this game
+Error: -0.0529300000999
+Team 1 would win this game
+Error: -0.0136550421812
+Team 1 would win this game
+Error: -0.0178842212408
+Team 1 would win this game
+Error: -0.0421940802189
+Team 1 would win this game
+Error: -0.0366451895097
+Team 1 would win this game
+Error: -0.0268754544159
+Team 1 would win this game
+Error: -0.0268075270069
+Team 1 would win this game
+Error: -0.0237175401417
+Team 1 would win this game
+Error: -0.0228527102445
+Team 1 would win this game
+Error: -0.0128496658435
+Team 1 would win this game
+Error: -0.0294244250545
+Team 1 would win this game
+Error: 0.0110084187691
+Team 2 would win this game
+Error: -0.0264695108053
+Team 1 would win this game
+Error: -0.0133808015162
+Team 1 would win this game
+Error: -0.061945561567
+Team 1 would win this game
+Error: -0.0142581494874
+Team 1 would win this game
+Error: -0.0395725494091
+Team 1 would win this game
+Error: -0.0228634953528
+Team 1 would win this game
+Error: -0.017694674767
+Team 1 would win this game
+Error: -0.00905943649559
+Team 1 would win this game
+Error: -0.0280371033732
+Team 1 would win this game
+Error: -0.0510138351819
+Team 1 would win this game
+Error: -0.017842977868
+Team 1 would win this game
+Error: 0.00526821974927
+Team 2 would win this game
+Error: -0.0135233641995
+Team 1 would win this game
+Error: -0.00475690970779
+Team 1 would win this game
+Error: 0.00429206569243
+Team 2 would win this game
+Error: 0.0016101560177
+Team 2 would win this game
+Error: -0.0217346260179
+Team 1 would win this game
+Error: -0.0459474341114
+Team 1 would win this game
+Error: -0.0663872272125
+Team 1 would win this game
+Error: -0.0386869329159
+Team 1 would win this game
+Error: -0.0267577463455
+Team 1 would win this game
+Error: -0.0247990243079
+Team 1 would win this game
+Error: -0.0409774503787
+Team 1 would win this game
+Error: -0.00806508415553
+Team 1 would win this game
+Error: -0.0367141015813
+Team 1 would win this game
+Error: -0.0540219163013
+Team 1 would win this game
+Error: 0.00483195551351
+Team 2 would win this game
+Error: -0.0192124911846
+Team 1 would win this game
+Error: -0.00768480335682
+Team 1 would win this game
+Error: -0.0445004442372
+Team 1 would win this game
+Error: -0.0255963667005
+Team 1 would win this game
+Error: -0.0127393946823
+Team 1 would win this game
+Error: -0.0462504653187
+Team 1 would win this game
+Error: -0.0647509682749
+Team 1 would win this game
+Error: -0.0295169705132
+Team 1 would win this game
+Error: -0.0377794159504
+Team 1 would win this game
+Error: -0.0286836031519
+Team 1 would win this game
+Error: 0.00061031900259
+Team 2 would win this game
+Error: 0.0180948169
+Team 2 would win this game
+Error: -0.0485084455358
+Team 1 would win this game
+Error: -0.0622472987161
+Team 1 would win this game
+Error: -0.0190604406162
+Team 1 would win this game
+Error: -0.016671934507
+Team 1 would win this game
+Error: -0.0634546235524
+Team 1 would win this game
+Error: 0.0137938003973
+Team 2 would win this game
+Error: -0.0320112416666
+Team 1 would win this game
+Error: -0.043294550298
+Team 1 would win this game
+Error: -0.036935629636
+Team 1 would win this game
+Error: -0.026853328025
+Team 1 would win this game
+Error: -0.0535199596707
+Team 1 would win this game
+Error: -0.0074015176433
+Team 1 would win this game
+Error: -0.0476301488161
+Team 1 would win this game
+Error: -0.0545671641012
+Team 1 would win this game
+Error: 0.00306972417457
+Team 2 would win this game
+Error: -0.00323875618051
+Team 1 would win this game
+Error: -0.0339311648058
+Team 1 would win this game
+Error: 0.0135882004251
+Team 2 would win this game
+Error: -0.0427563092089
+Team 1 would win this game
+Error: -0.061241415242
+Team 1 would win this game
+Error: -0.0200024532096
+Team 1 would win this game
+Error: 0.00293688188685
+Team 2 would win this game
+Error: -0.000256307212112
+Team 1 would win this game
+Error: -0.0104294693301
+Team 1 would win this game
+Error: -0.0611482916356
+Team 1 would win this game
+Error: -0.089540998546
+Team 1 would win this game
+Error: -0.0325604710961
+Team 1 would win this game
+Error: -0.0869207846554
+Team 1 would win this game
+Error: -0.00750531649828
+Team 1 would win this game
+Error: -0.0575675233267
+Team 1 would win this game
+Error: -0.0367321841622
+Team 1 would win this game
+Error: -0.033549746986
+Team 1 would win this game
+Error: -0.03482872522
+Team 1 would win this game
+Error: 0.0183900649499
+Team 2 would win this game
+Error: -0.0249697607869
+Team 1 would win this game
+Error: -0.0248782605413
+Team 1 would win this game
+Error: -0.00393943386007
+Team 1 would win this game
+Error: -0.023011791789
+Team 1 would win this game
+Error: -0.00975760543952
+Team 1 would win this game
+Error: -0.0145761231543
+Team 1 would win this game
+Error: -0.00523003975104
+Team 1 would win this game
+Error: -0.0483394914409
+Team 1 would win this game
+Error: -0.00528912599111
+Team 1 would win this game
+Error: -0.054153596051
+Team 1 would win this game
+Error: -0.000849527190439
+Team 1 would win this game
+Error: -0.0311495998976
+Team 1 would win this game
+Error: 0.0214090824811
+Team 2 would win this game
+Error: -0.0538594353129
+Team 1 would win this game
+Error: -0.0227791494835
+Team 1 would win this game
+Error: -0.0385383189714
+Team 1 would win this game
+Error: -0.0113926710255
+Team 1 would win this game
+Error: -0.0408185925335
+Team 1 would win this game
+Error: -0.0267772681109
+Team 1 would win this game
+Error: -0.0191242654255
+Team 1 would win this game
+Error: -0.0425676236264
+Team 1 would win this game
+Error: -0.0376777386773
+Team 1 would win this game
+Error: -0.051964496517
+Team 1 would win this game
+Error: -0.035802716724
+Team 1 would win this game
+Error: -0.0248030075891
+Team 1 would win this game
+Error: -0.0265942357146
+Team 1 would win this game
+Error: -0.00841688949004
+Team 1 would win this game
+Error: -0.0128972742386
+Team 1 would win this game
+Error: -0.0390236232197
+Team 1 would win this game
+Error: -0.000651030917652
+Team 1 would win this game
+Error: -0.0523411045942
+Team 1 would win this game
+Error: -0.00878072380146
+Team 1 would win this game
+Error: -0.0280629594563
+Team 1 would win this game
+Error: -0.0815005234908
+Team 1 would win this game
+Error: -0.0149766995746
+Team 1 would win this game
+Error: -0.00275639536994
+Team 1 would win this game
+Error: -0.048969119809
+Team 1 would win this game
+Error: -0.029222364341
+Team 1 would win this game
+Error: -0.0805885902882
+Team 1 would win this game
+Error: -0.0656287912061
+Team 1 would win this game
+Error: -0.00108484607335
+Team 1 would win this game
+Error: -0.0137144859109
+Team 1 would win this game
+Error: -0.0413579047454
+Team 1 would win this game
+Error: -0.00590843202372
+Team 1 would win this game
+Error: -0.0490439311761
+Team 1 would win this game
+Error: -0.002156579656
+Team 1 would win this game
+Error: -0.02802951388
+Team 1 would win this game
+Error: -0.0112660633749
+Team 1 would win this game
+Error: -0.0430911123985
+Team 1 would win this game
+Error: -0.0212318046833
+Team 1 would win this game
+Error: -0.00639963314461
+Team 1 would win this game
+Error: -0.0327248831163
+Team 1 would win this game
+Error: -0.0629048279588
+Team 1 would win this game
+Error: -0.0691215874031
+Team 1 would win this game
+Error: -0.0245189404231
+Team 1 would win this game
+Error: -0.0405653660782
+Team 1 would win this game
+Error: -0.0225268307913
+Team 1 would win this game
+Error: -0.0230498851161
+Team 1 would win this game
+Error: -0.0135887473298
+Team 1 would win this game
+Error: -0.0229255962258
+Team 1 would win this game
+Error: -0.0314521526161
+Team 1 would win this game
+Error: 0.0168100738811
+Team 2 would win this game
+Error: -0.0219671855011
+Team 1 would win this game
+Error: -0.00158420844673
+Team 1 would win this game
+Error: -0.0351942963971
+Team 1 would win this game
+Error: -0.0218407705324
+Team 1 would win this game
+Error: -0.0546198760785
+Team 1 would win this game
+Error: -0.0321583641125
+Team 1 would win this game
+Error: -0.006094125034
+Team 1 would win this game
+Error: 0.0290587118507
+Team 2 would win this game
+Error: -0.00349243844539
+Team 1 would win this game
+Error: 0.00957818800089
+Team 2 would win this game
+Error: -0.031519569704
+Team 1 would win this game
+Error: 0.000467609133921
+Team 2 would win this game
+Error: -0.00676686932275
+Team 1 would win this game
+Error: -0.000732039035938
+Team 1 would win this game
+Error: -0.0127805674056
+Team 1 would win this game
+Error: -0.0204218958752
+Team 1 would win this game
+Error: -0.0034594054523
+Team 1 would win this game
+Error: -0.0119245430324
+Team 1 would win this game
+Error: -0.015741627416
+Team 1 would win this game
+Error: -0.023362109896
+Team 1 would win this game
+Error: -0.00745824292244
+Team 1 would win this game
+Error: 0.00584041298862
+Team 2 would win this game
+Error: -0.0618048840115
+Team 1 would win this game
+Error: -0.0230304426514
+Team 1 would win this game
+Error: -0.00558965494565
+Team 1 would win this game
+Error: -0.0337068402077
+Team 1 would win this game
+Error: 0.020619129049
+Team 2 would win this game
+Error: -0.0299955718583
+Team 1 would win this game
+Error: 0.0075077250076
+Team 2 would win this game
+Error: -0.0214549650773
+Team 1 would win this game
+Error: 0.00265001063963
+Team 2 would win this game
+Error: -0.125992748559
+Team 1 would win this game
+Error: -0.0126926758167
+Team 1 would win this game
+Error: -0.0491887265598
+Team 1 would win this game
+Error: 0.0140315594617
+Team 2 would win this game
+Error: -0.062842832107
+Team 1 would win this game
+Error: -0.00520873178903
+Team 1 would win this game
+Error: -0.0180729859421
+Team 1 would win this game
+Error: 0.00175420632149
+Team 2 would win this game
+Error: 0.00149532934302
+Team 2 would win this game
+Error: -0.00677269544394
+Team 1 would win this game
+Error: -0.02874501521
+Team 1 would win this game
+Error: 0.00945867286646
+Team 2 would win this game
+Error: -0.0123374670293
+Team 1 would win this game
+Error: -0.0461603698059
+Team 1 would win this game
+Error: -0.0314741443653
+Team 1 would win this game
+Error: -0.00669817679591
+Team 1 would win this game
+Error: -0.0374742964195
+Team 1 would win this game
+Error: -0.0296757307515
+Team 1 would win this game
+Error: -0.0206369622902
+Team 1 would win this game
+Error: -0.0228831288332
+Team 1 would win this game
+Error: -0.0420591665243
+Team 1 would win this game
+Error: -0.0200834866118
+Team 1 would win this game
+Error: -0.0209257436873
+Team 1 would win this game
+Error: -0.0209547633713
+Team 1 would win this game
+Error: -0.0300592788262
+Team 1 would win this game
+Error: -0.0390924334934
+Team 1 would win this game
+Error: -0.0177033478685
+Team 1 would win this game
+Error: 0.0133930124648
+Team 2 would win this game
+Error: -0.0615263977088
+Team 1 would win this game
+Error: 0.00255601792014
+Team 2 would win this game
+Error: 0.000578022074478
+Team 2 would win this game
+Error: -0.0550492178299
+Team 1 would win this game
+Error: -0.0573030720989
+Team 1 would win this game
+Error: -0.0163631267133
+Team 1 would win this game
+Error: -0.0144972007256
+Team 1 would win this game
+Error: -0.00960229075281
+Team 1 would win this game
+Error: -0.0224290491533
+Team 1 would win this game
+Error: -0.0140242962734
+Team 1 would win this game
+Error: 0.00700984348077
+Team 2 would win this game
+Error: -0.0337269767915
+Team 1 would win this game
+Error: -0.0135607687989
+Team 1 would win this game
+Error: -0.0193375536255
+Team 1 would win this game
+Error: -0.0293002476319
+Team 1 would win this game
+Error: -0.0320967963271
+Team 1 would win this game
+Error: -0.0286740905503
+Team 1 would win this game
+Error: -0.00148592740152
+Team 1 would win this game
+Error: 0.00647449310054
+Team 2 would win this game
+Error: -0.0163297201289
+Team 1 would win this game
+Error: -0.0113820799597
+Team 1 would win this game
+Error: -0.0452847859415
+Team 1 would win this game
+Error: -0.0822746555496
+Team 1 would win this game
+Error: -0.0357940185204
+Team 1 would win this game
+Error: -0.0498289507232
+Team 1 would win this game
+Error: 0.0171315645712
+Team 2 would win this game
+Error: 0.01050386313
+Team 2 would win this game
+Error: -0.000296070742479
+Team 1 would win this game
+Error: -0.00589047045651
+Team 1 would win this game
+Error: -0.0135021284368
+Team 1 would win this game
+Error: -0.0267077265671
+Team 1 would win this game
+Error: -0.0257313702605
+Team 1 would win this game
+Error: -0.0301912354043
+Team 1 would win this game
+Error: -0.0243831318803
+Team 1 would win this game
+Error: -0.00540434327559
+Team 1 would win this game
+Error: -0.0117314163217
+Team 1 would win this game
+Error: -0.0303453174201
+Team 1 would win this game
+Error: -0.0359235882206
+Team 1 would win this game
+Error: -0.0290887975643
+Team 1 would win this game
+Error: -0.0203248197213
+Team 1 would win this game
+Error: -0.00357503828855
+Team 1 would win this game
+Error: -0.0446011145541
+Team 1 would win this game
+Error: -0.0777349823475
+Team 1 would win this game
+Error: -0.0478794110168
+Team 1 would win this game
+Error: -0.0649086954654
+Team 1 would win this game
+Error: 0.00141107575473
+Team 2 would win this game
+Error: -0.0473972624895
+Team 1 would win this game
+Error: -0.0116199919721
+Team 1 would win this game
+Error: -0.0388967331601
+Team 1 would win this game
+Error: -0.00219332098641
+Team 1 would win this game
+Error: -0.030452348612
+Team 1 would win this game
+Error: -0.00135040970054
+Team 1 would win this game
+Error: 0.0139852168795
+Team 2 would win this game
+Error: -0.0470862675647
+Team 1 would win this game
+Error: -0.0481080022437
+Team 1 would win this game
+Error: 0.00188575467473
+Team 2 would win this game
+Error: -0.0167174779854
+Team 1 would win this game
+Error: -0.0062388643637
+Team 1 would win this game
+Error: -0.000477218491142
+Team 1 would win this game
+Error: -0.00336897542002
+Team 1 would win this game
+Error: -0.0266446372771
+Team 1 would win this game
+Error: -0.0287363956013
+Team 1 would win this game
+Error: -0.0474677794118
+Team 1 would win this game
+Error: -0.0662995303792
+Team 1 would win this game
+Error: -0.0294191125504
+Team 1 would win this game
+Error: -0.0263722008749
+Team 1 would win this game
+Error: -0.0443019049635
+Team 1 would win this game
+Error: -0.0538470685206
+Team 1 would win this game
+Error: -0.0174410704785
+Team 1 would win this game
+Error: -0.0374781213031
+Team 1 would win this game
+Error: -0.0416112349922
+Team 1 would win this game
+Error: -0.0603102229434
+Team 1 would win this game
+Error: -0.00847247074853
+Team 1 would win this game
+Error: -0.0539814538497
+Team 1 would win this game
+Error: -0.0101935288985
+Team 1 would win this game
+Error: -0.0236361609714
+Team 1 would win this game
+Error: -0.0258754311799
+Team 1 would win this game
+Error: -0.0284657312077
+Team 1 would win this game
+Error: -0.0168351028915
+Team 1 would win this game
+Error: -0.0388768704724
+Team 1 would win this game
+Error: -0.0259003918109
+Team 1 would win this game
+Error: -0.0171591888793
+Team 1 would win this game
+Error: 0.0180015279984
+Team 2 would win this game
+Error: -0.0425141963715
+Team 1 would win this game
+Error: -0.0289004993901
+Team 1 would win this game
+Error: -0.0201112089853
+Team 1 would win this game
+Error: -0.0158447974172
+Team 1 would win this game
+Error: -0.0426395701361
+Team 1 would win this game
+Error: -0.0756669879775
+Team 1 would win this game
+Error: 0.00784332987678
+Team 2 would win this game
+Error: -0.025267582103
+Team 1 would win this game
+Error: -0.0316519845801
+Team 1 would win this game
+Error: -0.00508971894305
+Team 1 would win this game
+Error: -0.013219757333
+Team 1 would win this game
+Error: -0.0059661174455
+Team 1 would win this game
+Error: -0.00597246385587
+Team 1 would win this game
+Error: -0.028663638921
+Team 1 would win this game
+Error: -0.00820989272324
+Team 1 would win this game
+Error: -0.0334405689791
+Team 1 would win this game
+Error: -0.0260751546884
+Team 1 would win this game
+Error: -0.0187878688885
+Team 1 would win this game
+Error: -0.031663802496
+Team 1 would win this game
+Error: -0.05136440145
+Team 1 would win this game
+Error: 0.000872687836818
+Team 2 would win this game
+Error: -0.0204454288396
+Team 1 would win this game
+Error: -0.0402765036633
+Team 1 would win this game
+Error: -0.0567465796339
+Team 1 would win this game
+Error: -0.0335419361072
+Team 1 would win this game
+Error: -0.0136100898308
+Team 1 would win this game
+Error: -0.0180524422321
+Team 1 would win this game
+Error: -0.0420232175748
+Team 1 would win this game
+Error: 0.00515191116574
+Team 2 would win this game
+Error: -0.0325129931152
+Team 1 would win this game
+Error: -0.0124995618389
+Team 1 would win this game
+Error: -0.0390100216464
+Team 1 would win this game
+Error: -0.0240382881384
+Team 1 would win this game
+Error: -0.0421025320538
+Team 1 would win this game
+Error: -0.0402502149009
+Team 1 would win this game
+Error: -0.0217116744243
+Team 1 would win this game
+Error: -0.0353283662844
+Team 1 would win this game
+Error: -0.0379062570573
+Team 1 would win this game
+Error: -0.0164059887247
+Team 1 would win this game
+Error: -0.0263770810197
+Team 1 would win this game
+Error: -0.0247236071009
+Team 1 would win this game
+Error: -0.0465990215162
+Team 1 would win this game
+Error: -0.0293712604253
+Team 1 would win this game
+Error: -0.0140446967634
+Team 1 would win this game
+Error: -0.0368733559153
+Team 1 would win this game
+Error: -0.0278620942117
+Team 1 would win this game
+Error: -0.0444911980085
+Team 1 would win this game
+Error: -0.0137059532644
+Team 1 would win this game
+Error: -0.000689716696797
+Team 1 would win this game
+Error: -0.0564251728429
+Team 1 would win this game
+Error: -0.0350410453611
+Team 1 would win this game
+Error: -0.0526265605367
+Team 1 would win this game
+Error: -0.0356802142633
+Team 1 would win this game
+Error: -0.0491418678139
+Team 1 would win this game
+Error: -0.047466703465
+Team 1 would win this game
+Error: -0.0225983254131
+Team 1 would win this game
+Error: -0.0293049819229
+Team 1 would win this game
+Error: -0.0558853745606
+Team 1 would win this game
+Error: -0.0278365091872
+Team 1 would win this game
+Error: -0.0410382973787
+Team 1 would win this game
+Error: -0.0265342330822
+Team 1 would win this game
+Error: -0.0205047849013
+Team 1 would win this game
+Error: 0.00896268343786
+Team 2 would win this game
+Error: -0.011853787626
+Team 1 would win this game
+Error: -0.0146946841851
+Team 1 would win this game
+Error: -0.0211532565445
+Team 1 would win this game
+Error: -0.0130333833877
+Team 1 would win this game
+Error: -0.0351476523501
+Team 1 would win this game
+Error: -0.0233353432341
+Team 1 would win this game
+Error: -0.00594955720589
+Team 1 would win this game
+Error: -0.0271439117059
+Team 1 would win this game
+Error: -0.0487996999582
+Team 1 would win this game
+Error: -0.0111861443438
+Team 1 would win this game
+Error: 0.000536955230928
+Team 2 would win this game
+Error: 0.0301059777485
+Team 2 would win this game
+Error: -0.0433343280383
+Team 1 would win this game
+Error: -0.0221766717441
+Team 1 would win this game
+Error: -0.000770320228185
+Team 1 would win this game
+Error: -0.0487848363118
+Team 1 would win this game
+Error: -0.0383736980366
+Team 1 would win this game
+Error: 0.00137719770282
+Team 2 would win this game
+Error: -0.0148160903118
+Team 1 would win this game
+Error: -0.0536239015782
+Team 1 would win this game
+Error: -0.0397639475123
+Team 1 would win this game
+Error: -0.0153846679896
+Team 1 would win this game
+Error: -0.0145704130628
+Team 1 would win this game
+Error: -0.0328507376398
+Team 1 would win this game
+Error: -0.0227371511137
+Team 1 would win this game
+Error: -0.000874431665579
+Team 1 would win this game
+Error: -0.0318474952728
+Team 1 would win this game
+Error: -0.0695021739593
+Team 1 would win this game
+Error: -0.00577924172831
+Team 1 would win this game
+Error: -0.0295875520169
+Team 1 would win this game
+Error: -0.039674091684
+Team 1 would win this game
+Error: -0.0413284335445
+Team 1 would win this game
+Error: -0.0582988460883
+Team 1 would win this game
+Error: -0.0371159422357
+Team 1 would win this game
+Error: -0.0276165556643
+Team 1 would win this game
+Error: -0.034861901775
+Team 1 would win this game
+Error: -0.0253993449951
+Team 1 would win this game
+Error: 0.00110395556112
+Team 2 would win this game
+Error: -0.00271159618569
+Team 1 would win this game
+Error: 0.0071247431697
+Team 2 would win this game
+Error: -0.0170359484619
+Team 1 would win this game
+Error: -0.032294370445
+Team 1 would win this game
+Error: -0.0141295573558
+Team 1 would win this game
+Error: -0.00543356516573
+Team 1 would win this game
+Error: -0.0037287262021
+Team 1 would win this game
+Error: -0.0153580904589
+Team 1 would win this game
+Error: 0.0195064504951
+Team 2 would win this game
+Error: -0.0572357902129
+Team 1 would win this game
+Error: 0.00114169930748
+Team 2 would win this game
+Error: -0.0206927824984
+Team 1 would win this game
+Error: -0.0404428765396
+Team 1 would win this game
+Error: -0.0187062513578
+Team 1 would win this game
+Error: -0.0305123807702
+Team 1 would win this game
+Error: -0.053920071121
+Team 1 would win this game
+Error: 0.016278092924
+Team 2 would win this game
+Error: -0.0495674764825
+Team 1 would win this game
+Error: -0.0136811665725
+Team 1 would win this game
+Error: -0.0238265208027
+Team 1 would win this game
+Error: -0.0270417418287
+Team 1 would win this game
+Error: -0.0557736165792
+Team 1 would win this game
+Error: 0.0228974764468
+Team 2 would win this game
+Error: -0.0278455378138
+Team 1 would win this game
+Error: -0.0208801893459
+Team 1 would win this game
+Error: -0.0225265051995
+Team 1 would win this game
+Error: -0.0664573790127
+Team 1 would win this game
+Error: -0.00428795189509
+Team 1 would win this game
+Error: -0.0362108429035
+Team 1 would win this game
+Error: -0.0233368430199
+Team 1 would win this game
+Error: -0.0111300111312
+Team 1 would win this game
+Error: -0.0511667644168
+Team 1 would win this game
+Error: -0.0365798849671
+Team 1 would win this game
+Error: 0.00232548794156
+Team 2 would win this game
+Error: -0.0246497775079
+Team 1 would win this game
+Error: -0.0346178424516
+Team 1 would win this game
+Error: -0.022293912094
+Team 1 would win this game
+Error: -0.0219591766727
+Team 1 would win this game
+Error: -0.022467022929
+Team 1 would win this game
+Error: -0.0522297120115
+Team 1 would win this game
+Error: -0.00278813905607
+Team 1 would win this game
+Error: -0.0316270188414
+Team 1 would win this game
+Error: -0.0195802520539
+Team 1 would win this game
+Error: -0.0100554578748
+Team 1 would win this game
+Error: -0.0315245584643
+Team 1 would win this game
+Error: -0.0378829081383
+Team 1 would win this game
+Error: -0.041396487155
+Team 1 would win this game
+Error: -0.0227033369883
+Team 1 would win this game
+Error: -0.000273315723462
+Team 1 would win this game
+Error: -0.0304460984262
+Team 1 would win this game
+Error: -0.0284458121314
+Team 1 would win this game
+Error: -0.00780902633414
+Team 1 would win this game
+Error: -0.0455914471095
+Team 1 would win this game
+Error: -0.0164663169853
+Team 1 would win this game
+Error: -0.0410720687651
+Team 1 would win this game
+Error: -0.048299350914
+Team 1 would win this game
+Error: -0.0593356246973
+Team 1 would win this game
+Error: -0.00750710554712
+Team 1 would win this game
+Error: -0.021051164942
+Team 1 would win this game
+Error: -0.00886825529597
+Team 1 would win this game
+Error: -0.00353002581687
+Team 1 would win this game
+Error: -0.0608087785731
+Team 1 would win this game
+Error: -0.0338287877894
+Team 1 would win this game
+Error: 0.025086126203
+Team 2 would win this game
+Error: -0.0556060251038
+Team 1 would win this game
+Error: -0.0334731023759
+Team 1 would win this game
+Error: -0.00380557826429
+Team 1 would win this game
+Error: 0.00349121305771
+Team 2 would win this game
+Error: -0.0146747588587
+Team 1 would win this game
+Error: 0.00577004964725
+Team 2 would win this game
+Error: -0.0259877992503
+Team 1 would win this game
+Error: -0.0290514734952
+Team 1 would win this game
+Error: -0.0419280125934
+Team 1 would win this game
+Error: -0.0193769406251
+Team 1 would win this game
+Error: -0.0368665807036
+Team 1 would win this game
+Error: -0.0596297640368
+Team 1 would win this game
+Error: -0.0464666098924
+Team 1 would win this game
+Error: -0.0291547615925
+Team 1 would win this game
+Error: -0.0054639770533
+Team 1 would win this game
+Error: -0.0298139756269
+Team 1 would win this game
+Error: -0.0364441500133
+Team 1 would win this game
+Error: -0.0377806502438
+Team 1 would win this game
+Error: -0.00238360939693
+Team 1 would win this game
+Error: -0.0399622199766
+Team 1 would win this game
+Error: 0.00487352915661
+Team 2 would win this game
+Error: -0.00926555301703
+Team 1 would win this game
+Error: 0.00851385660644
+Team 2 would win this game
+Error: -0.00415767670347
+Team 1 would win this game
+Error: 0.0296862977993
+Team 2 would win this game
+Error: -0.0469501621919
+Team 1 would win this game
+Error: 0.00364702091611
+Team 2 would win this game
+Error: -0.0066366306055
+Team 1 would win this game
+Error: -0.037107452561
+Team 1 would win this game
+Error: -0.0505573330011
+Team 1 would win this game
+Error: -0.0215181948952
+Team 1 would win this game
+Error: 0.0020744360445
+Team 2 would win this game
+Error: 0.00732361886912
+Team 2 would win this game
+Error: -0.0409739456663
+Team 1 would win this game
+Error: -0.0417640393862
+Team 1 would win this game
+Error: -0.00954640985583
+Team 1 would win this game
+Error: -0.0172485930889
+Team 1 would win this game
+Error: -0.0486927867896
+Team 1 would win this game
+Error: -0.0419655680744
+Team 1 would win this game
+Error: -0.00243439597398
+Team 1 would win this game
+Error: -0.0351578817645
+Team 1 would win this game
+Error: -0.0393545813786
+Team 1 would win this game
+Error: -0.000926079235796
+Team 1 would win this game
+Error: -0.00576703049592
+Team 1 would win this game
+Error: -0.0157479552363
+Team 1 would win this game
+Error: -0.0167269884259
+Team 1 would win this game
+Error: -0.0722586248448
+Team 1 would win this game
+Error: -0.0328773936271
+Team 1 would win this game
+Error: -0.0190042577597
+Team 1 would win this game
+Error: 0.00181039566814
+Team 2 would win this game
+Error: -0.0250020475796
+Team 1 would win this game
+Error: -0.00896664503671
+Team 1 would win this game
+Error: -0.0133328772572
+Team 1 would win this game
+Error: -0.068639072204
+Team 1 would win this game
+Error: -0.0465239914993
+Team 1 would win this game
+Error: -0.0547601396247
+Team 1 would win this game
+Error: -0.0214197117602
+Team 1 would win this game
+Error: -0.039519397862
+Team 1 would win this game
+Error: -0.0244855057608
+Team 1 would win this game
+Error: -0.0323123749986
+Team 1 would win this game
+Error: -0.0439884018633
+Team 1 would win this game
+Error: -0.0188365302092
+Team 1 would win this game
+Error: -0.0391031931431
+Team 1 would win this game
+Error: -0.0105024678487
+Team 1 would win this game
+Error: -0.0640395815426
+Team 1 would win this game
+Error: -0.0756235112713
+Team 1 would win this game
+Error: -0.0255871380941
+Team 1 would win this game
+Error: -0.0116296164997
+Team 1 would win this game
+Error: -0.0597071455049
+Team 1 would win this game
+Error: -0.0331885941559
+Team 1 would win this game
+Error: -0.0380831166331
+Team 1 would win this game
+Error: -0.0452640251606
+Team 1 would win this game
+Error: -0.0434228827362
+Team 1 would win this game
+Error: 0.0140697955576
+Team 2 would win this game
+Error: -0.00427950105222
+Team 1 would win this game
+Error: -0.00972714120871
+Team 1 would win this game
+Error: 0.0220519764262
+Team 2 would win this game
+Error: -0.0208206012903
+Team 1 would win this game
+Error: 0.016228810593
+Team 2 would win this game
+Error: -0.0102014925651
+Team 1 would win this game
+Error: -0.0194398828316
+Team 1 would win this game
+Error: -0.0168357696311
+Team 1 would win this game
+Error: 0.00937581549078
+Team 2 would win this game
+Error: -0.0310612243411
+Team 1 would win this game
+Error: -0.0635539918294
+Team 1 would win this game
+Error: -0.0063502375051
+Team 1 would win this game
+Error: 0.025524426128
+Team 2 would win this game
+Error: -0.0502937132333
+Team 1 would win this game
+Error: -0.0565617072789
+Team 1 would win this game
+Error: -0.0367824847854
+Team 1 would win this game
+Error: -0.058288487322
+Team 1 would win this game
+Error: -0.0260851029961
+Team 1 would win this game
+Error: -0.00829573866213
+Team 1 would win this game
+Error: -0.0279241158132
+Team 1 would win this game
+Error: -0.0134287534383
+Team 1 would win this game
+Error: -0.0276205233167
+Team 1 would win this game
+Error: -0.0363735931169
+Team 1 would win this game
+Error: 0.0159613445576
+Team 2 would win this game
+Error: -0.0137585355478
+Team 1 would win this game
+Error: -0.015951339461
+Team 1 would win this game
+Error: -0.0391102907379
+Team 1 would win this game
+Error: -0.00897909940977
+Team 1 would win this game
+Error: -0.0195175506815
+Team 1 would win this game
+Error: -0.0662256215874
+Team 1 would win this game
+Error: -0.062762055044
+Team 1 would win this game
+Error: -0.0325788991395
+Team 1 would win this game
+Error: 0.000778264307883
+Team 2 would win this game
+Error: -0.0232922460054
+Team 1 would win this game
+Error: -0.00585520610184
+Team 1 would win this game
+Error: -0.0243219508775
+Team 1 would win this game
+Error: -0.000847642812005
+Team 1 would win this game
+Error: -0.0378351663603
+Team 1 would win this game
+Error: -0.0472918625164
+Team 1 would win this game
+Error: -0.0506540884962
+Team 1 would win this game
+Error: -0.0474649134412
+Team 1 would win this game
+Error: -0.00254702168604
+Team 1 would win this game
+Error: -0.0363858719502
+Team 1 would win this game
+Error: -0.0221620423472
+Team 1 would win this game
+Error: -0.0272553825926
+Team 1 would win this game
+Error: -0.0254261626833
+Team 1 would win this game
+Error: -0.0153797418607
+Team 1 would win this game
+Error: -0.0801205381213
+Team 1 would win this game
+Error: -0.00194945652038
+Team 1 would win this game
+Error: -0.0384071948793
+Team 1 would win this game
+Error: -0.0137711200659
+Team 1 would win this game
+Error: -0.00959055926069
+Team 1 would win this game
+Error: -0.00872395394981
+Team 1 would win this game
+Error: 0.00641527682455
+Team 2 would win this game
+Error: -0.0392483186151
+Team 1 would win this game
+Error: -0.0418279440782
+Team 1 would win this game
+Error: 0.00155584827735
+Team 2 would win this game
+Error: -0.0205504902333
+Team 1 would win this game
+Error: -0.0568203082294
+Team 1 would win this game
+Error: -0.0240024416125
+Team 1 would win this game
+Error: -0.0415234426036
+Team 1 would win this game
+Error: -0.0279639570363
+Team 1 would win this game
+Error: -0.035207755951
+Team 1 would win this game
+Error: -0.0397815833276
+Team 1 would win this game
+Error: -0.0805711918583
+Team 1 would win this game
+Error: 0.0151505786271
+Team 2 would win this game
+Error: -0.0415085381683
+Team 1 would win this game
+Error: 0.00172718563408
+Team 2 would win this game
+Error: 0.0133014084277
+Team 2 would win this game
+Error: -0.00196565157967
+Team 1 would win this game
+Error: -0.0368649109005
+Team 1 would win this game
+Error: -0.0274560065227
+Team 1 would win this game
+Error: -0.0276902661135
+Team 1 would win this game
+Error: -0.00126882572658
+Team 1 would win this game
+Error: -0.0225100504395
+Team 1 would win this game
+Error: -0.0193892303869
+Team 1 would win this game
+Error: 0.00190948331874
+Team 2 would win this game
+Error: -0.0135620006258
+Team 1 would win this game
+Error: -0.0285201837833
+Team 1 would win this game
+Error: -0.0115594200397
+Team 1 would win this game
+Error: -0.0253156020117
+Team 1 would win this game
+Error: 0.0174025667729
+Team 2 would win this game
+Error: -0.0333152768799
+Team 1 would win this game
+Error: -0.0835820310604
+Team 1 would win this game
+Error: -0.0502101958409
+Team 1 would win this game
+Error: -0.0626051588551
+Team 1 would win this game
+Error: -0.00798874223256
+Team 1 would win this game
+Error: -0.0226193262351
+Team 1 would win this game
+Error: -0.041030919645
+Team 1 would win this game
+Error: -0.0378770613097
+Team 1 would win this game
+Error: -0.0357987656535
+Team 1 would win this game
+Error: -0.042044711161
+Team 1 would win this game
+Error: -0.0140478096218
+Team 1 would win this game
+Error: -0.0246822319532
+Team 1 would win this game
+Error: -0.0277125485009
+Team 1 would win this game
+Error: -0.027874300511
+Team 1 would win this game
+Error: -0.0136885739703
+Team 1 would win this game
+Error: -0.00124097330263
+Team 1 would win this game
+Error: -0.0493757834702
+Team 1 would win this game
+Error: -0.00834156387282
+Team 1 would win this game
+Error: -0.0244393191315
+Team 1 would win this game
+Error: -0.00699117750628
+Team 1 would win this game
+Error: -0.0255847267254
+Team 1 would win this game
+Error: -0.0130761199762
+Team 1 would win this game
+Error: -0.0289823239145
+Team 1 would win this game
+Error: -0.0245349421966
+Team 1 would win this game
+Error: -0.0212643015329
+Team 1 would win this game
+Error: -0.0520683396971
+Team 1 would win this game
+Error: -0.0347155317868
+Team 1 would win this game
+Error: -0.043394434324
+Team 1 would win this game
+Error: -0.0496525164344
+Team 1 would win this game
+Error: -0.0320608306647
+Team 1 would win this game
+Error: -0.0605268522995
+Team 1 would win this game
+Error: -0.0851347822099
+Team 1 would win this game
+Error: -0.0385599182046
+Team 1 would win this game
+Error: -0.0593130364359
+Team 1 would win this game
+Error: -0.0386992158165
+Team 1 would win this game
+Error: -0.0585915899501
+Team 1 would win this game
+Error: -0.0214672855363
+Team 1 would win this game
+Error: 0.000327995847329
+Team 2 would win this game
+Error: 0.000574708181375
+Team 2 would win this game
+Error: -0.00077628717554
+Team 1 would win this game
+Error: -0.0286058728307
+Team 1 would win this game
+Error: 0.0171206449158
+Team 2 would win this game
+Error: -0.00667328396958
+Team 1 would win this game
+Error: -0.0446976873136
+Team 1 would win this game
+Error: 0.0113502328022
+Team 2 would win this game
+Error: -0.0421013679297
+Team 1 would win this game
+Error: -0.0519486612684
+Team 1 would win this game
+Error: 0.00106886067078
+Team 2 would win this game
+Error: -0.0193014009201
+Team 1 would win this game
+Error: -0.0368343352675
+Team 1 would win this game
+Error: 0.00933424034884
+Team 2 would win this game
+Error: 0.0186581374874
+Team 2 would win this game
+Error: 0.0126725419905
+Team 2 would win this game
+Error: -0.0437219471278
+Team 1 would win this game
+Error: -0.0655411653133
+Team 1 would win this game
+Error: -0.0382465125222
+Team 1 would win this game
+Error: 0.0193037135177
+Team 2 would win this game
+Error: -0.0112999150297
+Team 1 would win this game
+Error: -0.0298934918901
+Team 1 would win this game
+Error: -0.0429202818486
+Team 1 would win this game
+Error: -0.0428031191695
+Team 1 would win this game
+Error: -0.0325687486693
+Team 1 would win this game
+Error: -0.00831595306954
+Team 1 would win this game
+Error: -0.0139682316803
+Team 1 would win this game
+Error: -0.0450197923346
+Team 1 would win this game
+Error: -0.032328302208
+Team 1 would win this game
+Error: -0.0651281693135
+Team 1 would win this game
+Error: -0.0231196083259
+Team 1 would win this game
+Error: -0.059871350335
+Team 1 would win this game
+Error: -0.0350185661591
+Team 1 would win this game
+Error: 0.0161726911247
+Team 2 would win this game
+Error: -0.00385934869701
+Team 1 would win this game
+Error: -0.0340353111242
+Team 1 would win this game
+Error: -0.0502366401852
+Team 1 would win this game
+Error: -0.025071427146
+Team 1 would win this game
+Error: -0.0747063895978
+Team 1 would win this game
+Error: -0.00173127571907
+Team 1 would win this game
+Error: -0.0375491999148
+Team 1 would win this game
+Error: -0.00803781314607
+Team 1 would win this game
+Error: 0.000914030097192
+Team 2 would win this game
+Error: -0.00280818840838
+Team 1 would win this game
+Error: -0.0295979734801
+Team 1 would win this game
+Error: -0.0174515261024
+Team 1 would win this game
+Error: -0.0131675810771
+Team 1 would win this game
+Error: -0.00985190318897
+Team 1 would win this game
+Error: -0.0172404249024
+Team 1 would win this game
+Error: -0.0295130050872
+Team 1 would win this game
+Error: -0.0230995436577
+Team 1 would win this game
+Error: 0.0146281327834
+Team 2 would win this game
+Error: -0.0426833368765
+Team 1 would win this game
+Error: -0.0300953209226
+Team 1 would win this game
+Error: -0.0323819528567
+Team 1 would win this game
+Error: -0.0190735062642
+Team 1 would win this game
+Error: -0.0513998602546
+Team 1 would win this game
+Error: -0.00371144962992
+Team 1 would win this game
+Error: -0.0310122266892
+Team 1 would win this game
+Error: -0.0543821968022
+Team 1 would win this game
+Error: 0.0366580430418
+Team 2 would win this game
+Error: -0.0441180679409
+Team 1 would win this game
+Error: -0.0221688552556
+Team 1 would win this game
+Error: -0.0383320579494
+Team 1 would win this game
+Error: 0.00833307445282
+Team 2 would win this game
+Error: -0.046459674435
+Team 1 would win this game
+Error: -0.0270597208291
+Team 1 would win this game
+Error: -0.0370771718008
+Team 1 would win this game
+Error: 0.00329959524242
+Team 2 would win this game
+Error: 0.00614276348642
+Team 2 would win this game
+Error: -0.0310324198508
+Team 1 would win this game
+Error: -0.0438563654752
+Team 1 would win this game
+Error: -0.0102729203572
+Team 1 would win this game
+Error: -0.0488614342394
+Team 1 would win this game
+Error: -0.0863906771483
+Team 1 would win this game
+Error: -0.0415455368275
+Team 1 would win this game
+Error: -0.0443830435106
+Team 1 would win this game
+Error: -0.00734904235287
+Team 1 would win this game
+Error: -0.0584719498511
+Team 1 would win this game
+Error: -0.0185001126811
+Team 1 would win this game
+Error: -0.0641716524915
+Team 1 would win this game
+Error: -0.0375430262575
+Team 1 would win this game
+Error: -0.0365617991629
+Team 1 would win this game
+Error: -0.0207606857002
+Team 1 would win this game
+Error: -0.0131158391741
+Team 1 would win this game
+Error: -0.0141276784052
+Team 1 would win this game
+Error: -0.0427037171685
+Team 1 would win this game
+Error: -0.0651628428532
+Team 1 would win this game
+Error: 0.00469019023876
+Team 2 would win this game
+Error: -0.0265949400637
+Team 1 would win this game
+Error: -0.0418207117254
+Team 1 would win this game
+Error: -0.0220872993159
+Team 1 would win this game
+Error: -0.0242210297511
+Team 1 would win this game
+Error: -0.0490499124862
+Team 1 would win this game
+Error: 0.00494347578206
+Team 2 would win this game
+Error: -0.033717037375
+Team 1 would win this game
+Error: -0.0308898725925
+Team 1 would win this game
+Error: -0.0177220368496
+Team 1 would win this game
+Error: -0.0365214905978
+Team 1 would win this game
+Error: -0.0196843194644
+Team 1 would win this game
+Error: -0.0317556842492
+Team 1 would win this game
+Error: -0.00379057326791
+Team 1 would win this game
+Error: -0.0093974549527
+Team 1 would win this game
+Error: -0.0510247206039
+Team 1 would win this game
+Error: -0.0274205951428
+Team 1 would win this game
+Error: -0.0029460894948
+Team 1 would win this game
+Error: -0.0182604171496
+Team 1 would win this game
+Error: -0.00860889869364
+Team 1 would win this game
+Error: -0.0171693635639
+Team 1 would win this game
+Error: -0.0257843250874
+Team 1 would win this game
+Error: -0.0289078446003
+Team 1 would win this game
+Error: 0.00111621071119
+Team 2 would win this game
+Error: -0.0367850990078
+Team 1 would win this game
+Error: -0.0619894904667
+Team 1 would win this game
+Error: -0.0247491676855
+Team 1 would win this game
+Error: -0.0375457062473
+Team 1 would win this game
+Error: 0.000972626265138
+Team 2 would win this game
+Error: -0.008463935701
+Team 1 would win this game
+Error: -0.0121177655747
+Team 1 would win this game
+Error: 0.00277137992089
+Team 2 would win this game
+Error: -0.0332064774993
+Team 1 would win this game
+Error: -0.0090985321076
+Team 1 would win this game
+Error: 0.00790215669258
+Team 2 would win this game
+Error: -0.0149003637489
+Team 1 would win this game
+Error: -0.0105410364267
+Team 1 would win this game
+Error: -0.0272055283131
+Team 1 would win this game
+Error: -0.0208486874399
+Team 1 would win this game
+Error: -0.0285640609
+Team 1 would win this game
+Error: 0.0034112555295
+Team 2 would win this game
+Error: -0.0423663961992
+Team 1 would win this game
+Error: -0.0323539990859
+Team 1 would win this game
+Error: -0.0460628427027
+Team 1 would win this game
+Error: -0.0444164242435
+Team 1 would win this game
+Error: 0.0128362176547
+Team 2 would win this game
+Error: -0.0380671756793
+Team 1 would win this game
+Error: -0.0412962240007
+Team 1 would win this game
+Error: -0.0102781392343
+Team 1 would win this game
+Error: -0.0487123845523
+Team 1 would win this game
+Error: -0.0242009147332
+Team 1 would win this game
+Error: -0.0634773330457
+Team 1 would win this game
+Error: -0.0099281250732
+Team 1 would win this game
+Error: -0.0499830254266
+Team 1 would win this game
+Error: -0.0290211286992
+Team 1 would win this game
+Error: -0.0343812212013
+Team 1 would win this game
+Error: -0.0604725420562
+Team 1 would win this game
+Error: -0.076420809055
+Team 1 would win this game
+Error: -0.0140508951008
+Team 1 would win this game
+Error: -0.0159107673462
+Team 1 would win this game
+Error: -0.0209541360673
+Team 1 would win this game
+Error: -0.0299156442561
+Team 1 would win this game
+Error: -0.0663421239733
+Team 1 would win this game
+Error: 0.0131694981974
+Team 2 would win this game
+Error: -0.0284032495183
+Team 1 would win this game
+Error: -0.0296747037864
+Team 1 would win this game
+Error: -0.0113435026942
+Team 1 would win this game
+Error: -0.00522256382101
+Team 1 would win this game
+Error: -0.0318264949237
+Team 1 would win this game
+Error: -0.040329316631
+Team 1 would win this game
+Error: -0.0301401828983
+Team 1 would win this game
+Error: 0.00885966416536
+Team 2 would win this game
+Error: -0.0365483396017
+Team 1 would win this game
+Error: -0.0189690770858
+Team 1 would win this game
+Error: 0.00879288075521
+Team 2 would win this game
+Error: -0.0377556953899
+Team 1 would win this game
+Error: -0.0139548161242
+Team 1 would win this game
+Error: -0.0223349509397
+Team 1 would win this game
+Error: 0.018757496553
+Team 2 would win this game
+Error: 6.29137794022e-05
+Team 2 would win this game
+Error: -0.0135791903376
+Team 1 would win this game
+Error: -0.0170594332303
+Team 1 would win this game
+Error: -0.012238557385
+Team 1 would win this game
+Error: -0.021633992561
+Team 1 would win this game
+Error: -0.0192387297429
+Team 1 would win this game
+Error: -0.0556677109853
+Team 1 would win this game
+Error: -0.0126105953459
+Team 1 would win this game
+Error: -0.0426270352473
+Team 1 would win this game
+Error: -0.00034748010512
+Team 1 would win this game
+Error: -0.0277536600115
+Team 1 would win this game
+Error: 0.0122498498313
+Team 2 would win this game
+Error: 0.0215082133946
+Team 2 would win this game
+Error: -0.0277210476488
+Team 1 would win this game
+Error: -0.0750514138053
+Team 1 would win this game
+Error: -0.0272316062692
+Team 1 would win this game
+Error: -0.0340959201858
+Team 1 would win this game
+Error: 0.0205984572676
+Team 2 would win this game
+Error: -0.0192733967124
+Team 1 would win this game
+Error: -0.022846813903
+Team 1 would win this game
+Error: 0.00136481691152
+Team 2 would win this game
+Error: 0.00304911354033
+Team 2 would win this game
+Error: -0.056582093086
+Team 1 would win this game
+Error: -0.0198808964051
+Team 1 would win this game
+Error: -0.0293784824971
+Team 1 would win this game
+Error: -0.0332821668271
+Team 1 would win this game
+Error: -0.00629915162426
+Team 1 would win this game
+Error: -0.00139576474612
+Team 1 would win this game
+Error: 0.00272623990895
+Team 2 would win this game
+Error: 0.0292357267826
+Team 2 would win this game
+Error: -0.0271728477601
+Team 1 would win this game
+Error: 0.00237649001065
+Team 2 would win this game
+Error: -0.020817778146
+Team 1 would win this game
+Error: -0.0348275904835
+Team 1 would win this game
+Error: -0.0194924552416
+Team 1 would win this game
+Error: -0.0453814503853
+Team 1 would win this game
+Error: -0.0467707705902
+Team 1 would win this game
+Error: -0.0126537480464
+Team 1 would win this game
+Error: -0.0320347389279
+Team 1 would win this game
+Error: -0.0480025505822
+Team 1 would win this game
+Error: -0.0165250880818
+Team 1 would win this game
+Error: -0.0203371575699
+Team 1 would win this game
+Error: -0.0254477474518
+Team 1 would win this game
+Error: -0.0554034523375
+Team 1 would win this game
+Error: -0.0349868318517
+Team 1 would win this game
+Error: 0.000920070771826
+Team 2 would win this game
+Error: -0.020412942009
+Team 1 would win this game
+Error: -0.0370008738391
+Team 1 would win this game
+Error: -0.0328240519593
+Team 1 would win this game
+Error: -0.0127577553503
+Team 1 would win this game
+Error: -0.00739829685335
+Team 1 would win this game
+Error: -0.0294378085382
+Team 1 would win this game
+Error: -0.0344112120001
+Team 1 would win this game
+Error: -0.0207169163841
+Team 1 would win this game
+Error: -0.0236693833867
+Team 1 would win this game
+Error: -0.0354285117937
+Team 1 would win this game
+Error: -0.03587788
+Team 1 would win this game
+Error: -0.0115121877752
+Team 1 would win this game
+Error: 0.0228613764702
+Team 2 would win this game
+Error: -0.0183732177247
+Team 1 would win this game
+Error: 0.00776330356894
+Team 2 would win this game
+Error: -0.0110535594868
+Team 1 would win this game
+Error: -0.0348038418088
+Team 1 would win this game
+Error: -0.0102381130782
+Team 1 would win this game
+Error: -0.0540360448504
+Team 1 would win this game
+Error: 0.00742751077632
+Team 2 would win this game
+Error: -0.0493323029732
+Team 1 would win this game
+Error: -0.0422884737272
+Team 1 would win this game
+Error: -0.0219912571483
+Team 1 would win this game
+Error: -0.005627697421
+Team 1 would win this game
+Error: -0.00912725060334
+Team 1 would win this game
+Error: -0.040405642656
+Team 1 would win this game
+Error: -0.0227459816088
+Team 1 would win this game
+Error: -0.0488334206748
+Team 1 would win this game
+Error: 0.0109992289363
+Team 2 would win this game
+Error: -0.038050192823
+Team 1 would win this game
+Error: 0.000118372139696
+Team 2 would win this game
+Error: -0.0189716120658
+Team 1 would win this game
+Error: -0.039596300252
+Team 1 would win this game
+Error: 0.0149206258211
+Team 2 would win this game
+Error: -0.0142700429933
+Team 1 would win this game
+Error: -0.0210070154644
+Team 1 would win this game
+Error: -0.0255986219054
+Team 1 would win this game
+Error: -0.0279959234394
+Team 1 would win this game
+Error: -0.0438566439916
+Team 1 would win this game
+Error: -0.0256570339843
+Team 1 would win this game
+Error: 0.00802275861497
+Team 2 would win this game
+Error: -0.0217661241841
+Team 1 would win this game
+Error: -0.0230737962411
+Team 1 would win this game
+Error: -0.0334868817517
+Team 1 would win this game
+Error: -0.0100129304992
+Team 1 would win this game
+Error: -0.0641332342711
+Team 1 would win this game
+Error: -0.0371388607018
+Team 1 would win this game
+Error: -0.0209920941124
+Team 1 would win this game
+Error: -0.016930300495
+Team 1 would win this game
+Error: -0.0350806299757
+Team 1 would win this game
+Error: -0.00507975066284
+Team 1 would win this game
+Error: 0.0117286751629
+Team 2 would win this game
+Error: -0.0150480475058
+Team 1 would win this game
+Error: -0.0299987786275
+Team 1 would win this game
+Error: -0.0194020649506
+Team 1 would win this game
+Error: -0.069890130304
+Team 1 would win this game
+Error: -0.0645948605888
+Team 1 would win this game
+Error: -0.00375759754388
+Team 1 would win this game
+Error: -0.0100435681743
+Team 1 would win this game
+Error: -0.0309657055186
+Team 1 would win this game
+Error: 0.000462062322185
+Team 2 would win this game
+Error: 0.000412435489125
+Team 2 would win this game
+Error: -0.0216207459671
+Team 1 would win this game
+Error: -0.0496232869918
+Team 1 would win this game
+Error: -0.00578532247891
+Team 1 would win this game
+Error: 0.00305680370366
+Team 2 would win this game
+Error: -0.00692466917826
+Team 1 would win this game
+Error: -0.00143653426494
+Team 1 would win this game
+Error: -0.0177110527002
+Team 1 would win this game
+Error: -0.0300483014289
+Team 1 would win this game
+Error: -0.0192213717455
+Team 1 would win this game
+Error: -0.0218843029797
+Team 1 would win this game
+Error: -0.0393832311165
+Team 1 would win this game
+Error: -0.0315295283144
+Team 1 would win this game
+Error: -0.0247164996836
+Team 1 would win this game
+Error: -0.0313536586036
+Team 1 would win this game
+Error: -0.0338043028532
+Team 1 would win this game
+Error: -0.0506884039496
+Team 1 would win this game
+Error: -0.022261047161
+Team 1 would win this game
+Error: -0.00227204148541
+Team 1 would win this game
+Error: -0.00629094649776
+Team 1 would win this game
+Error: 0.0111126293486
+Team 2 would win this game
+Error: -0.0195582928354
+Team 1 would win this game
+Error: -0.0133887248667
+Team 1 would win this game
+Error: 0.00540688295587
+Team 2 would win this game
+Error: -0.0220811067047
+Team 1 would win this game
+Error: -0.017931203256
+Team 1 would win this game
+Error: -0.0467016305629
+Team 1 would win this game
+Error: -0.0542372887357
+Team 1 would win this game
+Error: 0.0030355958952
+Team 2 would win this game
+Error: -0.0352003417356
+Team 1 would win this game
+Error: 0.0136465498654
+Team 2 would win this game
+Error: -0.0630585621184
+Team 1 would win this game
+Error: -0.0137183315674
+Team 1 would win this game
+Error: -0.0398123634877
+Team 1 would win this game
+Error: -0.0684144153638
+Team 1 would win this game
+Error: -0.0385284828371
+Team 1 would win this game
+Error: -0.00300676088955
+Team 1 would win this game
+Error: -0.0236494868805
+Team 1 would win this game
+Error: -0.0367673288638
+Team 1 would win this game
+Error: -0.0143457004815
+Team 1 would win this game
+Error: -0.0103895621869
+Team 1 would win this game
+Error: -0.0280190930353
+Team 1 would win this game
+Error: -0.0276752769933
+Team 1 would win this game
+Error: -0.0062080554053
+Team 1 would win this game
+Error: -0.0264075154337
+Team 1 would win this game
+Error: -0.038042304026
+Team 1 would win this game
+Error: -0.0123561189976
+Team 1 would win this game
+Error: -0.0249283288576
+Team 1 would win this game
+Error: -0.0268516973229
+Team 1 would win this game
+Error: -0.014638567467
+Team 1 would win this game
+Error: -0.0399256252349
+Team 1 would win this game
+Error: 0.00384413042048
+Team 2 would win this game
+Error: -0.0543616427094
+Team 1 would win this game
+Error: -0.00827035417751
+Team 1 would win this game
+Error: -0.0302304531651
+Team 1 would win this game
+Error: -0.00620306745986
+Team 1 would win this game
+Error: -0.0442696917307
+Team 1 would win this game
+Error: -0.0460122889126
+Team 1 would win this game
+Error: -0.0293017764416
+Team 1 would win this game
+Error: 0.014091644407
+Team 2 would win this game
+Error: -0.00835291179101
+Team 1 would win this game
+Error: -0.0286066456392
+Team 1 would win this game
+Error: -0.0672323396575
+Team 1 would win this game
+Error: -0.0201350430289
+Team 1 would win this game
+Error: -0.0431835943891
+Team 1 would win this game
+Error: -0.00634554696444
+Team 1 would win this game
+Error: -0.0407076206247
+Team 1 would win this game
+Error: -0.0049735156208
+Team 1 would win this game
+Error: -0.0257772459881
+Team 1 would win this game
+Error: -0.0122438870385
+Team 1 would win this game
+Error: -0.0388408161671
+Team 1 would win this game
+Error: -0.00366558536916
+Team 1 would win this game
+Error: -0.0294670457733
+Team 1 would win this game
+Error: -0.0330311354846
+Team 1 would win this game
+Error: -0.00244091743662
+Team 1 would win this game
+Error: -0.051569253912
+Team 1 would win this game
+Error: -0.0205215405003
+Team 1 would win this game
+Error: -0.0169479217366
+Team 1 would win this game
+Error: -0.0507647597842
+Team 1 would win this game
+Error: -0.0399298064585
+Team 1 would win this game
+Error: -0.0185266827175
+Team 1 would win this game
+Error: -0.00832717210142
+Team 1 would win this game
+Error: -0.0352953211986
+Team 1 would win this game
+Error: -0.0431225075081
+Team 1 would win this game
+Error: -0.0199327764494
+Team 1 would win this game
+Error: -0.02455946181
+Team 1 would win this game
+Error: -0.0565100875247
+Team 1 would win this game
+Error: -0.00917825469514
+Team 1 would win this game
+Error: 0.018820229292
+Team 2 would win this game
+Error: -0.0589009754767
+Team 1 would win this game
+Error: -0.014196280441
+Team 1 would win this game
+Error: -0.0477653706912
+Team 1 would win this game
+Error: -0.0387956664781
+Team 1 would win this game
+Error: -0.0237070463263
+Team 1 would win this game
+Error: -0.0310955027817
+Team 1 would win this game
+Error: -0.0149102354408
+Team 1 would win this game
+Error: -0.0687221483095
+Team 1 would win this game
+Error: -0.00423040187161
+Team 1 would win this game
+Error: -0.0320184439479
+Team 1 would win this game
+Error: -0.0283596640438
+Team 1 would win this game
+Error: -0.0263112236571
+Team 1 would win this game
+Error: 0.00450142223417
+Team 2 would win this game
+Error: -0.00681860357872
+Team 1 would win this game
+Error: -0.0189758894485
+Team 1 would win this game
+Error: -0.0358388347886
+Team 1 would win this game
+Error: -0.0482002956342
+Team 1 would win this game
+Error: 0.00329206450988
+Team 2 would win this game
+Error: -0.0059196991424
+Team 1 would win this game
+Error: -0.0169743294828
+Team 1 would win this game
+Error: 0.0134358197756
+Team 2 would win this game
+Error: -0.0611937539943
+Team 1 would win this game
+Error: -0.0117095883397
+Team 1 would win this game
+Error: 0.0249753101962
+Team 2 would win this game
+Error: -0.00949534920801
+Team 1 would win this game
+Error: -0.0546545303223
+Team 1 would win this game
+Error: -0.0415664470784
+Team 1 would win this game
+Error: 0.000994866517431
+Team 2 would win this game
+Error: -0.0135793084337
+Team 1 would win this game
+Error: 0.00810622233257
+Team 2 would win this game
+Error: -0.0345315952727
+Team 1 would win this game
+Error: -0.0460183942414
+Team 1 would win this game
+Error: -0.065692718279
+Team 1 would win this game
+Error: -0.0350202451518
+Team 1 would win this game
+Error: -0.0475481263566
+Team 1 would win this game
+Error: 0.0120960937711
+Team 2 would win this game
+Error: -0.0427109640514
+Team 1 would win this game
+Error: -0.00294439639401
+Team 1 would win this game
+Error: -0.0166466073933
+Team 1 would win this game
+Error: 0.000312167365337
+Team 2 would win this game
+Error: -0.0156145774017
+Team 1 would win this game
+Error: -0.0415618029656
+Team 1 would win this game
+Error: -0.0407446520185
+Team 1 would win this game
+Error: -0.0270317199975
+Team 1 would win this game
+Error: 0.00524382568983
+Team 2 would win this game
+Error: -0.0177422511697
+Team 1 would win this game
+Error: -0.018423319365
+Team 1 would win this game
+Error: -0.0180787691061
+Team 1 would win this game
+Error: -0.0302907772857
+Team 1 would win this game
+Error: 0.00539769462921
+Team 2 would win this game
+Error: -0.0256763172583
+Team 1 would win this game
+Error: 0.0082081480432
+Team 2 would win this game
+Error: 0.0057216755813
+Team 2 would win this game
+Error: -0.00055126715597
+Team 1 would win this game
+Error: -0.0417527677273
+Team 1 would win this game
+Error: 0.000555353515665
+Team 2 would win this game
+Error: -0.0255116312037
+Team 1 would win this game
+Error: -0.0166899430915
+Team 1 would win this game
+Error: -0.0250211699604
+Team 1 would win this game
+Error: 0.0157713494991
+Team 2 would win this game
+Error: -0.0381606485389
+Team 1 would win this game
+Error: -0.0106054686694
+Team 1 would win this game
+Error: -0.0179012671797
+Team 1 would win this game
+Error: -0.0239981404375
+Team 1 would win this game
+Error: 0.0030934037859
+Team 2 would win this game
+Error: -0.00705249283783
+Team 1 would win this game
+Error: -0.0235126281259
+Team 1 would win this game
+Error: -0.0214630224073
+Team 1 would win this game
+Error: 0.0121220830551
+Team 2 would win this game
+Error: 0.00523025780421
+Team 2 would win this game
+Error: -0.0231380963669
+Team 1 would win this game
+Error: -0.0216422375452
+Team 1 would win this game
+Error: -0.0400482558107
+Team 1 would win this game
+Error: -0.031209437795
+Team 1 would win this game
+Error: -0.0278067617764
+Team 1 would win this game
+Error: -0.0316212064718
+Team 1 would win this game
+Error: -0.0380287915759
+Team 1 would win this game
+Error: -0.0189866840883
+Team 1 would win this game
+Error: -0.0191983946643
+Team 1 would win this game
+Error: -0.00167554145446
+Team 1 would win this game
+Error: -0.0321504247186
+Team 1 would win this game
+Error: -0.00832568212354
+Team 1 would win this game
+Error: -0.0133980401515
+Team 1 would win this game
+Error: -0.0118211659064
+Team 1 would win this game
+Error: 0.00245321208786
+Team 2 would win this game
+Error: -0.0249889012994
+Team 1 would win this game
+Error: -0.00700158685504
+Team 1 would win this game
+Error: -0.0171073037563
+Team 1 would win this game
+Error: -0.0335735426124
+Team 1 would win this game
+Error: 0.0189111320287
+Team 2 would win this game
+Error: -0.0521422181409
+Team 1 would win this game
+Error: -0.0322669766902
+Team 1 would win this game
+Error: -0.0393298011331
+Team 1 would win this game
+Error: -0.0230323131764
+Team 1 would win this game
+Error: -0.019867756484
+Team 1 would win this game
+Error: -0.0013702337892
+Team 1 would win this game
+Error: -0.0650736115713
+Team 1 would win this game
+Error: -0.00214485167817
+Team 1 would win this game
+Error: -0.0267285859227
+Team 1 would win this game
+Error: -0.00961015864596
+Team 1 would win this game
+Error: -0.0600662584911
+Team 1 would win this game
+Error: -0.0259485054848
+Team 1 would win this game
+Error: -0.0113299440927
+Team 1 would win this game
+Error: -0.0234357902737
+Team 1 would win this game
+Error: -0.048779156321
+Team 1 would win this game
+Error: -0.0355680519933
+Team 1 would win this game
+Error: -0.0336546534818
+Team 1 would win this game
+Error: -0.0224292825296
+Team 1 would win this game
+Error: -0.0116575995926
+Team 1 would win this game
+Error: -0.0451097887053
+Team 1 would win this game
+Error: -0.0101516317882
+Team 1 would win this game
+Error: -0.0118691168609
+Team 1 would win this game
+Error: -0.0282576300451
+Team 1 would win this game
+Error: -0.0073931746665
+Team 1 would win this game
+Error: -0.0412956556829
+Team 1 would win this game
+Error: -0.0436167314838
+Team 1 would win this game
+Error: -0.0121233203172
+Team 1 would win this game
+Error: -0.0309356091311
+Team 1 would win this game
+Error: -0.00887472033355
+Team 1 would win this game
+Error: -0.0271725719067
+Team 1 would win this game
+Error: -0.027389288276
+Team 1 would win this game
+Error: -0.0574633263241
+Team 1 would win this game
+Error: -0.0121496652646
+Team 1 would win this game
+Error: -0.0342592997258
+Team 1 would win this game
+Error: -0.0274267515633
+Team 1 would win this game
+Error: -0.0293124564851
+Team 1 would win this game
+Error: -0.0399064516896
+Team 1 would win this game
+Error: -0.0146166655322
+Team 1 would win this game
+Error: -0.00775602061913
+Team 1 would win this game
+Error: -0.0354499197638
+Team 1 would win this game
+Error: -0.00758538420632
+Team 1 would win this game
+Error: -0.0394888520823
+Team 1 would win this game
+Error: -0.0108353959004
+Team 1 would win this game
+Error: -0.0359694549406
+Team 1 would win this game
+Error: 0.00169381862361
+Team 2 would win this game
+Error: -0.0513253395766
+Team 1 would win this game
+Error: -0.0203629894459
+Team 1 would win this game
+Error: -0.0254172995628
+Team 1 would win this game
+Error: -0.0623301605301
+Team 1 would win this game
+Error: -0.0189996216795
+Team 1 would win this game
+Error: -0.0217388963865
+Team 1 would win this game
+Error: -0.0482853950307
+Team 1 would win this game
+Error: -0.0372363077258
+Team 1 would win this game
+Error: 0.0221838427751
+Team 2 would win this game
+Error: -0.0321901974385
+Team 1 would win this game
+Error: -0.0509238379964
+Team 1 would win this game
+Error: -0.057020421933
+Team 1 would win this game
+Error: -0.013536530787
+Team 1 would win this game
+Error: -0.0200013884096
+Team 1 would win this game
+Error: -0.0206170685997
+Team 1 would win this game
+Error: -0.0365536357931
+Team 1 would win this game
+Error: -0.0138879709557
+Team 1 would win this game
+Error: -0.0533201225189
+Team 1 would win this game
+Error: -0.0120957920153
+Team 1 would win this game
+Error: 0.00550911084429
+Team 2 would win this game
+Error: -0.021921561136
+Team 1 would win this game
+Error: -0.0250820347428
+Team 1 would win this game
+Error: -0.0440161280203
+Team 1 would win this game
+Error: -0.0168147681543
+Team 1 would win this game
+Error: -0.0124821883437
+Team 1 would win this game
+Error: -0.0939018242425
+Team 1 would win this game
+Error: 0.0242913773764
+Team 2 would win this game
+Error: -0.0663685020045
+Team 1 would win this game
+Error: -0.0239121025443
+Team 1 would win this game
+Error: -0.0299904631102
+Team 1 would win this game
+Error: -0.011311840186
+Team 1 would win this game
+Error: -0.0183808719376
+Team 1 would win this game
+Error: 0.0145454714147
+Team 2 would win this game
+Error: -0.0339527940159
+Team 1 would win this game
+Error: -0.0352693241657
+Team 1 would win this game
+Error: -0.025649184623
+Team 1 would win this game
+Error: -0.0227273269848
+Team 1 would win this game
+Error: -0.0228355486397
+Team 1 would win this game
+Error: -0.0245918531
+Team 1 would win this game
+Error: -0.0589379246594
+Team 1 would win this game
+Error: -0.0352295686462
+Team 1 would win this game
+Error: 0.00161734110588
+Team 2 would win this game
+Error: -0.0245773650022
+Team 1 would win this game
+Error: -0.0369651573274
+Team 1 would win this game
+Error: -0.0227354159651
+Team 1 would win this game
+Error: -0.0155185267067
+Team 1 would win this game
+Error: -0.0446519209363
+Team 1 would win this game
+Error: -0.0537214677752
+Team 1 would win this game
+Error: -0.0167457816715
+Team 1 would win this game
+Error: -0.0458134789951
+Team 1 would win this game
+Error: -0.012135387813
+Team 1 would win this game
+Error: -0.012171006143
+Team 1 would win this game
+Error: -0.0563329302313
+Team 1 would win this game
+Error: -0.0120117992192
+Team 1 would win this game
+Error: -0.0569841516481
+Team 1 would win this game
+Error: -0.0161854556791
+Team 1 would win this game
+Error: -0.0225640049612
+Team 1 would win this game
+Error: -0.0137990561198
+Team 1 would win this game
+Error: -0.0279798036136
+Team 1 would win this game
+Error: -0.0171549395745
+Team 1 would win this game
+Error: -0.00310326193721
+Team 1 would win this game
+Error: -0.0235215836437
+Team 1 would win this game
+Error: -0.0441965236605
+Team 1 would win this game
+Error: -0.0688567627731
+Team 1 would win this game
+Error: -0.00908285281184
+Team 1 would win this game
+Error: -0.00782377393625
+Team 1 would win this game
+Error: -0.0210635117619
+Team 1 would win this game
+Error: -0.0349763447593
+Team 1 would win this game
+Error: 0.0311925343995
+Team 2 would win this game
+Error: -0.0227093095673
+Team 1 would win this game
+Error: -0.0142384448773
+Team 1 would win this game
+Error: -0.000254563601629
+Team 1 would win this game
+Error: -0.0335447276157
+Team 1 would win this game
+Error: -0.0293579862846
+Team 1 would win this game
+Error: -0.0177322152158
+Team 1 would win this game
+Error: -0.0275618670494
+Team 1 would win this game
+Error: -0.0408329702695
+Team 1 would win this game
+Error: -0.00490672891465
+Team 1 would win this game
+Error: -0.00781072216341
+Team 1 would win this game
+Error: 0.0126316522728
+Team 2 would win this game
+Error: -0.0232520082354
+Team 1 would win this game
+Error: -0.0562335645373
+Team 1 would win this game
+Error: -0.00547545444715
+Team 1 would win this game
+Error: -0.0522284214312
+Team 1 would win this game
+Error: -0.0158788478584
+Team 1 would win this game
+Error: 0.00741209356784
+Team 2 would win this game
+Error: -0.0154022755742
+Team 1 would win this game
+Error: -0.00490626480314
+Team 1 would win this game
+Error: -0.00217157532461
+Team 1 would win this game
+Error: -0.00997910471051
+Team 1 would win this game
+Error: -0.0169269171165
+Team 1 would win this game
+Error: -0.0103949797049
+Team 1 would win this game
+Error: 0.000562496141356
+Team 2 would win this game
+Error: -0.00917217847746
+Team 1 would win this game
+Error: 0.017722956989
+Team 2 would win this game
+Error: -0.0308502059925
+Team 1 would win this game
+Error: -0.0308601809811
+Team 1 would win this game
+Error: -0.0274829703339
+Team 1 would win this game
+Error: 0.00401442574366
+Team 2 would win this game
+Error: -0.0164953788553
+Team 1 would win this game
+Error: -0.00977232070727
+Team 1 would win this game
+Error: -0.0204608085332
+Team 1 would win this game
+Error: -0.061477913041
+Team 1 would win this game
+Error: -0.0106398752105
+Team 1 would win this game
+Error: 0.00847541670373
+Team 2 would win this game
+Error: -0.0415271716556
+Team 1 would win this game
+Error: -0.0177710985954
+Team 1 would win this game
+Error: -0.0303983096019
+Team 1 would win this game
+Error: -0.0183639965908
+Team 1 would win this game
+Error: -0.0508672686192
+Team 1 would win this game
+Error: 0.011057033189
+Team 2 would win this game
+Error: -0.0346802545901
+Team 1 would win this game
+Error: -0.0388739605842
+Team 1 would win this game
+Error: -0.0534084108076
+Team 1 would win this game
+Error: 0.00201886003924
+Team 2 would win this game
+Error: -0.026527797505
+Team 1 would win this game
+Error: -0.01458976305
+Team 1 would win this game
+Error: -0.0389674937032
+Team 1 would win this game
+Error: -0.00803300848929
+Team 1 would win this game
+Error: -0.00841281940666
+Team 1 would win this game
+Error: -0.00430013424193
+Team 1 would win this game
+Error: 0.00800690608594
+Team 2 would win this game
+Error: -0.00579932013352
+Team 1 would win this game
+Error: -0.0522339644449
+Team 1 would win this game
+Error: -0.0460845847265
+Team 1 would win this game
+Error: 0.00955485777376
+Team 2 would win this game
+Error: -0.00367648659449
+Team 1 would win this game
+Error: -0.0365507847018
+Team 1 would win this game
+Error: -0.0388931929338
+Team 1 would win this game
+Error: 0.00508287175762
+Team 2 would win this game
+Error: 0.0162157692903
+Team 2 would win this game
+Error: -0.0179511029055
+Team 1 would win this game
+Error: 0.0015380461482
+Team 2 would win this game
+Error: -0.0263737717396
+Team 1 would win this game
+Error: -0.0087308671209
+Team 1 would win this game
+Error: 0.00579233211465
+Team 2 would win this game
+Error: -0.0210343330909
+Team 1 would win this game
+Error: -0.0237790207029
+Team 1 would win this game
+Error: -0.0413786908903
+Team 1 would win this game
+Error: -0.0389859139468
+Team 1 would win this game
+Error: -0.0558137687403
+Team 1 would win this game
+Error: -0.00550015905901
+Team 1 would win this game
+Error: -0.0242461330345
+Team 1 would win this game
+Error: -0.021713103175
+Team 1 would win this game
+Error: -0.00372776693985
+Team 1 would win this game
+Error: -0.00299442897813
+Team 1 would win this game
+Error: 0.00244950756314
+Team 2 would win this game
+Error: -0.0202329858439
+Team 1 would win this game
+Error: -0.0176461920346
+Team 1 would win this game
+Error: -0.0369368186875
+Team 1 would win this game
+Error: -0.0666556107681
+Team 1 would win this game
+Error: -0.0427449303315
+Team 1 would win this game
+Error: -0.0277300625239
+Team 1 would win this game
+Error: -0.00625682318787
+Team 1 would win this game
+Error: 0.0179987970405
+Team 2 would win this game
+Error: -0.044472183421
+Team 1 would win this game
+Error: -0.0662587884362
+Team 1 would win this game
+Error: -0.0333038949175
+Team 1 would win this game
+Error: -0.0751127826879
+Team 1 would win this game
+Error: 0.0253895539499
+Team 2 would win this game
+Error: 0.007187961819
+Team 2 would win this game
+Error: -0.0522508976137
+Team 1 would win this game
+Error: -0.0230523576975
+Team 1 would win this game
+Error: -0.0722045066286
+Team 1 would win this game
+Error: -0.0493951568569
+Team 1 would win this game
+Error: -0.076366339963
+Team 1 would win this game
+Error: 0.00799979807925
+Team 2 would win this game
+Error: 0.0160596850765
+Team 2 would win this game
+Error: -0.0180674406729
+Team 1 would win this game
+Error: -0.0329452442384
+Team 1 would win this game
+Error: -0.0319891542385
+Team 1 would win this game
+Error: -0.0159959301163
+Team 1 would win this game
+Error: 0.0198364088428
+Team 2 would win this game
+Error: -0.0269315822006
+Team 1 would win this game
+Error: 0.00782060711936
+Team 2 would win this game
+Error: -0.00856914899487
+Team 1 would win this game
+Error: -0.0286251749785
+Team 1 would win this game
+Error: -0.0517229298639
+Team 1 would win this game
+Error: -0.0367797613362
+Team 1 would win this game
+Error: 0.0070904493914
+Team 2 would win this game
+Error: -0.0243336943458
+Team 1 would win this game
+Error: -0.0194298406059
+Team 1 would win this game
+Error: -0.0393348747675
+Team 1 would win this game
+Error: -0.00467319762538
+Team 1 would win this game
+Error: -0.0143991984951
+Team 1 would win this game
+Error: -0.0370169317175
+Team 1 would win this game
+Error: -0.00983258883934
+Team 1 would win this game
+Error: -0.0289623615972
+Team 1 would win this game
+Error: 0.0222277744106
+Team 2 would win this game
+Error: 0.00694517908414
+Team 2 would win this game
+Error: -0.0248427206461
+Team 1 would win this game
+Error: -0.0211567185252
+Team 1 would win this game
+Error: -0.00525706884946
+Team 1 would win this game
+Error: -0.0159571069162
+Team 1 would win this game
+Error: -0.00894440076809
+Team 1 would win this game
+Error: -0.00606636521843
+Team 1 would win this game
+Error: -0.023960236831
+Team 1 would win this game
+Error: -0.0150138746321
+Team 1 would win this game
+Error: -0.0160808266592
+Team 1 would win this game
+Error: -0.0563892684368
+Team 1 would win this game
+Error: -0.0150398265105
+Team 1 would win this game
+Error: 0.0394460771276
+Team 2 would win this game
+Error: -0.016765242377
+Team 1 would win this game
+Error: -0.0388416513379
+Team 1 would win this game
+Error: -0.00712169429607
+Team 1 would win this game
+Error: -0.0156061906382
+Team 1 would win this game
+Error: -0.0739395509736
+Team 1 would win this game
+Error: -0.0158918292727
+Team 1 would win this game
+Error: -0.0163694276052
+Team 1 would win this game
+Error: -0.0128899518386
+Team 1 would win this game
+Error: -0.018974452767
+Team 1 would win this game
+Error: -0.0280401519558
+Team 1 would win this game
+Error: 0.0293653464905
+Team 2 would win this game
+Error: -0.0248231294536
+Team 1 would win this game
+Error: -0.0224963624423
+Team 1 would win this game
+Error: 0.00366105154535
+Team 2 would win this game
+Error: -0.00636378917261
+Team 1 would win this game
+Error: -0.0537538244171
+Team 1 would win this game
+Error: 0.0192151373121
+Team 2 would win this game
+Error: -0.0497530716821
+Team 1 would win this game
+Error: -0.0356740525531
+Team 1 would win this game
+Error: 0.00456677648617
+Team 2 would win this game
+Error: -0.0596801639476
+Team 1 would win this game
+Error: 0.00819541853707
+Team 2 would win this game
+Error: -0.0665502834527
+Team 1 would win this game
+Error: -0.0127429864733
+Team 1 would win this game
+Error: -0.0266772871473
+Team 1 would win this game
+Error: -0.0603837692033
+Team 1 would win this game
+Error: -0.0548988645314
+Team 1 would win this game
+Error: 0.0051799877765
+Team 2 would win this game
+Error: -0.0459542239551
+Team 1 would win this game
+Error: -0.00625731551554
+Team 1 would win this game
+Error: -0.031412457407
+Team 1 would win this game
+Error: -0.0136049931607
+Team 1 would win this game
+Error: -0.0404229706983
+Team 1 would win this game
+Error: -0.0146153544774
+Team 1 would win this game
+Error: -0.0128892949724
+Team 1 would win this game
+Error: -0.0367781490786
+Team 1 would win this game
+Error: -0.0280801584377
+Team 1 would win this game
+Error: -0.0266807643566
+Team 1 would win this game
+Error: -0.0440880315582
+Team 1 would win this game
+Error: -0.0360609258933
+Team 1 would win this game
+Error: -0.0431702989299
+Team 1 would win this game
+Error: 0.0151625206418
+Team 2 would win this game
+Error: -0.0162090403828
+Team 1 would win this game
+Error: -0.0448612735127
+Team 1 would win this game
+Error: 0.00225313688861
+Team 2 would win this game
+Error: -0.0237140406025
+Team 1 would win this game
+Error: -0.0400408335845
+Team 1 would win this game
+Error: -0.00952023587888
+Team 1 would win this game
+Error: -0.0482335903143
+Team 1 would win this game
+Error: -0.0390399536409
+Team 1 would win this game
+Error: 0.00311783076177
+Team 2 would win this game
+Error: -0.0180267569231
+Team 1 would win this game
+Error: 0.00124593237706
+Team 2 would win this game
+Error: -0.0513001213039
+Team 1 would win this game
+Error: -0.0164748092502
+Team 1 would win this game
+Error: -0.0183895074006
+Team 1 would win this game
+Error: -0.0356211383551
+Team 1 would win this game
+Error: -0.00110628083348
+Team 1 would win this game
+Error: -0.0544059351232
+Team 1 would win this game
+Error: -0.0451432190384
+Team 1 would win this game
+Error: -0.00817619448208
+Team 1 would win this game
+Error: -0.0641808209257
+Team 1 would win this game
+Error: -0.0262457931458
+Team 1 would win this game
+Error: -0.0134171870304
+Team 1 would win this game
+Error: -0.0483865244678
+Team 1 would win this game
+Error: -0.0233318795363
+Team 1 would win this game
+Error: -0.0275169886881
+Team 1 would win this game
+Error: -0.00935935899179
+Team 1 would win this game
+Error: -0.0170747416341
+Team 1 would win this game
+Error: -0.0164532954368
+Team 1 would win this game
+Error: -0.0489702886553
+Team 1 would win this game
+Error: -0.0364889106204
+Team 1 would win this game
+Error: -0.0180700115816
+Team 1 would win this game
+Error: -0.046357973777
+Team 1 would win this game
+Error: -0.0385869413294
+Team 1 would win this game
+Error: -0.0355482251252
+Team 1 would win this game
+Error: -0.0189059655095
+Team 1 would win this game
+Error: -0.0289335888156
+Team 1 would win this game
+Error: -0.000442871802079
+Team 1 would win this game
+Error: -0.0421705190456
+Team 1 would win this game
+Error: -0.016599651819
+Team 1 would win this game
+Error: -0.0173470470108
+Team 1 would win this game
+Error: -0.0221411615639
+Team 1 would win this game
+Error: -0.0287924167715
+Team 1 would win this game
+Error: -0.035996999708
+Team 1 would win this game
+Error: -0.017463878401
+Team 1 would win this game
+Error: -0.0399994608888
+Team 1 would win this game
+Error: -0.0228206847169
+Team 1 would win this game
+Error: -0.00887005448749
+Team 1 would win this game
+Error: -0.00557421715348
+Team 1 would win this game
+Error: -0.0327093717278
+Team 1 would win this game
+Error: -0.0110204765951
+Team 1 would win this game
+Error: -0.0214476013643
+Team 1 would win this game
+Error: -0.00912560983124
+Team 1 would win this game
+Error: -0.0157089293352
+Team 1 would win this game
+Error: -0.0428699693657
+Team 1 would win this game
+Error: -0.0390187193843
+Team 1 would win this game
+Error: -0.00477344724641
+Team 1 would win this game
+Error: -0.026715077991
+Team 1 would win this game
+Error: -0.0527928794909
+Team 1 would win this game
+Error: -0.0427677932021
+Team 1 would win this game
+Error: -0.0180971873997
+Team 1 would win this game
+Error: 0.00979585813911
+Team 2 would win this game
+Error: -0.0248285847556
+Team 1 would win this game
+Error: -0.069114006059
+Team 1 would win this game
+Error: -0.00232638876332
+Team 1 would win this game
+Error: 0.00704713159212
+Team 2 would win this game
+Error: -0.040527113204
+Team 1 would win this game
+Error: 0.0175399365471
+Team 2 would win this game
+Error: -0.0124354929576
+Team 1 would win this game
+Error: -0.00853033341991
+Team 1 would win this game
+Error: -0.0120892724444
+Team 1 would win this game
+Error: 0.00354211391823
+Team 2 would win this game
+Error: -0.0262411796284
+Team 1 would win this game
+Error: -0.00822393532144
+Team 1 would win this game
+Error: -0.0250923179919
+Team 1 would win this game
+Error: -0.0186877860979
+Team 1 would win this game
+Error: -0.00148564656411
+Team 1 would win this game
+Error: -0.0180748495623
+Team 1 would win this game
+Error: -0.0140820972301
+Team 1 would win this game
+Error: -0.0290484400321
+Team 1 would win this game
+Error: -0.0237536918357
+Team 1 would win this game
+Error: -0.040897733852
+Team 1 would win this game
+Error: -0.0296373070014
+Team 1 would win this game
+Error: -0.0116619826003
+Team 1 would win this game
+Error: -0.0418348173189
+Team 1 would win this game
+Error: -0.0074930760602
+Team 1 would win this game
+Error: -0.0127700858357
+Team 1 would win this game
+Error: -0.0209966385446
+Team 1 would win this game
+Error: -0.0282805423194
+Team 1 would win this game
+Error: -0.0194717166451
+Team 1 would win this game
+Error: -0.0415659251084
+Team 1 would win this game
+Error: -0.0412621500363
+Team 1 would win this game
+Error: 0.0165963678955
+Team 2 would win this game
+Error: 0.00109363693628
+Team 2 would win this game
+Error: -0.00594481536245
+Team 1 would win this game
+Error: -0.0313850340317
+Team 1 would win this game
+Error: -0.0519460366195
+Team 1 would win this game
+Error: 0.00046873845713
+Team 2 would win this game
+Error: -0.0163014125937
+Team 1 would win this game
+Error: 0.00782987530692
+Team 2 would win this game
+Error: -0.0592570130757
+Team 1 would win this game
+Error: -0.000633911055047
+Team 1 would win this game
+Error: -0.0246905667009
+Team 1 would win this game
+Error: -0.0311735304349
+Team 1 would win this game
+Error: -0.0228232933732
+Team 1 would win this game
+Error: -0.0298940559514
+Team 1 would win this game
+Error: 0.0189960192874
+Team 2 would win this game
+Error: -0.0503625930869
+Team 1 would win this game
+Error: -0.0194722579836
+Team 1 would win this game
+Error: 0.0064903409293
+Team 2 would win this game
+Error: -0.0399817307989
+Team 1 would win this game
+Error: -0.0319192390161
+Team 1 would win this game
+Error: -0.0369792911879
+Team 1 would win this game
+Error: -0.0326479715586
+Team 1 would win this game
+Error: -0.00590465382993
+Team 1 would win this game
+Error: -0.0240308475186
+Team 1 would win this game
+Error: -0.0462969449436
+Team 1 would win this game
+Error: -0.00181355272798
+Team 1 would win this game
+Error: -0.0253971352577
+Team 1 would win this game
+Error: -0.0496273970421
+Team 1 would win this game
+Error: -0.00133573020867
+Team 1 would win this game
+Error: -0.0139031316721
+Team 1 would win this game
+Error: -0.0229115507827
+Team 1 would win this game
+Error: -0.0344565313862
+Team 1 would win this game
+Error: -0.00642550515477
+Team 1 would win this game
+Error: -0.0810447764306
+Team 1 would win this game
+Error: 0.000760577975598
+Team 2 would win this game
+Error: -0.0700516863944
+Team 1 would win this game
+Error: 0.015365843632
+Team 2 would win this game
+Error: -0.0117015860815
+Team 1 would win this game
+Error: -0.05408920029
+Team 1 would win this game
+Error: -0.00124040252558
+Team 1 would win this game
+Error: -0.0515606810659
+Team 1 would win this game
+Error: -0.0406119448162
+Team 1 would win this game
+Error: -0.0401552136755
+Team 1 would win this game
+Error: -0.0255216640435
+Team 1 would win this game
+Error: -0.0364035905441
+Team 1 would win this game
+Error: -0.0431513711374
+Team 1 would win this game
+Error: -0.0247453963893
+Team 1 would win this game
+Error: 1.94610765902e-06
+Team 2 would win this game
+Error: 0.00507453381579
+Team 2 would win this game
+Error: -0.0541154113598
+Team 1 would win this game
+Error: -0.017997396717
+Team 1 would win this game
+Error: -0.0056537608034
+Team 1 would win this game
+Error: -0.0326269700527
+Team 1 would win this game
+Error: -0.0122358217995
+Team 1 would win this game
+Error: -0.0529921413909
+Team 1 would win this game
+Error: -0.0270822789098
+Team 1 would win this game
+Error: -0.0560998527217
+Team 1 would win this game
+Error: -0.0121120392214
+Team 1 would win this game
+Error: -0.030354027047
+Team 1 would win this game
+Error: 0.028699901748
+Team 2 would win this game
+Error: -0.0809390081558
+Team 1 would win this game
+Error: -0.0141671457095
+Team 1 would win this game
+Error: -0.0166852859402
+Team 1 would win this game
+Error: -0.0363331397457
+Team 1 would win this game
+Error: -0.0260648956901
+Team 1 would win this game
+Error: -0.0378123776827
+Team 1 would win this game
+Error: -0.0195287059469
+Team 1 would win this game
+Error: -0.0230137006874
+Team 1 would win this game
+Error: -0.0334929730889
+Team 1 would win this game
+Error: -0.07370829914
+Team 1 would win this game
+Error: -0.0545916920673
+Team 1 would win this game
+Error: -0.0178400548684
+Team 1 would win this game
+Error: 0.0136153083076
+Team 2 would win this game
+Error: -0.0217702392838
+Team 1 would win this game
+Error: -0.0103180183214
+Team 1 would win this game
+Error: -0.00509270649491
+Team 1 would win this game
+Error: 0.0247274842113
+Team 2 would win this game
+Error: -0.0074034712452
+Team 1 would win this game
+Error: 0.00939811511489
+Team 2 would win this game
+Error: -0.0580890204001
+Team 1 would win this game
+Error: -0.0269538830689
+Team 1 would win this game
+Error: -0.0477409477098
+Team 1 would win this game
+Error: -0.00833897234406
+Team 1 would win this game
+Error: -0.00529731196002
+Team 1 would win this game
+Error: -0.0491338779029
+Team 1 would win this game
+Error: -0.0411204118573
+Team 1 would win this game
+Error: 0.0122545009581
+Team 2 would win this game
+Error: 0.00484785306617
+Team 2 would win this game
+Error: -0.0303562143308
+Team 1 would win this game
+Error: -0.0527195011091
+Team 1 would win this game
+Error: -0.0226053692168
+Team 1 would win this game
+Error: -0.0124886514022
+Team 1 would win this game
+Error: -0.00648726781947
+Team 1 would win this game
+Error: -0.0497540667493
+Team 1 would win this game
+Error: -0.0266639987531
+Team 1 would win this game
+Error: -0.0206535337129
+Team 1 would win this game
+Error: -0.0179650850696
+Team 1 would win this game
+Error: -0.0211935315019
+Team 1 would win this game
+Error: -0.0315609157988
+Team 1 would win this game
+Error: -0.0133303250987
+Team 1 would win this game
+Error: 0.0134232437485
+Team 2 would win this game
+Error: -0.00915171069937
+Team 1 would win this game
+Error: -0.034530079618
+Team 1 would win this game
+Error: -0.0293074414731
+Team 1 would win this game
+Error: -0.0047911933143
+Team 1 would win this game
+Error: -0.0263711452208
+Team 1 would win this game
+Error: -0.00979133768851
+Team 1 would win this game
+Error: -0.0509830693263
+Team 1 would win this game
+Error: -0.0252396213837
+Team 1 would win this game
+Error: 0.0215284845544
+Team 2 would win this game
+Error: -0.0195375932526
+Team 1 would win this game
+Error: -0.0420801595756
+Team 1 would win this game
+Error: -0.00684520578943
+Team 1 would win this game
+Error: -0.0445016656231
+Team 1 would win this game
+Error: -0.0332544796183
+Team 1 would win this game
+Error: -0.00571827094973
+Team 1 would win this game
+Error: -0.0108825835414
+Team 1 would win this game
+Error: -0.0501666816854
+Team 1 would win this game
+Error: -0.0148538907961
+Team 1 would win this game
+Error: -0.04415744773
+Team 1 would win this game
+Error: 0.0135000482624
+Team 2 would win this game
+Error: 0.0051338669291
+Team 2 would win this game
+Error: -0.04161794213
+Team 1 would win this game
+Error: -0.0279658190484
+Team 1 would win this game
+Error: -0.023830207123
+Team 1 would win this game
+Error: -0.0186643317429
+Team 1 would win this game
+Error: -0.0313987283516
+Team 1 would win this game
+Error: -0.0143241311453
+Team 1 would win this game
+Error: -0.0190547414459
+Team 1 would win this game
+Error: -0.036055436045
+Team 1 would win this game
+Error: -0.0289203319917
+Team 1 would win this game
+Error: -0.0112781347052
+Team 1 would win this game
+Error: -0.0431652426632
+Team 1 would win this game
+Error: -0.0178041228937
+Team 1 would win this game
+Error: 0.00888820302498
+Team 2 would win this game
+Error: -0.0503085535311
+Team 1 would win this game
+Error: -0.0183962338633
+Team 1 would win this game
+Error: -0.00760033947154
+Team 1 would win this game
+Error: -0.0604559624044
+Team 1 would win this game
+Error: -0.0227209628938
+Team 1 would win this game
+Error: -0.0216151736677
+Team 1 would win this game
+Error: -0.00846098071634
+Team 1 would win this game
+Error: -0.00132341847348
+Team 1 would win this game
+Error: -0.0203961156367
+Team 1 would win this game
+Error: 0.0111854396673
+Team 2 would win this game
+Error: 0.0116994449927
+Team 2 would win this game
+Error: -0.0291125217336
+Team 1 would win this game
+Error: -0.00424196741369
+Team 1 would win this game
+Error: -0.0319838477444
+Team 1 would win this game
+Error: -0.00290795914771
+Team 1 would win this game
+Error: -0.0411062187704
+Team 1 would win this game
+Error: -0.0166538001286
+Team 1 would win this game
+Error: -0.0364868829274
+Team 1 would win this game
+Error: -0.0300972035548
+Team 1 would win this game
+Error: -0.00909182836767
+Team 1 would win this game
+Error: -0.0120920450645
+Team 1 would win this game
+Error: -0.010605071242
+Team 1 would win this game
+Error: -0.0618490143388
+Team 1 would win this game
+Error: -0.0233682543185
+Team 1 would win this game
+Error: -0.0312414496584
+Team 1 would win this game
+Error: -0.0337033953692
+Team 1 would win this game
+Error: -0.0163690118352
+Team 1 would win this game
+Error: -0.0144390162968
+Team 1 would win this game
+Error: -0.0145902796721
+Team 1 would win this game
+Error: 0.00168434839725
+Team 2 would win this game
+Error: 0.000320066115819
+Team 2 would win this game
+Error: -0.0318722243319
+Team 1 would win this game
+Error: -0.0189554952303
+Team 1 would win this game
+Error: -0.0100267191883
+Team 1 would win this game
+Error: 0.0198163967434
+Team 2 would win this game
+Error: -0.0189238112071
+Team 1 would win this game
+Error: -0.016177248428
+Team 1 would win this game
+Error: -0.046866660763
+Team 1 would win this game
+Error: -0.0525971261522
+Team 1 would win this game
+Error: -0.0156648434204
+Team 1 would win this game
+Error: -0.00904717552476
+Team 1 would win this game
+Error: -0.0608842378715
+Team 1 would win this game
+Error: -0.016109739794
+Team 1 would win this game
+Error: -0.066979007941
+Team 1 would win this game
+Error: -0.0540314719256
+Team 1 would win this game
+Error: 0.00428039996768
+Team 2 would win this game
+Error: -0.03251703969
+Team 1 would win this game
+Error: -0.000285718379018
+Team 1 would win this game
+Error: -0.0237301983798
+Team 1 would win this game
+Error: 0.0128412922932
+Team 2 would win this game
+Error: -0.00588031674124
+Team 1 would win this game
+Error: 0.00781612926221
+Team 2 would win this game
+Error: -0.0295149142257
+Team 1 would win this game
+Error: -0.0353585172998
+Team 1 would win this game
+Error: -0.0191962913668
+Team 1 would win this game
+Error: 0.000714651774615
+Team 2 would win this game
+Error: -0.0213934067651
+Team 1 would win this game
+Error: 0.0139428661132
+Team 2 would win this game
+Error: -0.0499579881289
+Team 1 would win this game
+Error: -0.0481249525183
+Team 1 would win this game
+Error: -0.0534420808763
+Team 1 would win this game
+Error: -0.00843729962799
+Team 1 would win this game
+Error: -0.00870982588094
+Team 1 would win this game
+Error: -0.0108622436237
+Team 1 would win this game
+Error: -0.0265295011195
+Team 1 would win this game
+Error: -0.0440892068218
+Team 1 would win this game
+Error: -0.023601130415
+Team 1 would win this game
+Error: -0.0120289242404
+Team 1 would win this game
+Error: -0.00269106384076
+Team 1 would win this game
+Error: -0.0068431812324
+Team 1 would win this game
+Error: -0.0370511990768
+Team 1 would win this game
+Error: 0.0118372494617
+Team 2 would win this game
+Error: -0.0182849442208
+Team 1 would win this game
+Error: -0.0455737886077
+Team 1 would win this game
+Error: -0.0526767327901
+Team 1 would win this game
+Error: 0.000973959482508
+Team 2 would win this game
+Error: -0.0130103686533
+Team 1 would win this game
+Error: -0.00731997133698
+Team 1 would win this game
+Error: -0.0169678700913
+Team 1 would win this game
+Error: -0.0411451304753
+Team 1 would win this game
+Error: -0.0150237584021
+Team 1 would win this game
+Error: -0.0147731309262
+Team 1 would win this game
+Error: -0.0181882383331
+Team 1 would win this game
+Error: 0.00220940393046
+Team 2 would win this game
+Error: -0.00863107895566
+Team 1 would win this game
+Error: -0.00594554441341
+Team 1 would win this game
+Error: -0.0270516289238
+Team 1 would win this game
+Error: -0.033854576046
+Team 1 would win this game
+Error: -0.0105942565933
+Team 1 would win this game
+Error: -0.0379506263052
+Team 1 would win this game
+Error: -0.00833062946185
+Team 1 would win this game
+Error: -0.0599487643412
+Team 1 would win this game
+Error: -0.0336380276422
+Team 1 would win this game
+Error: -0.0430959805381
+Team 1 would win this game
+Error: -0.0254296428902
+Team 1 would win this game
+Error: -0.0661060209313
+Team 1 would win this game
+Error: -0.0172543595327
+Team 1 would win this game
+Error: -0.0204109796032
+Team 1 would win this game
+Error: -0.0606549872828
+Team 1 would win this game
+Error: -0.0222264548647
+Team 1 would win this game
+Error: -0.0132700792019
+Team 1 would win this game
+Error: -0.00617921645608
+Team 1 would win this game
+Error: -0.00539651805593
+Team 1 would win this game
+Error: -0.0250612516465
+Team 1 would win this game
+Error: 0.0173362974456
+Team 2 would win this game
+Error: -0.0162625702724
+Team 1 would win this game
+Error: 0.0444134648424
+Team 2 would win this game
+Error: -0.0240036164032
+Team 1 would win this game
+Error: -0.0154350682278
+Team 1 would win this game
+Error: -0.0492965766098
+Team 1 would win this game
+Error: -0.00696358196001
+Team 1 would win this game
+Error: -0.00188370561227
+Team 1 would win this game
+Error: 0.0192273805442
+Team 2 would win this game
+Error: -0.0270789569695
+Team 1 would win this game
+Error: -0.0276228209041
+Team 1 would win this game
+Error: -0.0157649199318
+Team 1 would win this game
+Error: -0.0284834287668
+Team 1 would win this game
+Error: 0.000258659834799
+Team 2 would win this game
+Error: -0.0404085070695
+Team 1 would win this game
+Error: 0.000773466061219
+Team 2 would win this game
+Error: -0.0371137327675
+Team 1 would win this game
+Error: -0.0290185369886
+Team 1 would win this game
+Error: -0.0100910693509
+Team 1 would win this game
+Error: -0.0366315207939
+Team 1 would win this game
+Error: -0.0475511700279
+Team 1 would win this game
+Error: -0.0313517042741
+Team 1 would win this game
+Error: -0.018590127831
+Team 1 would win this game
+Error: -0.0600120134623
+Team 1 would win this game
+Error: -0.00419981635059
+Team 1 would win this game
+Error: 0.024990704238
+Team 2 would win this game
+Error: -0.00724144298874
+Team 1 would win this game
+Error: -0.00623468581034
+Team 1 would win this game
+Error: -0.0480743596709
+Team 1 would win this game
+Error: -0.00682507511374
+Team 1 would win this game
+Error: -0.0690967884875
+Team 1 would win this game
+Error: -0.0415775027141
+Team 1 would win this game
+Error: -0.026627670275
+Team 1 would win this game
+Error: -0.0430367388908
+Team 1 would win this game
+Error: 0.00473578383389
+Team 2 would win this game
+Error: -0.027898682747
+Team 1 would win this game
+Error: 0.017103882441
+Team 2 would win this game
+Error: -0.00103152139491
+Team 1 would win this game
+Error: -0.0375253100938
+Team 1 would win this game
+Error: 0.0159153129134
+Team 2 would win this game
+Error: -0.0291263521867
+Team 1 would win this game
+Error: -0.0352414656372
+Team 1 would win this game
+Error: -0.0590149023919
+Team 1 would win this game
+Error: -0.0258166324638
+Team 1 would win this game
+Error: -0.0166183109832
+Team 1 would win this game
+Error: -0.0277269053913
+Team 1 would win this game
+Error: -0.00140530132921
+Team 1 would win this game
+Error: -0.00514633674902
+Team 1 would win this game
+Error: -0.0404317160064
+Team 1 would win this game
+Error: -0.0143521006248
+Team 1 would win this game
+Error: -0.0227548154508
+Team 1 would win this game
+Error: -0.00607585132093
+Team 1 would win this game
+Error: -0.0041682793817
+Team 1 would win this game
+Error: -0.01287053743
+Team 1 would win this game
+Error: 0.0139202840655
+Team 2 would win this game
+Error: -0.0340944467607
+Team 1 would win this game
+Error: -0.0115408515194
+Team 1 would win this game
+Error: -0.0603338725195
+Team 1 would win this game
+Error: -0.00244355350878
+Team 1 would win this game
+Error: 0.0300604615841
+Team 2 would win this game
+Error: -0.0645964689829
+Team 1 would win this game
+Error: -0.0371170326907
+Team 1 would win this game
+Error: -0.0419315955878
+Team 1 would win this game
+Error: -0.0144094360003
+Team 1 would win this game
+Error: 0.00867627623666
+Team 2 would win this game
+Error: -0.0134870333859
+Team 1 would win this game
+Error: -0.0521332697244
+Team 1 would win this game
+Error: -0.0401597575474
+Team 1 would win this game
+Error: -0.0496561211985
+Team 1 would win this game
+Error: -0.0269694129747
+Team 1 would win this game
+Error: -0.00114419580495
+Team 1 would win this game
+Error: -0.00569014490611
+Team 1 would win this game
+Error: -0.0432001858062
+Team 1 would win this game
+Error: -0.0535094384322
+Team 1 would win this game
+Error: -0.0345581626971
+Team 1 would win this game
+Error: 0.003028703155
+Team 2 would win this game
+Error: -0.0360122191487
+Team 1 would win this game
+Error: -0.0328572243088
+Team 1 would win this game
+Error: -0.033768701629
+Team 1 would win this game
+Error: -0.0304815166382
+Team 1 would win this game
+Error: -0.0134204109781
+Team 1 would win this game
+Error: -0.0415801201889
+Team 1 would win this game
+Error: -0.0385653418125
+Team 1 would win this game
+Error: -0.0731681338366
+Team 1 would win this game
+Error: -0.0444109478776
+Team 1 would win this game
+Error: -0.0301611410832
+Team 1 would win this game
+Error: -0.00693681234407
+Team 1 would win this game
+Error: -0.0813884341478
+Team 1 would win this game
+Error: -0.012517961346
+Team 1 would win this game
+Error: -0.0423628929639
+Team 1 would win this game
+Error: -0.0196577252718
+Team 1 would win this game
+Error: -0.0135279023016
+Team 1 would win this game
+Error: -0.0379495272136
+Team 1 would win this game
+Error: -0.0147999329347
+Team 1 would win this game
+Error: -0.0383162992803
+Team 1 would win this game
+Error: -0.039054220113
+Team 1 would win this game
+Error: -0.059639086292
+Team 1 would win this game
+Error: -0.037570551649
+Team 1 would win this game
+Error: -0.00459830209002
+Team 1 would win this game
+Error: -0.0514999343868
+Team 1 would win this game
+Error: -0.038732433306
+Team 1 would win this game
+Error: -0.0291774321595
+Team 1 would win this game
+Error: -0.0581770031276
+Team 1 would win this game
+Error: -0.067124496265
+Team 1 would win this game
+Error: -0.0158417162456
+Team 1 would win this game
+Error: -0.0108209989558
+Team 1 would win this game
+Error: -0.0159856864993
+Team 1 would win this game
+Error: -0.034978426811
+Team 1 would win this game
+Error: -0.0664893484354
+Team 1 would win this game
+Error: 0.0084140412946
+Team 2 would win this game
+Error: -7.94759471319e-05
+Team 1 would win this game
+Error: -0.0116691151197
+Team 1 would win this game
+Error: -0.0211381283298
+Team 1 would win this game
+Error: -0.036780288101
+Team 1 would win this game
+Error: -0.0304195831268
+Team 1 would win this game
+Error: -0.0181604241443
+Team 1 would win this game
+Error: -0.00349786247534
+Team 1 would win this game
+Error: -0.0287927426907
+Team 1 would win this game
+Error: -0.0281472975403
+Team 1 would win this game
+Error: -0.0586893358704
+Team 1 would win this game
+Error: -0.0522173855716
+Team 1 would win this game
+Error: -0.0168030463174
+Team 1 would win this game
+Error: -0.0352777716616
+Team 1 would win this game
+Error: -0.0548511661837
+Team 1 would win this game
+Error: 0.00159070081281
+Team 2 would win this game
+Error: -0.0232728761548
+Team 1 would win this game
+Error: -0.000641967955744
+Team 1 would win this game
+Error: -0.0490776925217
+Team 1 would win this game
+Error: -0.00447566167713
+Team 1 would win this game
+Error: -0.00673810351873
+Team 1 would win this game
+Error: -0.0238027647574
+Team 1 would win this game
+Error: -0.01837282208
+Team 1 would win this game
+Error: -0.0394201505842
+Team 1 would win this game
+Error: -0.0558370068175
+Team 1 would win this game
+Error: -0.0404595948203
+Team 1 would win this game
+Error: -0.0168411045233
+Team 1 would win this game
+Error: -0.0091540856447
+Team 1 would win this game
+Error: -0.0515146959224
+Team 1 would win this game
+Error: -0.0133506258135
+Team 1 would win this game
+Error: -0.0262427055932
+Team 1 would win this game
+Error: -0.00554645372176
+Team 1 would win this game
+Error: -0.0110131647234
+Team 1 would win this game
+Error: -0.0137518384945
+Team 1 would win this game
+Error: -0.0274677650741
+Team 1 would win this game
+Error: -0.0426791564532
+Team 1 would win this game
+Error: -0.00689509225776
+Team 1 would win this game
+Error: -0.055984129307
+Team 1 would win this game
+Error: -0.0110776915099
+Team 1 would win this game
+Error: -0.00216932177864
+Team 1 would win this game
+Error: 0.0110925800109
+Team 2 would win this game
+Error: -0.0258791243104
+Team 1 would win this game
+Error: -0.0404132829572
+Team 1 would win this game
+Error: -0.00175233442133
+Team 1 would win this game
+Error: -0.0656042158007
+Team 1 would win this game
+Error: -0.0267083388389
+Team 1 would win this game
+Error: -0.0163245273798
+Team 1 would win this game
+Error: -0.00427162148844
+Team 1 would win this game
+Error: -0.038604418769
+Team 1 would win this game
+Error: -0.0568786469012
+Team 1 would win this game
+Error: -0.0112773047731
+Team 1 would win this game
+Error: -0.0131027086536
+Team 1 would win this game
+Error: -0.0281786226187
+Team 1 would win this game
+Error: -0.0383556771631
+Team 1 would win this game
+Error: -0.0644448606326
+Team 1 would win this game
+Error: -0.0340978003733
+Team 1 would win this game
+Error: -0.0226601397153
+Team 1 would win this game
+Error: -0.0525041565925
+Team 1 would win this game
+Error: -0.0573463756446
+Team 1 would win this game
+Error: -0.0194868033868
+Team 1 would win this game
+Error: -0.0393710275021
+Team 1 would win this game
+Error: -0.0377576717001
+Team 1 would win this game
+Error: -0.0191750954182
+Team 1 would win this game
+Error: 0.0264478895406
+Team 2 would win this game
+Error: -0.0209816645656
+Team 1 would win this game
+Error: -0.0587913867057
+Team 1 would win this game
+Error: -0.0340619470808
+Team 1 would win this game
+Error: -0.0537829186578
+Team 1 would win this game
+Error: -0.035062054405
+Team 1 would win this game
+Error: -0.0222233608947
+Team 1 would win this game
+Error: 0.00118023328105
+Team 2 would win this game
+Error: -0.0466462627737
+Team 1 would win this game
+Error: -0.0365581674851
+Team 1 would win this game
+Error: -0.055601983935
+Team 1 would win this game
+Error: -0.012903359835
+Team 1 would win this game
+Error: -0.0250546824391
+Team 1 would win this game
+Error: -0.0540288061966
+Team 1 would win this game
+Error: -0.00986040496355
+Team 1 would win this game
+Error: -0.0190977813181
+Team 1 would win this game
+Error: -0.0494286918474
+Team 1 would win this game
+Error: -0.0296798369964
+Team 1 would win this game
+Error: -0.06968649802
+Team 1 would win this game
+Error: -0.0134153118925
+Team 1 would win this game
+Error: -0.0248169370607
+Team 1 would win this game
+Error: -0.0371718006063
+Team 1 would win this game
+Error: -0.0070534205006
+Team 1 would win this game
+Error: -0.037516350465
+Team 1 would win this game
+Error: -0.00532925809239
+Team 1 would win this game
+Error: -0.00801156835951
+Team 1 would win this game
+Error: -0.0993773735536
+Team 1 would win this game
+Error: -0.0226066930773
+Team 1 would win this game
+Error: -0.0469217607897
+Team 1 would win this game
+Error: -0.053311653086
+Team 1 would win this game
+Error: -0.0208078007709
+Team 1 would win this game
+Error: -0.0564342308789
+Team 1 would win this game
+Error: -0.0383908149161
+Team 1 would win this game
+Error: -0.0233876922939
+Team 1 would win this game
+Error: -0.0223644198486
+Team 1 would win this game
+Error: -0.0311864081013
+Team 1 would win this game
+Error: -0.0605606828904
+Team 1 would win this game
+Error: -0.0446880052332
+Team 1 would win this game
+Error: -0.00513751929248
+Team 1 would win this game
+Error: -0.0678616605437
+Team 1 would win this game
+Error: -0.0106135024616
+Team 1 would win this game
+Error: -0.0414370006765
+Team 1 would win this game
+Error: -0.0464552602571
+Team 1 would win this game
+Error: -0.004155736955
+Team 1 would win this game
+Error: -0.0164948130696
+Team 1 would win this game
+Error: -0.0193942381593
+Team 1 would win this game
+Error: -0.0166314273592
+Team 1 would win this game
+Error: -0.0578831298626
+Team 1 would win this game
+Error: -0.0493703541215
+Team 1 would win this game
+Error: -0.0544043083792
+Team 1 would win this game
+Error: -0.00655388003361
+Team 1 would win this game
+Error: -0.025773414236
+Team 1 would win this game
+Error: 0.010192634807
+Team 2 would win this game
+Error: -0.0244944040387
+Team 1 would win this game
+Error: -0.0369019588252
+Team 1 would win this game
+Error: -0.0512822524252
+Team 1 would win this game
+Error: -0.0135875262495
+Team 1 would win this game
+Error: -0.0640807599193
+Team 1 would win this game
+Error: -0.00757405569311
+Team 1 would win this game
+Error: -0.0405674663052
+Team 1 would win this game
+Error: -0.0233537087261
+Team 1 would win this game
+Error: -0.0156464292231
+Team 1 would win this game
+Error: -0.0310599221557
+Team 1 would win this game
+Error: 0.00493032961822
+Team 2 would win this game
+Error: -0.0195788358978
+Team 1 would win this game
+Error: -0.0180073917581
+Team 1 would win this game
+Error: -0.0562305233761
+Team 1 would win this game
+Error: -0.0223843438944
+Team 1 would win this game
+Error: -0.0558069066828
+Team 1 would win this game
+Error: -0.0263578701924
+Team 1 would win this game
+Error: -0.0324743790188
+Team 1 would win this game
+Error: -0.0309315275954
+Team 1 would win this game
+Error: -0.0403315010772
+Team 1 would win this game
+Error: 0.0104282486427
+Team 2 would win this game
+Error: -0.0545134213171
+Team 1 would win this game
+Error: -0.0267433873523
+Team 1 would win this game
+Error: -0.023006886142
+Team 1 would win this game
+Error: 0.00893003163219
+Team 2 would win this game
+Error: -0.0046328958706
+Team 1 would win this game
+Error: -0.00790311976743
+Team 1 would win this game
+Error: -0.0188266639016
+Team 1 would win this game
+Error: -0.0216721266916
+Team 1 would win this game
+Error: 0.000784373587521
+Team 2 would win this game
+Error: -0.024218610255
+Team 1 would win this game
+Error: -0.0471884720537
+Team 1 would win this game
+Error: -0.0337430625514
+Team 1 would win this game
+Error: -0.0122636744782
+Team 1 would win this game
+Error: -0.080408980597
+Team 1 would win this game
+Error: -0.00624028852326
+Team 1 would win this game
+Error: 0.0190460888043
+Team 2 would win this game
+Error: -0.0161687242726
+Team 1 would win this game
+Error: 0.00592046748352
+Team 2 would win this game
+Error: -0.0558077320893
+Team 1 would win this game
+Error: -0.047863699001
+Team 1 would win this game
+Error: -0.00823681378824
+Team 1 would win this game
+Error: -0.0190793846195
+Team 1 would win this game
+Error: -0.0112919553285
+Team 1 would win this game
+Error: -0.0187033363036
+Team 1 would win this game
+Error: -0.0164960131369
+Team 1 would win this game
+Error: -0.0270471216645
+Team 1 would win this game
+Error: -0.0176415118258
+Team 1 would win this game
+Error: -0.0291962053598
+Team 1 would win this game
+Error: -0.0129241039031
+Team 1 would win this game
+Error: -0.0490675977053
+Team 1 would win this game
+Error: -0.0192262019773
+Team 1 would win this game
+Error: -0.0330567242781
+Team 1 would win this game
+Error: -0.0323558744276
+Team 1 would win this game
+Error: -0.0211344415657
+Team 1 would win this game
+Error: -0.0414724107613
+Team 1 would win this game
+Error: -0.0326505115299
+Team 1 would win this game
+Error: -0.0161763057258
+Team 1 would win this game
+Error: -0.0268832577713
+Team 1 would win this game
+Error: -0.0105463446016
+Team 1 would win this game
+Error: -0.00192370180594
+Team 1 would win this game
+Error: -0.0137001023759
+Team 1 would win this game
+Error: -0.0277965326459
+Team 1 would win this game
+Error: -0.033033773565
+Team 1 would win this game
+Error: -0.0327250252813
+Team 1 would win this game
+Error: -0.0591190832492
+Team 1 would win this game
+Error: -0.0499439886262
+Team 1 would win this game
+Error: -0.0177072935257
+Team 1 would win this game
+Error: -0.0573408846103
+Team 1 would win this game
+Error: -0.0379519517301
+Team 1 would win this game
+Error: 0.0115068950836
+Team 2 would win this game
+Error: -0.00192871275067
+Team 1 would win this game
+Error: -0.0334022240859
+Team 1 would win this game
+Error: 0.00160621463874
+Team 2 would win this game
+Error: -0.0206787122224
+Team 1 would win this game
+Error: 0.016134661033
+Team 2 would win this game
+Error: -0.0394725297374
+Team 1 would win this game
+Error: -0.0104273527904
+Team 1 would win this game
+Error: -0.00773728141212
+Team 1 would win this game
+Error: -0.0107617296453
+Team 1 would win this game
+Error: -0.026396518726
+Team 1 would win this game
+Error: -0.00610240526294
+Team 1 would win this game
+Error: -0.0342410297235
+Team 1 would win this game
+Error: -0.0316775033571
+Team 1 would win this game
+Error: -0.0843292309801
+Team 1 would win this game
+Error: -0.0155760959824
+Team 1 would win this game
+Error: -0.00534382631304
+Team 1 would win this game
+Error: -0.0396064045999
+Team 1 would win this game
+Error: 0.00629481417127
+Team 2 would win this game
+Error: -0.032485676551
+Team 1 would win this game
+Error: -0.047960496704
+Team 1 would win this game
+Error: -0.029811110544
+Team 1 would win this game
+Error: -0.0322713561618
+Team 1 would win this game
+Error: -0.0699575250619
+Team 1 would win this game
+Error: -0.00518985915551
+Team 1 would win this game
+Error: -0.0220065805843
+Team 1 would win this game
+Error: -0.050483899824
+Team 1 would win this game
+Error: -0.0168320244993
+Team 1 would win this game
+Error: -0.0267887260707
+Team 1 would win this game
+Error: -0.0527990927949
+Team 1 would win this game
+Error: -0.0315767332722
+Team 1 would win this game
+Error: -0.0164920011084
+Team 1 would win this game
+Error: -0.0156591123305
+Team 1 would win this game
+Error: -0.0154096803817
+Team 1 would win this game
+Error: -0.0140352965027
+Team 1 would win this game
+Error: -0.0170540296967
+Team 1 would win this game
+Error: -0.0448801895836
+Team 1 would win this game
+Error: -0.00463022397889
+Team 1 would win this game
+Error: -0.0109715757062
+Team 1 would win this game
+Error: -0.0277178462784
+Team 1 would win this game
+Error: -0.0116672197328
+Team 1 would win this game
+Error: 0.00169851266401
+Team 2 would win this game
+Error: -0.0189111636428
+Team 1 would win this game
+Error: -0.00896983302664
+Team 1 would win this game
+Error: -0.0410881735515
+Team 1 would win this game
+Error: -0.0517746458427
+Team 1 would win this game
+Error: -0.029846840378
+Team 1 would win this game
+Error: -0.00949445403239
+Team 1 would win this game
+Error: -0.0188813223212
+Team 1 would win this game
+Error: -0.0158245995844
+Team 1 would win this game
+Error: -0.0013308612688
+Team 1 would win this game
+Error: 0.00116384987632
+Team 2 would win this game
+Error: -0.0350968649509
+Team 1 would win this game
+Error: -0.0231290785596
+Team 1 would win this game
+Error: -0.0331054979761
+Team 1 would win this game
+Error: -0.0264496687087
+Team 1 would win this game
+Error: -0.0378602866331
+Team 1 would win this game
+Error: -0.0230233058319
+Team 1 would win this game
+Error: -0.0320745062272
+Team 1 would win this game
+Error: -0.00903932658548
+Team 1 would win this game
+Error: -0.00201622307941
+Team 1 would win this game
+Error: -0.00627050254843
+Team 1 would win this game
+Error: -0.0384809893294
+Team 1 would win this game
+Error: -0.00976369172713
+Team 1 would win this game
+Error: -0.0405600250378
+Team 1 would win this game
+Error: -0.0182316573191
+Team 1 would win this game
+Error: -0.00988028719439
+Team 1 would win this game
+Error: 0.00392166204983
+Team 2 would win this game
+Error: -0.00664749585849
+Team 1 would win this game
+Error: -0.00237385691435
+Team 1 would win this game
+Error: -0.0133817006645
+Team 1 would win this game
+Error: -0.0615957085902
+Team 1 would win this game
+Error: -0.0284300553321
+Team 1 would win this game
+Error: -0.00481941444741
+Team 1 would win this game
+Error: -0.0358634146905
+Team 1 would win this game
+Error: -0.018671630256
+Team 1 would win this game
+Error: -0.0351026232966
+Team 1 would win this game
+Error: -0.0178441274184
+Team 1 would win this game
+Error: -0.0250109348417
+Team 1 would win this game
+Error: -0.0212804158509
+Team 1 would win this game
+Error: -0.0487043370595
+Team 1 would win this game
+Error: -0.029251107735
+Team 1 would win this game
+Error: -0.0208987277801
+Team 1 would win this game
+Error: -0.0243783132028
+Team 1 would win this game
+Error: 0.00353544237441
+Team 2 would win this game
+Error: 0.00154823619232
+Team 2 would win this game
+Error: -0.00566869565955
+Team 1 would win this game
+Error: -0.0247986928516
+Team 1 would win this game
+Error: -0.0148300511064
+Team 1 would win this game
+Error: -0.012537258488
+Team 1 would win this game
+Error: 0.00957529461448
+Team 2 would win this game
+Error: -0.0306808240421
+Team 1 would win this game
+Error: -0.0143270231711
+Team 1 would win this game
+Error: -0.0383185815153
+Team 1 would win this game
+Error: 0.00232044530276
+Team 2 would win this game
+Error: -0.0314035700503
+Team 1 would win this game
+Error: -0.0365121668074
+Team 1 would win this game
+Error: -0.0189275379744
+Team 1 would win this game
+Error: -0.0325353934168
+Team 1 would win this game
+Error: -0.0400530983607
+Team 1 would win this game
+Error: -0.0498703961857
+Team 1 would win this game
+Error: -0.0122693831581
+Team 1 would win this game
+Error: -0.0273023988411
+Team 1 would win this game
+Error: -0.0238063197539
+Team 1 would win this game
+Error: -0.00161447647406
+Team 1 would win this game
+Error: -0.0304424141505
+Team 1 would win this game
+Error: 0.0108971117224
+Team 2 would win this game
+Error: 0.00810036964685
+Team 2 would win this game
+Error: -0.0510005018878
+Team 1 would win this game
+Error: -0.0160061415882
+Team 1 would win this game
+Error: -0.00475958794414
+Team 1 would win this game
+Error: 0.0141333673673
+Team 2 would win this game
+Error: -0.0247845605845
+Team 1 would win this game
+Error: -0.0416159725646
+Team 1 would win this game
+Error: -0.017865508431
+Team 1 would win this game
+Error: -0.0446132828292
+Team 1 would win this game
+Error: -0.0319066124866
+Team 1 would win this game
+Error: -0.00877597629733
+Team 1 would win this game
+Error: -0.0393739584542
+Team 1 would win this game
+Error: -0.0301933212395
+Team 1 would win this game
+Error: -0.0446503798157
+Team 1 would win this game
+Error: -0.0469765982562
+Team 1 would win this game
+Error: -0.0297961848046
+Team 1 would win this game
+Error: -0.014705823538
+Team 1 would win this game
+Error: -0.0462558938234
+Team 1 would win this game
+Error: -0.0374253323971
+Team 1 would win this game
+Error: -0.051299216495
+Team 1 would win this game
+Error: 0.0102406154256
+Team 2 would win this game
+Error: -0.0327263199797
+Team 1 would win this game
+Error: -0.0368499186006
+Team 1 would win this game
+Error: 0.0019202123076
+Team 2 would win this game
+Error: -0.0125324351247
+Team 1 would win this game
+Error: -0.0573187833215
+Team 1 would win this game
+Error: -0.00721548286674
+Team 1 would win this game
+Error: 0.0259985792509
+Team 2 would win this game
+Error: 0.00273864708288
+Team 2 would win this game
+Error: -0.00653433671687
+Team 1 would win this game
+Error: 0.00681950540456
+Team 2 would win this game
+Error: -0.0370730286304
+Team 1 would win this game
+Error: -0.0370938851265
+Team 1 would win this game
+Error: -0.0307911084819
+Team 1 would win this game
+Error: -0.00440642533067
+Team 1 would win this game
+Error: -0.0384253003067
+Team 1 would win this game
+Error: -0.00853377632302
+Team 1 would win this game
+Error: -0.0755665902834
+Team 1 would win this game
+Error: -0.0276113477958
+Team 1 would win this game
+Error: -0.067327950921
+Team 1 would win this game
+Error: -0.0583924497405
+Team 1 would win this game
+Error: -0.0305306222144
+Team 1 would win this game
+Error: -0.0235935614401
+Team 1 would win this game
+Error: -0.0575753319426
+Team 1 would win this game
+Error: -0.053520693029
+Team 1 would win this game
+Error: -0.0254415524178
+Team 1 would win this game
+Error: -0.0101468611683
+Team 1 would win this game
+Error: -0.0558723981158
+Team 1 would win this game
+Error: -0.0389758632518
+Team 1 would win this game
+Error: -0.0668554227159
+Team 1 would win this game
+Error: -0.0136231733195
+Team 1 would win this game
+Error: -0.0432648802962
+Team 1 would win this game
+Error: -0.0402261805211
+Team 1 would win this game
+Error: -0.0296265167053
+Team 1 would win this game
+Error: -0.02739929175
+Team 1 would win this game
+Error: -0.0273012097241
+Team 1 would win this game
+Error: -0.0105862692944
+Team 1 would win this game
+Error: -0.0108257171232
+Team 1 would win this game
+Error: -0.0605787848835
+Team 1 would win this game
+Error: 0.0124188414411
+Team 2 would win this game
+Error: 0.0138034360134
+Team 2 would win this game
+Error: 0.023399624748
+Team 2 would win this game
+Error: 0.00757356511895
+Team 2 would win this game
+Error: -0.0476121174652
+Team 1 would win this game
+Error: 0.0248049005095
+Team 2 would win this game
+Error: -0.0571123955524
+Team 1 would win this game
+Error: -0.0698707363699
+Team 1 would win this game
+Error: -0.00154452092829
+Team 1 would win this game
+Error: -0.0500669349785
+Team 1 would win this game
+Error: -0.0184477104413
+Team 1 would win this game
+Error: -0.0570532827478
+Team 1 would win this game
+Error: -0.0598242954729
+Team 1 would win this game
+Error: -0.0155152455045
+Team 1 would win this game
+Error: 0.0159681163568
+Team 2 would win this game
+Error: -0.0269329335206
+Team 1 would win this game
+Error: -0.0616230325177
+Team 1 would win this game
+Error: -0.0528625283914
+Team 1 would win this game
+Error: -0.0296711536139
+Team 1 would win this game
+Error: -0.0679708611278
+Team 1 would win this game
+Error: -0.000147856699186
+Team 1 would win this game
+Error: -0.0164585702441
+Team 1 would win this game
+Error: 0.000325241824612
+Team 2 would win this game
+Error: 0.00167451026937
+Team 2 would win this game
+Error: 0.00391782125371
+Team 2 would win this game
+Error: -0.0234805980581
+Team 1 would win this game
+Error: -0.0104011386502
+Team 1 would win this game
+Error: -0.0799937191114
+Team 1 would win this game
+Error: -0.0234582426565
+Team 1 would win this game
+Error: 0.00964723350626
+Team 2 would win this game
+Error: -0.00966886655806
+Team 1 would win this game
+Error: 0.000715665693861
+Team 2 would win this game
+Error: -0.0278025469161
+Team 1 would win this game
+Error: -0.0292886071111
+Team 1 would win this game
+Error: -0.0414247894005
+Team 1 would win this game
+Error: -0.0690881369374
+Team 1 would win this game
+Error: -0.0305722730482
+Team 1 would win this game
+Error: -0.0416081361691
+Team 1 would win this game
+Error: 0.0279635734987
+Team 2 would win this game
+Error: -0.0316664205966
+Team 1 would win this game
+Error: -0.01764933698
+Team 1 would win this game
+Error: -0.0245242784367
+Team 1 would win this game
+Error: 0.0134516687467
+Team 2 would win this game
+Error: -0.0284023876739
+Team 1 would win this game
+Error: -0.0380463475958
+Team 1 would win this game
+Error: -0.00257030755165
+Team 1 would win this game
+Error: -0.0171946951232
+Team 1 would win this game
+Error: 0.00845344899426
+Team 2 would win this game
+Error: -0.00347583836992
+Team 1 would win this game
+Error: 0.00570067909575
+Team 2 would win this game
+Error: -0.00848105931072
+Team 1 would win this game
+Error: -0.0460271086922
+Team 1 would win this game
+Error: 0.000586352507526
+Team 2 would win this game
+Error: 0.0205681645748
+Team 2 would win this game
+Error: -0.0214653178627
+Team 1 would win this game
+Error: -0.0726061461246
+Team 1 would win this game
+Error: -0.00135827320628
+Team 1 would win this game
+Error: -0.00887321362097
+Team 1 would win this game
+Error: 0.000464703844045
+Team 2 would win this game
+Error: -0.0477156252309
+Team 1 would win this game
+Error: -0.0240061249497
+Team 1 would win this game
+Error: -0.0661988858119
+Team 1 would win this game
+Error: -0.038418320175
+Team 1 would win this game
+Error: -0.0362123670566
+Team 1 would win this game
+Error: -0.0351924965144
+Team 1 would win this game
+Error: -0.000787424753071
+Team 1 would win this game
+Error: -0.0103158762577
+Team 1 would win this game
+Error: -0.041011054549
+Team 1 would win this game
+Error: -0.00987447368971
+Team 1 would win this game
+Error: -0.00502238315676
+Team 1 would win this game
+Error: -0.023098237958
+Team 1 would win this game
+Error: -0.0488505132453
+Team 1 would win this game
+Error: -0.0551024684974
+Team 1 would win this game
+Error: -0.00983295184415
+Team 1 would win this game
+Error: -0.000551703000383
+Team 1 would win this game
+Error: -0.0333908637913
+Team 1 would win this game
+Error: -0.0450704172472
+Team 1 would win this game
+Error: -0.0393882762146
+Team 1 would win this game
+Error: 0.0177954803366
+Team 2 would win this game
+Error: 0.00597325941635
+Team 2 would win this game
+Error: 0.0097468484164
+Team 2 would win this game
+Error: -0.0295626107618
+Team 1 would win this game
+Error: -0.0235344125176
+Team 1 would win this game
+Error: -0.0326495418776
+Team 1 would win this game
+Error: -0.050827351326
+Team 1 would win this game
+Error: -0.0298378102234
+Team 1 would win this game
+Error: -0.0689605506705
+Team 1 would win this game
+Error: 0.0127528186276
+Team 2 would win this game
+Error: 0.034472739746
+Team 2 would win this game
+Error: -0.0202590229674
+Team 1 would win this game
+Error: -0.0301080742429
+Team 1 would win this game
+Error: -0.0138599428901
+Team 1 would win this game
+Error: 0.0117204410344
+Team 2 would win this game
+Error: -0.0585113434936
+Team 1 would win this game
+Error: 0.0358782326221
+Team 2 would win this game
+Error: -0.0459002854986
+Team 1 would win this game
+Error: -0.0434463036727
+Team 1 would win this game
+Error: -0.114412966461
+Team 1 would win this game
+Error: -0.0303743457989
+Team 1 would win this game
+Error: 0.00518729726173
+Team 2 would win this game
+Error: -0.0247696431616
+Team 1 would win this game
+Error: -0.0340635103494
+Team 1 would win this game
+Error: -0.0220198510724
+Team 1 would win this game
+Error: -0.0156745176355
+Team 1 would win this game
+Error: -0.0234689863719
+Team 1 would win this game
+Error: -0.0178553725636
+Team 1 would win this game
+Error: -0.0169149040812
+Team 1 would win this game
+Error: -0.000576055128477
+Team 1 would win this game
+Error: -0.00559633900411
+Team 1 would win this game
+Error: -0.026263119682
+Team 1 would win this game
+Error: 0.0160851785404
+Team 2 would win this game
+Error: -0.0274245817491
+Team 1 would win this game
+Error: -0.0426806613323
+Team 1 would win this game
+Error: -0.0201026610739
+Team 1 would win this game
+Error: -0.010178390221
+Team 1 would win this game
+Error: -0.0446583755038
+Team 1 would win this game
+Error: -0.0232185211789
+Team 1 would win this game
+Error: -0.0369858797349
+Team 1 would win this game
+Error: -0.0333741774812
+Team 1 would win this game
+Error: -0.0449411307345
+Team 1 would win this game
+Error: -0.0150955121717
+Team 1 would win this game
+Error: -0.0261571426745
+Team 1 would win this game
+Error: -0.0479300993466
+Team 1 would win this game
+Error: 0.0357912337786
+Team 2 would win this game
+Error: -0.0342517409881
+Team 1 would win this game
+Error: -0.0146293633734
+Team 1 would win this game
+Error: -0.0230899898525
+Team 1 would win this game
+Error: -0.0453011637874
+Team 1 would win this game
+Error: -0.00754527944082
+Team 1 would win this game
+Error: -0.0303582019478
+Team 1 would win this game
+Error: -0.0452872601381
+Team 1 would win this game
+Error: -0.030809030839
+Team 1 would win this game
+Error: 0.00811270445411
+Team 2 would win this game
+Error: -0.0334336297456
+Team 1 would win this game
+Error: -0.0494411321051
+Team 1 would win this game
+Error: -0.0175909749596
+Team 1 would win this game
+Error: 0.00169254333741
+Team 2 would win this game
+Error: -0.0022728404947
+Team 1 would win this game
+Error: -0.0900872809216
+Team 1 would win this game
+Error: -0.0384334448099
+Team 1 would win this game
+Error: -0.0440665989008
+Team 1 would win this game
+Error: -0.0137832810869
+Team 1 would win this game
+Error: -0.00792170290515
+Team 1 would win this game
+Error: -0.0535476125879
+Team 1 would win this game
+Error: 0.0130619105475
+Team 2 would win this game
+Error: -0.02220061759
+Team 1 would win this game
+Error: -0.0288767702223
+Team 1 would win this game
+Error: -0.0516388353062
+Team 1 would win this game
+Error: -0.00719590380322
+Team 1 would win this game
+Error: -0.00987530067505
+Team 1 would win this game
+Error: -0.0348115451998
+Team 1 would win this game
+Error: -0.0279130701674
+Team 1 would win this game
+Error: -0.0633890440222
+Team 1 would win this game
+Error: 0.0245144734363
+Team 2 would win this game
+Error: -0.0184049277013
+Team 1 would win this game
+Error: -0.0509166908887
+Team 1 would win this game
+Error: 0.0152914214341
+Team 2 would win this game
+Error: -0.0231587469534
+Team 1 would win this game
+Error: -0.00413446177117
+Team 1 would win this game
+Error: 0.000517833206686
+Team 2 would win this game
+Error: -0.0170713415282
+Team 1 would win this game
+Error: -0.0221954413428
+Team 1 would win this game
+Error: -0.0389974024511
+Team 1 would win this game
+Error: -0.0485078443016
+Team 1 would win this game
+Error: -0.035457969796
+Team 1 would win this game
+Error: -0.0191349000088
+Team 1 would win this game
+Error: -0.0207847176207
+Team 1 would win this game
+Error: -0.0504021076267
+Team 1 would win this game
+Error: -0.0308587102118
+Team 1 would win this game
+Error: 0.00447803556017
+Team 2 would win this game
+Error: -0.0370600516471
+Team 1 would win this game
+Error: -0.0192955405073
+Team 1 would win this game
+Error: -0.0312602934137
+Team 1 would win this game
+Error: -0.040922678847
+Team 1 would win this game
+Error: 0.00363616892719
+Team 2 would win this game
+Error: -0.0258307405165
+Team 1 would win this game
+Error: -0.0337907139765
+Team 1 would win this game
+Error: -0.0277729790323
+Team 1 would win this game
+Error: -0.0111982987946
+Team 1 would win this game
+Error: -0.0132874837072
+Team 1 would win this game
+Error: 0.0162257563425
+Team 2 would win this game
+Error: 0.00743008338759
+Team 2 would win this game
+Error: -0.00389494436968
+Team 1 would win this game
+Error: 0.0136658725896
+Team 2 would win this game
+Error: -0.0140455161818
+Team 1 would win this game
+Error: -0.00112012472528
+Team 1 would win this game
+Error: -0.0342508436152
+Team 1 would win this game
+Error: -0.0563780005323
+Team 1 would win this game
+Error: -0.0461150275805
+Team 1 would win this game
+Error: 0.00353185005224
+Team 2 would win this game
+Error: -0.0161445789927
+Team 1 would win this game
+Error: -0.0250970962006
+Team 1 would win this game
+Error: -0.0305857163694
+Team 1 would win this game
+Error: -0.00285783077561
+Team 1 would win this game
+Error: -0.0181351288775
+Team 1 would win this game
+Error: -0.0109530408299
+Team 1 would win this game
+Error: -0.0319755001692
+Team 1 would win this game
+Error: -0.039993166778
+Team 1 would win this game
+Error: 0.011014927557
+Team 2 would win this game
+Error: -0.0431855708521
+Team 1 would win this game
+Error: -0.0188821354677
+Team 1 would win this game
+Error: -0.0107855355236
+Team 1 would win this game
+Error: -0.0416442899004
+Team 1 would win this game
+Error: -0.109135227591
+Team 1 would win this game
+Error: -0.0359069956103
+Team 1 would win this game
+Error: -0.067779680925
+Team 1 would win this game
+Error: -0.027792924986
+Team 1 would win this game
+Error: 0.00636833428143
+Team 2 would win this game
+Error: -0.0302215359916
+Team 1 would win this game
+Error: -0.00412187449547
+Team 1 would win this game
+Error: -0.0524687664438
+Team 1 would win this game
+Error: -0.0219725798524
+Team 1 would win this game
+Error: -0.0440946585659
+Team 1 would win this game
+Error: -0.0318362638427
+Team 1 would win this game
+Error: -0.0390789825251
+Team 1 would win this game
+Error: -0.0581284080981
+Team 1 would win this game
+Error: -0.063550730425
+Team 1 would win this game
+Error: -0.0161813892846
+Team 1 would win this game
+Error: -0.00954536287463
+Team 1 would win this game
+Error: -0.0135215680784
+Team 1 would win this game
+Error: 0.00139720029983
+Team 2 would win this game
+Error: -0.0150142187995
+Team 1 would win this game
+Error: 0.00558852487302
+Team 2 would win this game
+Error: -0.0447336192083
+Team 1 would win this game
+Error: -0.0207127044923
+Team 1 would win this game
+Error: 0.00425683508365
+Team 2 would win this game
+Error: -0.0320841362845
+Team 1 would win this game
+Error: -0.00596089383907
+Team 1 would win this game
+Error: -0.00327189447853
+Team 1 would win this game
+Error: -0.000791055026639
+Team 1 would win this game
+Error: -0.0266496874756
+Team 1 would win this game
+Error: -0.0430946927518
+Team 1 would win this game
+Error: 0.039890636057
+Team 2 would win this game
+Error: -0.00483971582435
+Team 1 would win this game
+Error: -0.00850336055009
+Team 1 would win this game
+Error: -0.0204252823314
+Team 1 would win this game
+Error: -0.0240650639826
+Team 1 would win this game
+Error: 0.00266432168428
+Team 2 would win this game
+Error: -0.0127751583641
+Team 1 would win this game
+Error: -0.0328630629592
+Team 1 would win this game
+Error: -0.0219503749686
+Team 1 would win this game
+Error: -0.0646245996613
+Team 1 would win this game
+Error: -0.02017026455
+Team 1 would win this game
+Error: -0.015307334128
+Team 1 would win this game
+Error: -0.0100391807864
+Team 1 would win this game
+Error: -0.0164737494561
+Team 1 would win this game
+Error: -0.029540790485
+Team 1 would win this game
+Error: -0.0106167242557
+Team 1 would win this game
+Error: 0.00532716006273
+Team 2 would win this game
+Error: -0.0117039690522
+Team 1 would win this game
+Error: -0.00707795527705
+Team 1 would win this game
+Error: -0.0162741343374
+Team 1 would win this game
+Error: -0.0185629823536
+Team 1 would win this game
+Error: -0.0323569528191
+Team 1 would win this game
+Error: -0.0114396099307
+Team 1 would win this game
+Error: -0.00763961474149
+Team 1 would win this game
+Error: -0.0495418705032
+Team 1 would win this game
+Error: -0.0484433253368
+Team 1 would win this game
+Error: -0.0121941511097
+Team 1 would win this game
+Error: -0.0104151153719
+Team 1 would win this game
+Error: -0.0103890865648
+Team 1 would win this game
+Error: -0.0415154846996
+Team 1 would win this game
+Error: -0.0173750618342
+Team 1 would win this game
+Error: -0.0575300202181
+Team 1 would win this game
+Error: -0.0330779637152
+Team 1 would win this game
+Error: -0.0796351324461
+Team 1 would win this game
+Error: -0.0243884381853
+Team 1 would win this game
+Error: -0.0227922616323
+Team 1 would win this game
+Error: -0.0387410222247
+Team 1 would win this game
+Error: 0.00264097837498
+Team 2 would win this game
+Error: -0.00172997377376
+Team 1 would win this game
+Error: -0.00280299840961
+Team 1 would win this game
+Error: -0.0165489376741
+Team 1 would win this game
+Error: -0.0411658260055
+Team 1 would win this game
+Error: -0.0589676729942
+Team 1 would win this game
+Error: -0.00860661383922
+Team 1 would win this game
+Error: 0.0115513470373
+Team 2 would win this game
+Error: -0.0232097371627
+Team 1 would win this game
+Error: -0.0670348708736
+Team 1 would win this game
+Error: -0.0294448435598
+Team 1 would win this game
+Error: -0.0225024369065
+Team 1 would win this game
+Error: -0.00951342626649
+Team 1 would win this game
+Error: -0.0326251728911
+Team 1 would win this game
+Error: -0.0158815472023
+Team 1 would win this game
+Error: -0.014173666772
+Team 1 would win this game
+Error: -0.0113421921124
+Team 1 would win this game
+Error: -0.022217784579
+Team 1 would win this game
+Error: -0.0171292584782
+Team 1 would win this game
+Error: -0.00117785236216
+Team 1 would win this game
+Error: -0.0532793974562
+Team 1 would win this game
+Error: -0.0167765416772
+Team 1 would win this game
+Error: -0.0653011903996
+Team 1 would win this game
+Error: -0.0405901231279
+Team 1 would win this game
+Error: -0.0315368143783
+Team 1 would win this game
+Error: 0.00754940433399
+Team 2 would win this game
+Error: -0.0148247307152
+Team 1 would win this game
+Error: -0.0066213223472
+Team 1 would win this game
+Error: -0.00161045331333
+Team 1 would win this game
+Error: -0.00124204375606
+Team 1 would win this game
+Error: -0.0659591492295
+Team 1 would win this game
+Error: -0.0199252953826
+Team 1 would win this game
+Error: -0.0188371729237
+Team 1 would win this game
+Error: -0.0286752238826
+Team 1 would win this game
+Error: -0.0404249629937
+Team 1 would win this game
+Error: 0.00224137106852
+Team 2 would win this game
+Error: -0.0143071353887
+Team 1 would win this game
+Error: -0.00625472934189
+Team 1 would win this game
+Error: -0.0520393764018
+Team 1 would win this game
+Error: -0.012667569521
+Team 1 would win this game
+Error: -0.0123288224349
+Team 1 would win this game
+Error: -0.0339259345128
+Team 1 would win this game
+Error: -0.0198024041965
+Team 1 would win this game
+Error: -0.0471708381519
+Team 1 would win this game
+Error: -0.00873812238569
+Team 1 would win this game
+Error: -0.0102514398095
+Team 1 would win this game
+Error: -0.0252769838262
+Team 1 would win this game
+Error: -0.0167132020651
+Team 1 would win this game
+Error: -0.00993097334867
+Team 1 would win this game
+Error: -0.0688077212108
+Team 1 would win this game
+Error: -0.0298165987551
+Team 1 would win this game
+Error: -0.0263786225914
+Team 1 would win this game
+Error: -0.026539099832
+Team 1 would win this game
+Error: -0.0442891386701
+Team 1 would win this game
+Error: -0.0303027133923
+Team 1 would win this game
+Error: -0.0272588716252
+Team 1 would win this game
+Error: -0.00716890813783
+Team 1 would win this game
+Error: 0.00929726737377
+Team 2 would win this game
+Error: -0.0329814973884
+Team 1 would win this game
+Error: -0.0243697407641
+Team 1 would win this game
+Error: -0.00595681468985
+Team 1 would win this game
+Error: -0.0303785056385
+Team 1 would win this game
+Error: -0.0209587704521
+Team 1 would win this game
+Error: -0.0430923968888
+Team 1 would win this game
+Error: -0.0281309437341
+Team 1 would win this game
+Error: -0.00635158674413
+Team 1 would win this game
+Error: -0.000814523235022
+Team 1 would win this game
+Error: -0.0284680158074
+Team 1 would win this game
+Error: 0.0103876779613
+Team 2 would win this game
+Error: -0.0408814518742
+Team 1 would win this game
+Error: -0.0435788634786
+Team 1 would win this game
+Error: -0.0237888803531
+Team 1 would win this game
+Error: -0.0333080570781
+Team 1 would win this game
+Error: -0.0213910426901
+Team 1 would win this game
+Error: -0.0646259053028
+Team 1 would win this game
+Error: -0.0524809019989
+Team 1 would win this game
+Error: -0.0343557764718
+Team 1 would win this game
+Error: -0.00777611444209
+Team 1 would win this game
+Error: -0.00826755158778
+Team 1 would win this game
+Error: 0.000204394513275
+Team 2 would win this game
+Error: 0.019504771597
+Team 2 would win this game
+Error: -0.0332976139543
+Team 1 would win this game
+Error: -0.0385385169793
+Team 1 would win this game
+Error: -0.0369973869165
+Team 1 would win this game
+Error: -0.0120560572686
+Team 1 would win this game
+Error: -0.0368074518992
+Team 1 would win this game
+Error: 0.00488733653765
+Team 2 would win this game
+Error: 0.00815556578164
+Team 2 would win this game
+Error: -0.0368707387606
+Team 1 would win this game
+Error: 0.000533486752829
+Team 2 would win this game
+Error: -0.0130731438912
+Team 1 would win this game
+Error: -0.0509528143521
+Team 1 would win this game
+Error: -0.0041061084994
+Team 1 would win this game
+Error: -0.00414073176216
+Team 1 would win this game
+Error: -0.0381997995064
+Team 1 would win this game
+Error: -0.0234537561264
+Team 1 would win this game
+Error: -0.0311027638672
+Team 1 would win this game
+Error: -0.0089581975044
+Team 1 would win this game
+Error: -0.00705427406501
+Team 1 would win this game
+Error: -0.0247123570152
+Team 1 would win this game
+Error: -0.0268304181591
+Team 1 would win this game
+Error: -0.0274425604657
+Team 1 would win this game
+Error: 0.00300287023856
+Team 2 would win this game
+Error: -0.0344051678185
+Team 1 would win this game
+Error: -0.0320532130936
+Team 1 would win this game
+Error: -0.0421522708202
+Team 1 would win this game
+Error: -0.0202712976752
+Team 1 would win this game
+Error: -0.014878082271
+Team 1 would win this game
+Error: -0.00142275984399
+Team 1 would win this game
+Error: -0.0160574113906
+Team 1 would win this game
+Error: -0.0190180281061
+Team 1 would win this game
+Error: -0.0121685318882
+Team 1 would win this game
+Error: -0.00613783350855
+Team 1 would win this game
+Error: -0.00426420322765
+Team 1 would win this game
+Error: -0.0164828698253
+Team 1 would win this game
+Error: 0.00587746119709
+Team 2 would win this game
+Error: -0.0310006098298
+Team 1 would win this game
+Error: -0.00730269316409
+Team 1 would win this game
+Error: -0.0447290847951
+Team 1 would win this game
+Error: -0.0054626523488
+Team 1 would win this game
+Error: -0.00164516616496
+Team 1 would win this game
+Error: -0.00479260942666
+Team 1 would win this game
+Error: 0.00703190010245
+Team 2 would win this game
+Error: -0.0136906191401
+Team 1 would win this game
+Error: -0.00198933375214
+Team 1 would win this game
+Error: -0.0536380417543
+Team 1 would win this game
+Error: -0.0610992627626
+Team 1 would win this game
+Error: -0.00302982854191
+Team 1 would win this game
+Error: -0.0225511046738
+Team 1 would win this game
+Error: -0.0141433558965
+Team 1 would win this game
+Error: -0.0410657690372
+Team 1 would win this game
+Error: -0.0721465201641
+Team 1 would win this game
+Error: -0.014919005378
+Team 1 would win this game
+Error: -0.0181217718782
+Team 1 would win this game
+Error: -0.0196625046883
+Team 1 would win this game
+Error: -0.0427243687227
+Team 1 would win this game
+Error: -0.0378150040997
+Team 1 would win this game
+Error: -0.0160089005585
+Team 1 would win this game
+Error: 0.00182540782407
+Team 2 would win this game
+Error: -0.0346248338465
+Team 1 would win this game
+Error: -0.0249020595584
+Team 1 would win this game
+Error: -0.045455224943
+Team 1 would win this game
+Error: -0.0253109888145
+Team 1 would win this game
+Error: -0.00761920451623
+Team 1 would win this game
+Error: -0.0199568681492
+Team 1 would win this game
+Error: -0.0134135230837
+Team 1 would win this game
+Error: -0.0118135319935
+Team 1 would win this game
+Error: -0.0222226935293
+Team 1 would win this game
+Error: -0.0294434357565
+Team 1 would win this game
+Error: -0.0234824081563
+Team 1 would win this game
+Error: -0.0516078929504
+Team 1 would win this game
+Error: -0.00110176442831
+Team 1 would win this game
+Error: -0.0286843799986
+Team 1 would win this game
+Error: -0.0280235161117
+Team 1 would win this game
+Error: 0.0214218186156
+Team 2 would win this game
+Error: 0.00820270179247
+Team 2 would win this game
+Error: -0.0172946248058
+Team 1 would win this game
+Error: -0.0182338501836
+Team 1 would win this game
+Error: -0.0643285390834
+Team 1 would win this game
+Error: -0.0290021802211
+Team 1 would win this game
+Error: -0.00155104778969
+Team 1 would win this game
+Error: -0.0307003405469
+Team 1 would win this game
+Error: -0.0153593809009
+Team 1 would win this game
+Error: -0.0633861607348
+Team 1 would win this game
+Error: -0.0364271693252
+Team 1 would win this game
+Error: -0.0295439102483
+Team 1 would win this game
+Error: -0.0464463619428
+Team 1 would win this game
+Error: 0.0201404100444
+Team 2 would win this game
+Error: -0.0281406503127
+Team 1 would win this game
+Error: -0.00714777367102
+Team 1 would win this game
+Error: -0.0211688276249
+Team 1 would win this game
+Error: -0.0159188336474
+Team 1 would win this game
+Error: -0.0318280737265
+Team 1 would win this game
+Error: -0.0464413604932
+Team 1 would win this game
+Error: -0.0312623444406
+Team 1 would win this game
+Error: -0.00474145166663
+Team 1 would win this game
+Error: -1.96764376597e-05
+Team 1 would win this game
+Error: -0.00391608857171
+Team 1 would win this game
+Error: -0.0344488599803
+Team 1 would win this game
+Error: -0.0150554617794
+Team 1 would win this game
+Error: 0.00816181479604
+Team 2 would win this game
+Error: -0.0255813797849
+Team 1 would win this game
+Error: -0.0225666196275
+Team 1 would win this game
+Error: -0.0426334566655
+Team 1 would win this game
+Error: 0.000342170402291
+Team 2 would win this game
+Error: -0.0292055835671
+Team 1 would win this game
+Error: -0.03351385524
+Team 1 would win this game
+Error: -0.0244894141506
+Team 1 would win this game
+Error: -0.0614899846041
+Team 1 would win this game
+Error: -0.0117045252991
+Team 1 would win this game
+Error: 0.00183154043771
+Team 2 would win this game
+Error: -0.0536246640113
+Team 1 would win this game
+Error: -0.0416314879185
+Team 1 would win this game
+Error: -0.0238230769683
+Team 1 would win this game
+Error: -0.0689107104918
+Team 1 would win this game
+Error: -0.000835389320855
+Team 1 would win this game
+Error: -0.0225979963725
+Team 1 would win this game
+Error: -0.00424657671101
+Team 1 would win this game
+Error: -0.0693028568785
+Team 1 would win this game
+Error: 0.0107632912695
+Team 2 would win this game
+Error: -0.0389253166795
+Team 1 would win this game
+Error: -0.0282326592569
+Team 1 would win this game
+Error: -0.0201596217739
+Team 1 would win this game
+Error: -0.0353620953611
+Team 1 would win this game
+Error: -0.0732586597805
+Team 1 would win this game
+Error: -0.0176560727268
+Team 1 would win this game
+Error: 0.0211139956518
+Team 2 would win this game
+Error: -0.0104889578797
+Team 1 would win this game
+Error: -0.0103269679021
+Team 1 would win this game
+Error: -0.0156655822502
+Team 1 would win this game
+Error: -0.038198278191
+Team 1 would win this game
+Error: -0.0141943782364
+Team 1 would win this game
+Error: -0.0687095657559
+Team 1 would win this game
+Error: -0.0226140162122
+Team 1 would win this game
+Error: -0.0232007719605
+Team 1 would win this game
+Error: -0.0663640140119
+Team 1 would win this game
+Error: 0.00521601962828
+Team 2 would win this game
+Error: -0.000243659167609
+Team 1 would win this game
+Error: -0.0308192492012
+Team 1 would win this game
+Error: -0.0144067649308
+Team 1 would win this game
+Error: -0.0251182873471
+Team 1 would win this game
+Error: -0.0371713426066
+Team 1 would win this game
+Error: -0.0372572958149
+Team 1 would win this game
+Error: 0.0100938427786
+Team 2 would win this game
+Error: -0.0570770291233
+Team 1 would win this game
+Error: -0.0128427068485
+Team 1 would win this game
+Error: -0.0545874662203
+Team 1 would win this game
+Error: 0.00692058679124
+Team 2 would win this game
+Error: -0.0395519282538
+Team 1 would win this game
+Error: -0.0342320526397
+Team 1 would win this game
+Error: -0.0169088469847
+Team 1 would win this game
+Error: -0.0326378400641
+Team 1 would win this game
+Error: -0.0365693078202
+Team 1 would win this game
+Error: -0.0259085270882
+Team 1 would win this game
+Error: -0.00323836873577
+Team 1 would win this game
+Error: -0.0492070150067
+Team 1 would win this game
+Error: -0.0120376837003
+Team 1 would win this game
+Error: -0.0283729470248
+Team 1 would win this game
+Error: 0.00914817297598
+Team 2 would win this game
